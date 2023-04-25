@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Coronavirus Pandemic: Real Time Counter, World Map, News
+http://moontools.me:8080/coquitopram/a9770/1135328
+#EXTINF:-1,Coronavirus Pandemic: Real Time Counter, World Map, News2
+http://moontools.me:8080/coquitopram/a9770/1135607
