@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,****VENEZUELA****
+http://moontools.me:8080/Freddy/Freddy321456/14260
+
+#EXTINF:-1,Venezuela|| Canal i
+http://moontools.me:8080/Freddy/Freddy321456/1115068
+
+#EXTINF:-1,Venezuela|| CGNTV
+http://moontools.me:8080/Freddy/Freddy321456/1115066
+
+#EXTINF:-1,Venezuela|| Telesur
+http://moontools.me:8080/Freddy/Freddy321456/1115080
+
+#EXTINF:-1,Venezuela|| TV Conciencia
+http://moontools.me:8080/Freddy/Freddy321456/1115076
+
+#EXTINF:-1,Venezuela|| TV FAMILIA
+http://moontools.me:8080/Freddy/Freddy321456/1115081
+
+#EXTINF:-1,Venezuela|| Venevision
+http://moontools.me:8080/Freddy/Freddy321456/1115090
+
+#EXTINF:-1,Venezuela|| Venevision OPC2
+http://moontools.me:8080/Freddy/Freddy321456/1115089
+
+
+#EXTINF:-1,Venezuela|| Venezolana de Television
+http://moontools.me:8080/Freddy/Freddy321456/1115088
+
+#EXTINF:-1,Venezuela|| Televen
+http://moontools.me:8080/Freddy/Freddy321456/1321126
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal i | VE" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",Canal i | VE
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Promar TV" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",Promar TV
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR I VE" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",TELESUR I VE
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telesur | VE" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",Telesur | VE
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televen | VE" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",Televen | VE
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Maracay | VE" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",TVS Maracay | VE
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Urban TV | ES" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",Urban TV | ES
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN: MERIDIANO" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",VEN: MERIDIANO
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN: VENEVISION" tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",VEN: VENEVISION
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VEN: VENEVISION PLUS  " tvg-logo="http://visualservice.xyz:8080/images/ab4a040c24f482bc7e2caee17867c334.png" group-title="VENEZUELA",VEN: VENEVISION PLUS  
+http://visualservice.xyz:8080/live/Wito34/5fZ5rKT/297286.m3u8
+#EXTINF:-1,VENEZUELA - ANZOATEGUI TV
+http://tv.soccerplus.link:8000/live/Lucho052023/Jrxprt/1056.m3u8
+
+#EXTINF:-1,VENEZUELA - PROMAR TV
+http://tv.soccerplus.link:8000/live/Lucho052023/Jrxprt/67514.m3u8
+
+#EXTINF:-1,VENEZUELA - VALE TV
+http://tv.soccerplus.link:8000/live/Lucho052023/Jrxprt/90045.m3u8
+
+#EXTINF:-1,VENEZUELA - CANTINA TV
+http://tv.soccerplus.link:8000/live/Lucho052023/Jrxprt/67525.m3u8
+
+#EXTINF:-1,VENEZUELA - OXIGENO TV
+http://tv.soccerplus.link:8000/live/Lucho052023/Jrxprt/67515.m3u8
+
+#EXTINF:-1,VENEZUELA - TVS MARACAY
+http://tv.soccerplus.link:8000/live/Lucho052023/Jrxprt/67492.m3u8
+
+
+
+
+
+
+
+
+
+
