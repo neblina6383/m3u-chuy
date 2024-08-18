@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1,3ABN LATINO
+http://45.166.92.22:58001/play/a04z/index.m3u8
+
+#EXTINF:-1,A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+
+#EXTINF:-1,AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+
+#EXTINF:-1,Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8
+
+#EXTINF:-1,Antena 3
+http://45.166.92.22:58001/play/a041/index.m3u8
+
+#EXTINF:-1,Azcorazon
+http://45.166.92.22:58001/play/a02z/index.m3u8
+
+#EXTINF:-1,Boomerang
+http://45.166.92.22:58001/play/a02u/index.m3u8
+
+#EXTINF:-1,CARTOON NT HD
+http://45.166.92.22:58001/play/a03y/index.m3u8
+
+#EXTINF:-1,CHOLUSAT SUR
+http://45.166.92.22:58001/play/a04e/index.m3u8
+
+#EXTINF:-1,CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+
+
