@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,****HONDURAS****
-http://moontools.me:8080/movie/Freddy/Freddy321456/57351.mkv
-
-
+#EXTINF:-1,****HONDURAS***
 http://moontools.me:8080/Freddy/Freddy321456/14296
 #EXTINF:-1,Honduras || Tigo Sports (Eventos)
 http://moontools.me:8080/Freddy/Freddy321456/1131707
@@ -42,6 +39,8 @@ http://moontools.me:8080/movie/Freddy/Freddy321456/1486504.mkv
 http://dns.k4livetv.com:80/movie/Jose/1234/1078717.mkv
 #EXTINF:-1,Rapida y Mortal: 1995 HD
 http://tvlatino.club:2082/movie/Ronald831/AEZWkaUr8mXN/372767.mkv
+#EXTINF:-1,Rapida y Mortal: 1995 HD 2
+http://moontools.me:8080/movie/Freddy/Freddy321456/57351.mkv
 #EXTINF:-1,MX | ADN 40
 http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1165064
 #EXTINF:-1,MX | Animal Planet
