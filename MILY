@@ -1,5 +1,49 @@
 #EXTM3U
 
+#EXTINF:-1,US: ESPN 1 FHD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28843
+
+#EXTINF:-1,US: ESPN 1 VIP
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28842
+
+#EXTINF:-1,US: ESPN 2
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28838
+
+#EXTINF:-1,US: ESPN 2 FHD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28841
+
+#EXTINF:-1,US: ESPN 2 FHD VIP
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28840
+
+#EXTINF:-1,US: ESPN 2 HD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28839
+
+#EXTINF:-1,US: ESPN 2 VIP
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28837
+
+#EXTINF:-1,US: ESPN DEPORTES FHD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/38503
+
+#EXTINF:-1,US: ESPN 1 HD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28836
+
+#EXTINF:-1,US: ESPN News HD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28833
+
+#EXTINF:-1,US: ESPN News US HD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/38502
+
+#EXTINF:-1,US: ESPN U HD
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28835
+
+#EXTINF:-1,ESPAÑA ||| ETB Sat
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1171011
+
+#EXTINF:-1,ESPAÑA ||| ETB 1
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1171012
+
+#EXTINF:-1,ESPAÑA ||| ETB 2
+http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1171013
 
 #EXTINF:-1,MX | ADN 40
 http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1165064
@@ -15,6 +59,8 @@ http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1165074
 http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1165075
 #EXTINF:-1,MX | INTENSAMENTE 2
 http://moontools.me:8080/movie/Freddy/Freddy321456/1737704.mkv
+#EXTINF:-1,MX | CANTINFLAS
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/159338.m3u8
 
 #EXTINF:-1,MX | Cartoonito
 http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1165076
@@ -727,50 +773,6 @@ http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1451766
 #EXTINF:-1,MX || Televisa Ciudad Juarez
 http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1451767
 
-#EXTINF:-1,US: ESPN 1 FHD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28843
-
-#EXTINF:-1,US: ESPN 1 VIP
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28842
-
-#EXTINF:-1,US: ESPN 2
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28838
-
-#EXTINF:-1,US: ESPN 2 FHD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28841
-
-#EXTINF:-1,US: ESPN 2 FHD VIP
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28840
-
-#EXTINF:-1,US: ESPN 2 HD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28839
-
-#EXTINF:-1,US: ESPN 2 VIP
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28837
-
-#EXTINF:-1,US: ESPN DEPORTES FHD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/38503
-
-#EXTINF:-1,US: ESPN 1 HD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28836
-
-#EXTINF:-1,US: ESPN News HD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28833
-
-#EXTINF:-1,US: ESPN News US HD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/38502
-
-#EXTINF:-1,US: ESPN U HD
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/28835
-
-#EXTINF:-1,ESPAÑA ||| ETB Sat
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1171011
-
-#EXTINF:-1,ESPAÑA ||| ETB 1
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1171012
-
-#EXTINF:-1,ESPAÑA ||| ETB 2
-http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/1171013
 
 #EXTINF:-1,Dep|| beIN Sports en Español |USA Opc 1
 http://moontools.me:8080/alexInmteraCma100x/wTWFap537G/111863
