@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,ADN 40 | MX
 http://iptvglobal.site:80/kilo8900/kilo8900/444023.m3u8
 #EXTINF:-1,Televisa GDL Canal 4
@@ -42,9 +41,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/163338.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/163336.m3u8
 #EXTINF:-1,IZMX | A+
 http://iptvglobal.site:80/kilo8900/kilo8900/163335.m3u8
-#EXTINF:-
-
-1,IZMX | ESPN 3
+#EXTINF:-1,IZMX | ESPN 3
 http://iptvglobal.site:80/kilo8900/kilo8900/163334.m3u8
 #EXTINF:-1,IZMX | HBO 2
 http://iptvglobal.site:80/kilo8900/kilo8900/163331.m3u8
@@ -70,9 +67,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/163306.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/163302.m3u8
 #EXTINF:-1,IZMX | FX
 http://iptvglobal.site:80/kilo8900/kilo8900/163299.m3u8
-#EXTINF:-
-
-1,Milenio
+#EXTINF:-1,Milenio
 http://iptvglobal.site:80/kilo8900/kilo8900/131328.m3u8
 #EXTINF:-1,MILENIO NOTICIAS
 http://iptvglobal.site:80/kilo8900/kilo8900/131327.m3u8
@@ -106,17 +101,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/124471.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/124470.m3u8
 #EXTINF:-1,ADN 40 #2
 http://iptvglobal.site:80/kilo8900/kilo8900/122600.m3u8
-#EXTINF:-
-
-1,Multimedios MTY
+#EXTINF:-1,Multimedios MTY
 http://iptvglobal.site:80/kilo8900/kilo8900/88260.m3u8
 #EXTINF:-1,MX | Estrellas
 http://iptvglobal.site:80/kilo8900/kilo8900/88257.m3u8
 #EXTINF:-1,Canal 5
 http://iptvglobal.site:80/kilo8900/kilo8900/88254.m3u8
-#EXTINF:-
-
-1,Azteca Uno
+#EXTINF:-1,Azteca Uno
 http://iptvglobal.site:80/kilo8900/kilo8900/88253.m3u8
 #EXTINF:-1,MX| TELEMAX HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87246.m3u8
@@ -144,9 +135,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87223.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87221.m3u8
 #EXTINF:-1,MXVIP| AMC
 http://iptvglobal.site:80/kilo8900/kilo8900/87220.m3u8
-#EXTINF:-
-
-1,MXVIP| Golden Plus
+#EXTINF:-1,MXVIP| Golden Plus
 http://iptvglobal.site:80/kilo8900/kilo8900/87215.m3u8
 #EXTINF:-1,MXVIP| Golden
 http://iptvglobal.site:80/kilo8900/kilo8900/87214.m3u8
@@ -158,17 +147,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87212.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87202.m3u8
 #EXTINF:-1,MX| Canal 5
 http://iptvglobal.site:80/kilo8900/kilo8900/87198.m3u8
-#EXTINF:-
-
-1,MX| BANDAMAX HD
+#EXTINF:-1,MX| BANDAMAX HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87193.m3u8
 #EXTINF:-1,MX| ESPN XTRA HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87187.m3u8
 #EXTINF:-1,MX| TUDN HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87180.m3u8
-#EXTINF:-
-
-1,MX| MULTIMEDIOS HD
+#EXTINF:-1,MX| MULTIMEDIOS HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87173.m3u8
 #EXTINF:-1,MX| CANAL ONCE HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87170.m3u8
@@ -196,9 +181,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87134.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87133.m3u8
 #EXTINF:-1,MX| CANAL DE LAS ESTRELLAS FHD -2HRS
 http://iptvglobal.site:80/kilo8900/kilo8900/87132.m3u8
-#EXTINF:-1,MX| CANAL DE LAS 
-
-ESTRELLAS -2HRS
+#EXTINF:-1,MX| CANAL DE LAS ESTRELLAS -2HRS
 http://iptvglobal.site:80/kilo8900/kilo8900/87131.m3u8
 #EXTINF:-1,MX| CANAL DE LAS ESTRELLAS HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87130.m3u8
@@ -278,17 +261,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87024.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87023.m3u8
 #EXTINF:-1,HBO HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87022.m3u8
-#EXTINF:-1,FOX 
-
-SPORTS 3 HD
+#EXTINF:-1,FOX SPORTS 3 HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87020.m3u8
 #EXTINF:-1,TUDN USA
 http://iptvglobal.site:80/kilo8900/kilo8900/87018.m3u8
 #EXTINF:-1,TNT HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87017.m3u8
-#EXTINF:-1,HBO 
-
-POP HD
+#EXTINF:-1,HBO POP HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87016.m3u8
 #EXTINF:-1,WARNER CHANNEL HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87014.m3u8
@@ -300,17 +279,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87010.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87009.m3u8
 #EXTINF:-1,SONY HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87005.m3u8
-#EXTINF:-
-
-1,PARAMOUNT HD
+#EXTINF:-1,PARAMOUNT HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87004.m3u8
 #EXTINF:-1,NICK HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87002.m3u8
 #EXTINF:-1,MILENIO HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86998.m3u8
-#EXTINF:-
-
-1,LIFETIME HD
+#EXTINF:-1,LIFETIME HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86997.m3u8
 #EXTINF:-1,CANAL DE LAS ESTRELLAS -2HRS HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86996.m3u8
@@ -322,9 +297,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/86994.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/86993.m3u8
 #EXTINF:-1,GOLDEN HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86992.m3u8
-#EXTINF:-
-
-1,FX HD
+#EXTINF:-1,FX HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86990.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86989.m3u8
@@ -336,41 +309,31 @@ http://iptvglobal.site:80/kilo8900/kilo8900/86980.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/86979.m3u8
 #EXTINF:-1,ESPN HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86978.m3u8
-#EXTINF:-1,E! 
-
-ENTERTAINMENT
+#EXTINF:-1,E! ENTERTAINMENT
 http://iptvglobal.site:80/kilo8900/kilo8900/86977.m3u8
 #EXTINF:-1,CINEMAX
 http://iptvglobal.site:80/kilo8900/kilo8900/86974.m3u8
 #EXTINF:-1,CINECANAL
 http://iptvglobal.site:80/kilo8900/kilo8900/86973.m3u8
-#EXTINF:-
-
-1,AZTECA CORAZON
+#EXTINF:-1,AZTECA CORAZON
 http://iptvglobal.site:80/kilo8900/kilo8900/86968.m3u8
 #EXTINF:-1,AZTECA CINEMA
 http://iptvglobal.site:80/kilo8900/kilo8900/86967.m3u8
 #EXTINF:-1,AZTECA 7
 http://iptvglobal.site:80/kilo8900/kilo8900/86966.m3u8
-#EXTINF:-
-
-1,Cine LAT: CINE ESTELAR
+#EXTINF:-1,Cine LAT: CINE ESTELAR
 http://iptvglobal.site:80/kilo8900/kilo8900/512475.m3u8
 #EXTINF:-1,A&E
 http://iptvglobal.site:80/kilo8900/kilo8900/170750.m3u8
 #EXTINF:-1,Universal
 http://iptvglobal.site:80/kilo8900/kilo8900/170749.m3u8
-#EXTINF:-
-
-1,TNT 2
+#EXTINF:-1,TNT 2
 http://iptvglobal.site:80/kilo8900/kilo8900/170748.m3u8
 #EXTINF:-1,Studio Universal 2
 http://iptvglobal.site:80/kilo8900/kilo8900/170747.m3u8
 #EXTINF:-1,Space
 http://iptvglobal.site:80/kilo8900/kilo8900/170745.m3u8
-#EXTINF:-
-
-1,Sony 2
+#EXTINF:-1,Sony 2
 http://iptvglobal.site:80/kilo8900/kilo8900/170744.m3u8
 #EXTINF:-1,HBO POP
 http://iptvglobal.site:80/kilo8900/kilo8900/170741.m3u8
@@ -380,9 +343,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/170740.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/170739.m3u8
 #EXTINF:-1,HBO 2
 http://iptvglobal.site:80/kilo8900/kilo8900/170738.m3u8
-#EXTINF:-1,HBO 
-
-LATINO
+#EXTINF:-1,HBO LATINO
 http://iptvglobal.site:80/kilo8900/kilo8900/140934.m3u8
 #EXTINF:-1,EPIX WEST
 http://iptvglobal.site:80/kilo8900/kilo8900/140932.m3u8
@@ -432,9 +393,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/90195.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/90194.m3u8
 #EXTINF:-1,HBO Plus
 http://iptvglobal.site:80/kilo8900/kilo8900/90193.m3u8
-#EXTINF:-
-
-1,HBO Mundi 2
+#EXTINF:-1,HBO Mundi 2
 http://iptvglobal.site:80/kilo8900/kilo8900/90192.m3u8
 #EXTINF:-1,HBO Family
 http://iptvglobal.site:80/kilo8900/kilo8900/90191.m3u8
@@ -446,9 +405,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/90172.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/90171.m3u8
 #EXTINF:-1,AMC 2
 http://iptvglobal.site:80/kilo8900/kilo8900/90170.m3u8
-#EXTINF:-
-
-1,Golden 2
+#EXTINF:-1,Golden 2
 http://iptvglobal.site:80/kilo8900/kilo8900/90169.m3u8
 #EXTINF:-1,De Pelicula Clasico
 http://iptvglobal.site:80/kilo8900/kilo8900/90168.m3u8
@@ -494,9 +451,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87607.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87603.m3u8
 #EXTINF:-1,MOVIEMAX
 http://iptvglobal.site:80/kilo8900/kilo8900/87599.m3u8
-#EXTINF:-
-
-1,MOREMAX
+#EXTINF:-1,MOREMAX
 http://iptvglobal.site:80/kilo8900/kilo8900/87598.m3u8
 #EXTINF:-1,MAX UP
 http://iptvglobal.site:80/kilo8900/kilo8900/87596.m3u8
@@ -506,9 +461,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87572.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87570.m3u8
 #EXTINF:-1,GOLDEN
 http://iptvglobal.site:80/kilo8900/kilo8900/87569.m3u8
-#EXTINF:-
-
-1,GOLDEN EDGE
+#EXTINF:-1,GOLDEN EDGE
 http://iptvglobal.site:80/kilo8900/kilo8900/87568.m3u8
 #EXTINF:-1,FX
 http://iptvglobal.site:80/kilo8900/kilo8900/87565.m3u8
@@ -518,17 +471,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87547.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87544.m3u8
 #EXTINF:-1,FILM & ARTS
 http://iptvglobal.site:80/kilo8900/kilo8900/87542.m3u8
-
-
-1,STUDIO UNIVERSAL
+#EXTINF:1,STUDIO UNIVERSAL
 http://iptvglobal.site:80/kilo8900/kilo8900/87540.m3u8
 #EXTINF:-1,DHE
 http://iptvglobal.site:80/kilo8900/kilo8900/87538.m3u8
 #EXTINF:-1,CINEMAX
 http://iptvglobal.site:80/kilo8900/kilo8900/87534.m3u8
-#EXTINF:-
-
-1,CINEMAX EAST
+#EXTINF:-1,CINEMAX EAST
 http://iptvglobal.site:80/kilo8900/kilo8900/87533.m3u8
 #EXTINF:-1,CINEMA DINAMITA
 http://iptvglobal.site:80/kilo8900/kilo8900/87530.m3u8
@@ -540,9 +489,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87524.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/87518.m3u8
 #EXTINF:-1,ACTION MAX
 http://iptvglobal.site:80/kilo8900/kilo8900/87516.m3u8
-#EXTINF:-
-
-1,WARNER CHANNEL PREMIUM
+#EXTINF:-1,WARNER CHANNEL PREMIUM
 http://iptvglobal.site:80/kilo8900/kilo8900/86870.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL CHANNEL PREMIUM
 http://iptvglobal.site:80/kilo8900/kilo8900/86868.m3u8
@@ -578,17 +525,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/509990.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/509989.m3u8
 #EXTINF:-1,TNT 4K
 http://iptvglobal.site:80/kilo8900/kilo8900/493783.m3u8
-#EXTINF:-
-
-1,SPACE 4K
+#EXTINF:-1,SPACE 4K
 http://iptvglobal.site:80/kilo8900/kilo8900/493782.m3u8
 #EXTINF:-1,PARAMOUNT 4K
 http://iptvglobal.site:80/kilo8900/kilo8900/493781.m3u8
 #EXTINF:-1,FX 4K
 http://iptvglobal.site:80/kilo8900/kilo8900/493778.m3u8
-#EXTINF:-1,A&E 
-
-4K
+#EXTINF:-1,A&E 4K
 http://iptvglobal.site:80/kilo8900/kilo8900/493777.m3u8
 #EXTINF:-1,HBO POP 4K
 http://iptvglobal.site:80/kilo8900/kilo8900/493776.m3u8
@@ -616,9 +559,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/493763.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/493762.m3u8
 #EXTINF:-1,P | Cinemax
 http://iptvglobal.site:80/kilo8900/kilo8900/493761.m3u8
-#EXTINF:-
-
-1,P | Cinema Dinamita HD
+#EXTINF:-1,P | Cinema Dinamita HD
 http://iptvglobal.site:80/kilo8900/kilo8900/493760.m3u8
 #EXTINF:-1,P | Cinecanal FHD
 http://iptvglobal.site:80/kilo8900/kilo8900/493758.m3u8
@@ -662,17 +603,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/493739.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/493738.m3u8
 #EXTINF:-1,P | HBO 2
 http://iptvglobal.site:80/kilo8900/kilo8900/493737.m3u8
-#EXTINF:-1,P 
-
-| HBO + FHD
+#EXTINF:-1,P HBO + FHD
 http://iptvglobal.site:80/kilo8900/kilo8900/493736.m3u8
 #EXTINF:-1,P | HBO + HD
 http://iptvglobal.site:80/kilo8900/kilo8900/493735.m3u8
 #EXTINF:-1,P | HBO +
 http://iptvglobal.site:80/kilo8900/kilo8900/493734.m3u8
-#EXTINF:-1,P 
-
-| HBO. FHD
+#EXTINF:-1,P  HBO. FHD
 http://iptvglobal.site:80/kilo8900/kilo8900/493733.m3u8
 #EXTINF:-1,P | HBO
 http://iptvglobal.site:80/kilo8900/kilo8900/493732.m3u8
@@ -804,9 +741,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/192348.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/170746.m3u8
 #EXTINF:-1,HQ | History
 http://iptvglobal.site:80/kilo8900/kilo8900/170743.m3u8
-#EXTINF:-1,LATINO| DISCOVERY HOME & HEALT PREMIUN FHD 
-
-(DUAL AUDIO)
+#EXTINF:-1,LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:80/kilo8900/kilo8900/86845.m3u8
 #EXTINF:-1,LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:80/kilo8900/kilo8900/86844.m3u8
@@ -844,9 +779,7 @@ http://iptvglobal.site:80/kilo8900/kilo8900/86200.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/86199.m3u8
 #EXTINF:-1,CULT| DISCOVERY HOME & HEALTH
 http://iptvglobal.site:80/kilo8900/kilo8900/86197.m3u8
-#EXTINF:-1,CULT| DISCOVERY 
-
-CIVILIZACION HD
+#EXTINF:-1,CULT| DISCOVERY CIVILIZACION HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86194.m3u8
 #EXTINF:-1,CULT| DISCOVERY CHANNEL EN ESPANOL HD
 http://iptvglobal.site:80/kilo8900/kilo8900/86192.m3u8
@@ -954,25 +887,19 @@ http://iptvglobal.site:80/kilo8900/kilo8900/502361.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/502360.m3u8
 #EXTINF:-1,MX | SONY
 http://iptvglobal.site:80/kilo8900/kilo8900/502359.m3u8
-#EXTINF:-
-
-1,MX | Investigation Discovery
+#EXTINF:-1,MX | Investigation Discovery
 http://iptvglobal.site:80/kilo8900/kilo8900/502358.m3u8
 #EXTINF:-1,MX | Star Channel
 http://iptvglobal.site:80/kilo8900/kilo8900/502357.m3u8
 #EXTINF:-1,MX | E!
 http://iptvglobal.site:80/kilo8900/kilo8900/502356.m3u8
-#EXTINF:-1,MX | 
-
-Discovery H&H
+#EXTINF:-1,MX | Discovery H&H
 http://iptvglobal.site:80/kilo8900/kilo8900/502355.m3u8
 #EXTINF:-1,MX | AXN
 http://iptvglobal.site:80/kilo8900/kilo8900/502354.m3u8
 #EXTINF:-1,MX | AMC
 http://iptvglobal.site:80/kilo8900/kilo8900/502353.m3u8
-#EXTINF:-
-
-1,MX | Space
+#EXTINF:-1,MX | Space
 http://iptvglobal.site:80/kilo8900/kilo8900/502352.m3u8
 #EXTINF:-1,MX | Star Channel
 http://iptvglobal.site:80/kilo8900/kilo8900/502351.m3u8
@@ -996,17 +923,13 @@ http://iptvglobal.site:80/kilo8900/kilo8900/502343.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/502342.m3u8
 #EXTINF:-1,MX | FX
 http://iptvglobal.site:80/kilo8900/kilo8900/502341.m3u8
-#EXTINF:-1,MX 
-
-| Distrito Comedia
+#EXTINF:-1,MX Distrito Comedia
 http://iptvglobal.site:80/kilo8900/kilo8900/502340.m3u8
 #EXTINF:-1,MX | Discovery H&H
 http://iptvglobal.site:80/kilo8900/kilo8900/502339.m3u8
 #EXTINF:-1,MX | AXN
 http://iptvglobal.site:80/kilo8900/kilo8900/502338.m3u8
-#EXTINF:-
-
-1,MX | A3 Series
+#EXTINF:-1,MX | A3 Series
 http://iptvglobal.site:80/kilo8900/kilo8900/502336.m3u8
 #EXTINF:-1,MX | A&E
 http://iptvglobal.site:80/kilo8900/kilo8900/502335.m3u8
@@ -1030,9 +953,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/170751.m3u8
 http://iptvglobal.site:80/kilo8900/kilo8900/124066.m3u8
 #EXTINF:-1,Latino | FXM
 http://iptvglobal.site:80/kilo8900/kilo8900/124064.m3u8
-
-
-http://iptvglobal.site:80/kilo8900/kilo8900/474798.m3u8
 #EXTINF:-1,LAT | Univision Novelas HD ®
 http://iptvglobal.site:80/kilo8900/kilo8900/372190.m3u8
 #EXTINF:-1,LAT | Univision Latinoamérica
