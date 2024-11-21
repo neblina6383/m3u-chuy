@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1,USA| CINEMA PPVV 16
-http://iptvglobal.site:80/kilo8900/kilo8900/484554
-#EXTINF:-1,USA| CINEMA PPVV 15
-http://iptvglobal.site:80/kilo8900/kilo8900/484553
-#EXTINF:-1,USA| CINEMA PPVV 14
-http://iptvglobal.site:80/kilo8900/kilo8900/484552
-#EXTINF:-1,USA| CINEMA PPVV 13
-http://iptvglobal.site:80/kilo8900/kilo8900/484551
-
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1,24/7 Animacion Movies
+http://iptvglobal.site:80/kilo8900/kilo8900/504178.ts
+#EXTINF:-1,24/7 El Chavo del 8
+http://iptvglobal.site:80/kilo8900/kilo8900/504168.ts
+#EXTINF:-1,24/7 El Chapulin Colorado
+http://iptvglobal.site:80/kilo8900/kilo8900/504167.ts
+#EXTINF:-1,24/7 Autobus Magico
+http://iptvglobal.site:80/kilo8900/kilo8900/504090.ts
+#EXTINF:-1,24/7 Cinema DC Comics
+http://iptvglobal.site:80/kilo8900/kilo8900/504073.ts
+#EXTINF:-1,24/7 Caballeros Del Zodiaco
+http://iptvglobal.site:80/kilo8900/kilo8900/504061.ts
+#EXTINF:-1,NETFLIX TV 19
+http://iptvglobal.site:80/kilo8900/kilo8900/333940.ts
