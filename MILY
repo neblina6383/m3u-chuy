@@ -1,691 +1,218 @@
-
-
 #EXTM3U
+#EXTINF:-1,NFL NETWORK
+https://dnslivetv.online:443/7336/1234/585788
+
+#EXTINF:-1,NFL REDZONE
+https://dnslivetv.online:443/7336/1234/585789
+
+
+
 #EXTINF:-1,NFL HD USA 212
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595698
+
 #EXTINF:-1,US: NFL Network
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28732
+
 #EXTINF:-1,US: NFL Network 1
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28737
+
 #EXTINF:-1,US: NFL Network FHD
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28736
+
 #EXTINF:-1,US: NFL Network HD
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28735
+
 #EXTINF:-1,US: NFL Now HD
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28731
-#EXTINF:-1,US: NFL Now HD VIP
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28730
+
 #EXTINF:-1,US: NFL Red Zone (Match time only)
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28733
+
 #EXTINF:-1,US: NHL Network
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28728
+
 #EXTINF:-1,US: NHL Network HD
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28729
+
 #EXTINF:-1,US: FOX Indianapolis
 http://iptvglobal.site:80/kilo8900/kilo8900/292787.m3u8
+
 #EXTINF:-1,MX || Azteca 7 SD
 http://iptvglobal.site:80/kilo8900/kilo8900/495257.m3u8
-#EXTINF:-1,MX || Las Estrellas SD 
+
+#EXTINF:-1,MX || Las Estrellas SD
 http://iptvglobal.site:80/kilo8900/kilo8900/550224.m3u8
+
 #EXTINF:-1,MX || DISNEY CHANNEL SD | Infantil
 http://iptvglobal.site:80/kilo8900/kilo8900/550694.m3u8
+
 #EXTINF:-1,US: CBS Sports Network
 http://iptvglobal.site:80/kilo8900/kilo8900/541659.m3u8
-#EXTINF:-1,Oxygen True Crime
-http://iptvglobal.site:80/kilo8900/kilo8900/449458.m3u8
+
+#EXTINF:-1,DAZN f1
+https://dnslivetv.online:443/7336/1234/1072690
+
 #EXTINF:-1,ES: DAZN 1 HD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301135
+
 #EXTINF:-1,ES: DAZN 1 FHD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301136
+
 #EXTINF:-1,ES: DAZN 2 HD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301137
+
 #EXTINF:-1,ES: DAZN 2 FHD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301138
+
 #EXTINF:-1,ES: DAZN 3 HD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301139
+
 #EXTINF:-1,ES: DAZN 3 FHD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301140
+
 #EXTINF:-1,ES: DAZN 4 HD/PVV
 http://moontools.me:8080/Freddy/Freddy321456/1301141
+
 #EXTINF:-1,ES: DAZN 4 FHD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301142
+
 #EXTINF:-1,ES: DAZN F1 HD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301143
+
 #EXTINF:-1,ES: DAZN F1 FHD/PPV
 http://moontools.me:8080/Freddy/Freddy321456/1301144
-http://iptvglobal.site:80/kilo8900/kilo8900/342382.m3u8
-#EXTINF:-1,ESPN+ 074 | GRAND CANYON VS. CALIFORNIA BAPTIST | 11/11-10:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1798004
-#EXTINF:-1,ESPN+ 073 | CAROLINA HURRICANES VS. VEGAS GOLDEN KNIGHTS | 11/11-09:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1798003
-#EXTINF:-1,ESPN+ 072 | CAROLINA HURRICANES VS. VEGAS GOLDEN KNIGHTS | 11/11-09:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1798002
-#EXTINF:-1,ESPN+ 071 | IDAHO VS. WASHINGTON STATE | 11/11-09:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1798001
-#EXTINF:-1,ESPN+ 070 | NORTH DAKOTA STATE VS. CAL STATE BAKERSFIELD | 11/11-09:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1798000
-#EXTINF:-1,ESPN+ 069 | SOUTHERN OREGON VS. IDAHO STATE | 11/11-09:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797999
-#EXTINF:-1,ESPN+ 068 | NORTHWEST INDIAN VS. MONTANA STATE | 11/11-09:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797998
-#EXTINF:-1,ESPN+ 067 | MON, 11/11 - FUTBOL AMERICAS | 11/11-08:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797997
-#EXTINF:-1,ESPN+ 066 | NASHVILLE PREDATORS VS. COLORADO AVALANCHE | 11/11-08:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797996
-#EXTINF:-1,ESPN+ 065 | NASHVILLE PREDATORS VS. COLORADO AVALANCHE | 11/11-08:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797995
-#EXTINF:-1,ESPN+ 064 | MISSOURI SOUTHERN VS. MISSOURI STATE | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797994
-#EXTINF:-1,ESPN+ 063 | ARKANSAS VS. LITTLE ROCK | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797993
-#EXTINF:-1,ESPN+ 062 | UM KANSAS CITY VS. #5 IOWA STATE | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797992
-#EXTINF:-1,ESPN+ 061 | SOUTH ALABAMA VS. RICE | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797991
-#EXTINF:-1,ESPN+ 060 | AIR FORCE VS. NORTHERN COLORADO | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797990
-#EXTINF:-1,ESPN+ 059 | UNC GREENSBORO VS. SMU | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797989
-#EXTINF:-1,ESPN+ 058 | CHATTANOOGA VS. AUSTIN PEAY | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797988
-#EXTINF:-1,ESPN+ 057 | NORTHWESTERN STATE VS. OKLAHOMA | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797987
-#EXTINF:-1,ESPN+ 056 | LOS ANGELES KINGS VS. CALGARY FLAMES | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797986
-#EXTINF:-1,ESPN+ 055 | LOS ANGELES KINGS VS. CALGARY FLAMES | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797985
-#EXTINF:-1,ESPN+ 054 | LAMAR VS. #13 TEXAS A&M | 11/11-08:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797984
-#EXTINF:-1,ESPN+ 053 | SAM HOUSTON VS. KANSAS | 11/11-07:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797983
-#EXTINF:-1,ESPN+ 052 | ALCORN STATE VS. TULANE | 11/11-07:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797982
-#EXTINF:-1,ESPN+ 051 | TEXAS SOUTHERN VS. OKLAHOMA STATE | 11/11-07:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797981
-#EXTINF:-1,ESPN+ 050 | NELSON UNIVERSITY VS. INCARNATE WORD | 11/11-07:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797980
-#EXTINF:-1,ESPN+ 049 | UT MARTIN VS. NORTH ALABAMA | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797979
-#EXTINF:-1,ESPN+ 048 | WILLIAM CAREY UNIVERSITY (MS) VS. SOUTHERN MISS | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797978
-#EXTINF:-1,ESPN+ 047 | CONCORDIA (TX) VS. HOUSTON CHRISTIAN | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797977
-#EXTINF:-1,ESPN+ 046 | GRAMBLING VS. #21 FLORIDA | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797976
-#EXTINF:-1,ESPN+ 045 | GARDNER-WEBB VS. PITTSBURGH | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797975
-#EXTINF:-1,ESPN+ 044 | WINTHROP VS. VIRGINIA TECH | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797974
-#EXTINF:-1,ESPN+ 043 | LUN 11/11 - FUERA DE JUEGO | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797973
-#EXTINF:-1,ESPN+ 042 | BUFFALO VS. NOTRE DAME | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797972
-#EXTINF:-1,ESPN+ 041 | AUGUSTA VS. GEORGIA SOUTHERN | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797971
-#EXTINF:-1,ESPN+ 040 | TENNESSEE STATE VS. LIPSCOMB | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797970
-#EXTINF:-1,ESPN+ 039 | EASTERN WASHINGTON VS. MISSOURI | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797969
-#EXTINF:-1,ESPN+ 038 | JACKSONVILLE VS. FURMAN | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797968
-#EXTINF:-1,ESPN+ 037 | SOUTHERN INDIANA VS. MARSHALL | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797967
-#EXTINF:-1,ESPN+ 036 | COPPIN STATE VS. VIRGINIA | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797966
-#EXTINF:-1,ESPN+ 035 | MORRIS COLLEGE VS. CHARLESTON SOUTHERN | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797965
-#EXTINF:-1,ESPN+ 034 | FLORIDA GULF COAST VS. NORTH FLORIDA (SEMIFINAL) | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797964
-#EXTINF:-1,ESPN+ 033 | FLORIDA GULF COAST VS. COLUMBIA | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797963
-#EXTINF:-1,ESPN+ 032 | UT ARLINGTON VS. TARLETON STATE | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797962
-#EXTINF:-1,ESPN+ 031 | TAYLOR UNIVERSITY VS. BOWLING GREEN | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797961
-#EXTINF:-1,ESPN+ 030 | STONY BROOK VS. GEORGE MASON | 11/11-07:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797960
-#EXTINF:-1,ESPN+ 029 | DALLAS STARS VS. PITTSBURGH PENGUINS | 11/11-06:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797959
-#EXTINF:-1,ESPN+ 028 | DALLAS STARS VS. PITTSBURGH PENGUINS | 11/11-06:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797958
-#EXTINF:-1,ESPN+ 027 | MORGAN STATE VS. OLD DOMINION | 11/11-06:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797957
-#EXTINF:-1,ESPN+ 026 | SAN JOSE SHARKS VS. PHILADELPHIA FLYERS | 11/11-06:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797956
-#EXTINF:-1,ESPN+ 025 | SAN JOSE SHARKS VS. PHILADELPHIA FLYERS | 11/11-06:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797955
-#EXTINF:-1,ESPN+ 024 | MON, 11/11  - ESPN FC | 11/11-06:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797954
-#EXTINF:-1,ESPN+ 023 | STETSON VS. THE CITADEL | 11/11-06:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797953
-#EXTINF:-1,ESPN+ 022 | VALLEY FORGE VS. UMBC | 11/11-06:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797952
-#EXTINF:-1,ESPN+ 021 | CENTRAL ARKANSAS VS. STETSON (SEMIFINAL) | 11/11-06:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797951
-#EXTINF:-1,ESPN+ 020 | VIRGINIA LYNCHBURG VS. GEORGE WASHINGTON | 11/11-06:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797950
-#EXTINF:-1,ESPN+ 019 | FORT LEWIS VS. NORTHERN ARIZONA | 11/11-06:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797949
-#EXTINF:-1,ESPN+ 018 | WILLIAM & MARY VS. UC IRVINE | 11/11-05:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797948
-#EXTINF:-1,ESPN+ 017 | UTAH FOOTBALL PRESS CONFERENCE | 11/11-04:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797947
-#EXTINF:-1,ESPN+ 016 | NEW HAMPSHIRE VS. MERRIMACK | 11/11-03:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797946
-#EXTINF:-1,ESPN+ 015 | COORDINATORS CORNER | 11/11-02:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797945
-#EXTINF:-1,ESPN+ 014 | CHRIS KLIEMAN PRESS CONFERENCE | 11/11-01:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797944
-#EXTINF:-1,ESPN+ 013 | HOUSTON FOOTBALL: WILLIE FRITZ WEEKLY PRESSER | 11/11-01:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797943
-#EXTINF:-1,ESPN+ 012 | MONTREAL CANADIENS VS. BUFFALO SABRES | 11/11-12:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797942
-#EXTINF:-1,ESPN+ 011 | MONTREAL CANADIENS VS. BUFFALO SABRES | 11/11-12:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797941
-#EXTINF:-1,ESPN+ 010 | LOUISIANA CHRISTIAN VS. UL MONROE | 11/11-12:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797940
-#EXTINF:-1,ESPN+ 009 | GEORGIA SOUTHERN PRESS CONFERENCE | 11/11-12:30PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797939
-#EXTINF:-1,ESPN+ 008 | UTSA FOOTBALL PRESS CONFERENCE | 11/11-12:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797938
-#EXTINF:-1,ESPN+ 007 | TEMPLE FOOTBALL: STAN DRAYTON WEEKLY PRESSER | 11/11-12:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797937
-#EXTINF:-1,ESPN+ 006 | THE PAT MCAFEE SHOW | 11/11-12:00PM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797936
-#EXTINF:-1,ESPN+ 005 | WEST INDIES ACADEMY VS. GUYANA HARPY EAGLES | 11/11-11:45AM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797935
-#EXTINF:-1,ESPN+ 004 | INSIDE GEORGIA SOUTHERN FOOTBALL WITH CLAY HELTON | 11/11-11:30AM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797934
-#EXTINF:-1,ESPN+ 003 | UTSA MENS BASKETBALL PRESSER | 11/11-11:30AM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797933
-#EXTINF:-1,ESPN+ 002 | UTSA WOMENS BASKETBALL PRESSER | 11/11-11:00AM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797932
-#EXTINF:-1,ESPN+ 001 | MON, 11/11 - LALIGA NEWS | 11/11-09:00AM | ESPN+
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797931
-#EXTINF:-1,ESPN DEPORTES USA HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595705
-#EXTINF:-1,ESPN ACCN USA 612
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595701
-#EXTINF:-1,ESPN NETWORK SEC 611
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595700
-#EXTINF:-1,ESPN 2 HD USA 209
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595697
-#EXTINF:-1,ESPN U USA HD 208
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595696
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Now" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Now
+
+#EXTINF:-1,PEACOCK NBC News Now
 http://startv.solutions:80/kilo8900/kilo8900/496812.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Florida" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Florida
+#EXTINF:-1,PEACOCK NBC News Florida
 http://startv.solutions:80/kilo8900/kilo8900/496811.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Philadelphia" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Philadelphia
+#EXTINF:-1,PEACOCK NBC News Philadelphia
 http://startv.solutions:80/kilo8900/kilo8900/496810.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Boston" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Boston
+#EXTINF:-1,PEACOCK NBC News Boston
 http://startv.solutions:80/kilo8900/kilo8900/496809.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News LA" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News LA
+#EXTINF:-1,PEACOCK NBC News LA
 http://startv.solutions:80/kilo8900/kilo8900/496808.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Chicago" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Chicago
+#EXTINF:-1,PEACOCK NBC News Chicago
 http://startv.solutions:80/kilo8900/kilo8900/496807.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC Sports" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC Sports
+#EXTINF:-1,PEACOCK NBC Sports
 http://startv.solutions:80/kilo8900/kilo8900/496806.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK Event 7" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK Event 7
+#EXTINF:-1,PEACOCK Event 7
 http://startv.solutions:80/kilo8900/kilo8900/496797.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK Event 3" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK Event 3
+#EXTINF:-1,PEACOCK Event 3
 http://startv.solutions:80/kilo8900/kilo8900/496793.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK Event 1" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK Event 1
+#EXTINF:-1,PEACOCK Event 1
 http://startv.solutions:80/kilo8900/kilo8900/496791.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS (WORLD®) 17 HD" tvg-logo="https://yt3.googleusercontent.com/iN0DTNXR0j944EZK9QNHmWNIWXkUDGlC00kCKIVKRESsm0IWlq22xXiHqgD2hEzggvR09djO=s900-c-k-c0x00ffffff-no-rj" group-title="TIGO SPORTS | SOLO EVENTO",TIGO SPORTS (WORLD®) 17 HD
-http://startv.solutions:80/kilo8900/kilo8900/498624.m3u8
-
-
-
-#EXTINF:-1,MOANA 2
-http://mylatinotvmoon.com:8080/movie/Freddy/Freddy321456/1813380.mkv
-
 
 #EXTINF:-1,USA | ABC New York
 http://iptvglobal.site:80/kilo8900/kilo8900/342381.m3u8
+
 #EXTINF:-1,USA | ABC Kansas City
 http://iptvglobal.site:80/kilo8900/kilo8900/292750.m3u8
+
 #EXTINF:-1,US: ABC Chicago
 http://iptvglobal.site:80/kilo8900/kilo8900/292749.m3u8
+
 #EXTINF:-1,US: ABC Baltimore
 http://iptvglobal.site:80/kilo8900/kilo8900/292748.m3u8
+
 #EXTINF:-1,US: ABC Kansas City
 http://iptvglobal.site:80/kilo8900/kilo8900/292747.m3u8
+
 #EXTINF:-1,US: ABC Miami
 http://iptvglobal.site:80/kilo8900/kilo8900/292744.m3u8
+
 #EXTINF:-1,US: ABC Indianapolis
 http://iptvglobal.site:80/kilo8900/kilo8900/292743.m3u8
+
 #EXTINF:-1,US: ABC Baltimore
 http://iptvglobal.site:80/kilo8900/kilo8900/292742.m3u8
+
 #EXTINF:-1,US: ABC Salt lake city
 http://iptvglobal.site:80/kilo8900/kilo8900/292741.m3u8
+
 #EXTINF:-1,US: ABC Nashville
 http://iptvglobal.site:80/kilo8900/kilo8900/292739.m3u8
+
 #EXTINF:-1,USA| ABC WASHINGTON DC HD
 http://iptvglobal.site:80/kilo8900/kilo8900/292733.m3u8
+
 #EXTINF:-1,USA| ABC MIAMI HD
 http://iptvglobal.site:80/kilo8900/kilo8900/292732.m3u8
+
 #EXTINF:-1,USA| ABC CHARLOTTE N.C HD
 http://iptvglobal.site:80/kilo8900/kilo8900/292731.m3u8
+
 #EXTINF:-1,USA| ABC ATLANTA HD
 http://iptvglobal.site:80/kilo8900/kilo8900/292730.m3u8
+
 #EXTINF:-1,USA| ABC SAN FRANCISCO HD
 http://iptvglobal.site:80/kilo8900/kilo8900/292729.m3u8
+
 #EXTINF:-1,US: ABC Los Angeles
 http://iptvglobal.site:80/kilo8900/kilo8900/122056.m3u8
+
 #EXTINF:-1,US: ABC New York
 http://iptvglobal.site:80/kilo8900/kilo8900/122054.m3u8
+
 #EXTINF:-1,US: ABC Chicago
 http://iptvglobal.site:80/kilo8900/kilo8900/122053.m3u8
+
 #EXTINF:-1,US: ABC durham
 http://iptvglobal.site:80/kilo8900/kilo8900/122052.m3u8
+
 #EXTINF:-1,US: ABC houston
 http://iptvglobal.site:80/kilo8900/kilo8900/122051.m3u8
+
 #EXTINF:-1,US: ABC Connecticut
 http://iptvglobal.site:80/kilo8900/kilo8900/122049.m3u8
+
 #EXTINF:-1,US: ABC Boston
 http://iptvglobal.site:80/kilo8900/kilo8900/122047.m3u8
+
 #EXTINF:-1,US: ABC Detroit
 http://iptvglobal.site:80/kilo8900/kilo8900/122046.m3u8
+
 #EXTINF:-1,US: ABC Pittsburgh
 http://iptvglobal.site:80/kilo8900/kilo8900/122045.m3u8
+
 #EXTINF:-1,US: ABC Dallas
 http://iptvglobal.site:80/kilo8900/kilo8900/122044.m3u8
+
 #EXTINF:-1,US: ABC Denver
 http://iptvglobal.site:80/kilo8900/kilo8900/122043.m3u8
-#EXTINF:-1,US: ABC San Diego
-http://iptvglobal.site:80/kilo8900/kilo8900/122042.m3u8
+
 #EXTINF:-1,US: ABC Orlando
 http://iptvglobal.site:80/kilo8900/kilo8900/122040.m3u8
+
 #EXTINF:-1,US: ABC Charlotte
 http://iptvglobal.site:80/kilo8900/kilo8900/122038.m3u8
+
 #EXTINF:-1,US: ABC Sacramento
 http://iptvglobal.site:80/kilo8900/kilo8900/122037.m3u8
+
 #EXTINF:-1,US: ABC Phoenix
 http://iptvglobal.site:80/kilo8900/kilo8900/122035.m3u8
+
 #EXTINF:-1,US: ABC Tampa Bay
 http://iptvglobal.site:80/kilo8900/kilo8900/122034.m3u8
+
 #EXTINF:-1,US: ABC San Antonio
 http://iptvglobal.site:80/kilo8900/kilo8900/122031.m3u8
+
 #EXTINF:-1,US: ABC Kansas City
 http://iptvglobal.site:80/kilo8900/kilo8900/122030.m3u8
-#EXTINF:-1,US: ABC Milwaukee
-
-#EXTINF:-1,IA | Davenport | CBS WHBF
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160160
-#EXTINF:-1,IA | Des Moines-Ames | CBS KCCI
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160161
-#EXTINF:-1,ID | Boise | CBS KBOI
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160162
-#EXTINF:-1,IL | Chicago | CBS WBBM
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160163
-#EXTINF:-1,TX | Corpus Christi | ABC 3 (KIII)
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160164
-#EXTINF:-1,FL | Orange Park| ABC 25 (WJXX)
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160165
-#EXTINF:-1,IN | Fort Wayne | CBS WANE
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160166
-#EXTINF:-1,NH | Manchester  | ABC 9 (WMUR)
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160167
-#EXTINF:-1,KS | Hutchinson | CBS KWCH
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160168
-#EXTINF:-1,KY | Lexington | CBS WKYT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160169
-#EXTINF:-1,KY | Louisville | CBS WLKY
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160170
-#EXTINF:-1,LA | Baton Rouge | CBS WAFB
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160171
-#EXTINF:-1,LA | Lafayette | CBS KLFY
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160172
-#EXTINF:-1,LA | New Orleans | CBS WWL
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160173
-#EXTINF:-1,LA | Shreveport | CBS KSLA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160174
-#EXTINF:-1,MA | Boston | CBS WBZ
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160175
-#EXTINF:-1,MA | Springfield | CBS WSHM
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160176
-#EXTINF:-1,OR | Portland | CBS KOIN
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160177
-#EXTINF:-1,PA | Altoona | CBS WTAJ
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160178
-#EXTINF:-1,PA | Philadelphia | CBS KYW
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160179
-#EXTINF:-1,PA | Pittsburgh | CBS KDKA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160180
-#EXTINF:-1,PA | Wilkes-Barre | CBS WYOU
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160181
-#EXTINF:-1,RI | Providence | CBS WPRI
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160182
-#EXTINF:-1,SC | Charleston | CBS WCSC
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160183
-#EXTINF:-1,SC | Columbia | CBS WLTX
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160184
-#EXTINF:-1,SC | Florence | CBS WBTW
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160185
-#EXTINF:-1,SC | Spartanburg | CBS WSPA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160186
-#EXTINF:-1,SD | Sioux Falls | CBS KELO
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160187
-#EXTINF:-1,NY | Buffalo | CBS WIVB
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160188
-#EXTINF:-1,NY | New York | CBS WCBS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160189
-#EXTINF:-1,NY | Rochester | CBS WROC
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160190
-#EXTINF:-1,NY | Schenectady | CBS WRGB
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160191
-#EXTINF:-1,NY | Syracuse | CBS WTVH
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160192
-#EXTINF:-1,OH | Cincinnati | CBS WKRC
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160193
-#EXTINF:-1,OH | Columbus | CBS WBNS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160194
-#EXTINF:-1,OH | Dayton | CBS WHIO
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160195
-#EXTINF:-1,OH | Toledo | CBS WTOL
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160196
-#EXTINF:-1,OH | Youngstown | CBS WKBN
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160197
-#EXTINF:-1,OK | Oklahoma City | CBS KWTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160198
-#EXTINF:-1,OK | Tulsa | CBS KOTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160199
-#EXTINF:-1,OR | Eugene | CBS KVAL
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160200
-#EXTINF:-1,OH | Shaker Heights | CBS WOIO
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160201
-#EXTINF:-1,MS | Columbus | CBS WCBI
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160202
-#EXTINF:-1,MS | Jackson | CBS WJTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160203
-#EXTINF:-1,NC | Charlotte | CBS WBTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160204
-#EXTINF:-1,NC | Goldsboro | CBS WNCN
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160205
-#EXTINF:-1,NC | Greensboro | CBS WFMY
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160206
-#EXTINF:-1,NC | Greenville | CBS WNCT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160207
-#EXTINF:-1,NC | Wilmington | CBS WWAY
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160208
-#EXTINF:-1,NE | Lincoln | CBS KOLN
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160209
-#EXTINF:-1,NE | Omaha | CBS KMTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160210
-#EXTINF:-1,NM | Albuquerque | CBS KRQE
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160211
-#EXTINF:-1,NV | Las Vegas | CBS KLAS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160212
-#EXTINF:-1,NV | Reno | CBS KTVN
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160213
-#EXTINF:-1,MD | Baltimore | CBS WJZ
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160214
-#EXTINF:-1,ME | Portland | CBS WGME
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160215
-#EXTINF:-1,MI | Bay City | CBS WNEM
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160216
-#EXTINF:-1,MI | Cadillac | CBS WWTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160217
-#EXTINF:-1,MI | Detroit | CBS WHP
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160218
-#EXTINF:-1,MI | Detroit | CBS WWJ
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160219
-#EXTINF:-1,MI | Kalamazoo | CBS WWMT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160220
-#EXTINF:-1,MI | Lansing | CBS WLNS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160221
-#EXTINF:-1,MN | Minneapolis | CBS WCCO
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160222
-#EXTINF:-1,MO | Cape Girardeau | CBS KFVS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160223
-#EXTINF:-1,MO | Kansas City | CBS KCTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160224
-#EXTINF:-1,MO | Springfield | CBS KOLR
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160225
-#EXTINF:-1,TN | Chattanooga | CBS WDEF
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160226
-#EXTINF:-1,TN | Knoxville | CBS WVLT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160227
-#EXTINF:-1,TN | Nashville | CBS WTVF
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160228
-#EXTINF:-1,TN-VA | Tri-Cities | CBS WJHL
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160229
-#EXTINF:-1,TX | Austin | CBS KEYE
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160230
-#EXTINF:-1,TX | Corpus Christi | CBS KZTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160231
-#EXTINF:-1,TX | El Paso | CBS KDBC
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160232
-#EXTINF:-1,TX | Fort Worth | CBS KTVT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160233
-#EXTINF:-1,TX | Fort Worth | CBS KTXA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160234
-#EXTINF:-1,TX | Harlingen | CBS KGBT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160235
-#EXTINF:-1,TX | Houston | CBS KHOU
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160236
-#EXTINF:-1,TX | Nacogdoches | CBS KYTX
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160237
-#EXTINF:-1,TX | San Antonio | CBS KENS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160238
-#EXTINF:-1,TX | Waco | CBS KWTX
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160239
-#EXTINF:-1,UT | Salt Lake City | CBS KUTV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160240
-#EXTINF:-1,VA | Roanoke | CBS WDBJ
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160241
-#EXTINF:-1,VT | Burlington | CBS WCAX
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160242
-#EXTINF:-1,DC | Washington | CBS WUSA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160243
-#EXTINF:-1,WA | Seattle | CBS KIRO
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160244
-#EXTINF:-1,WA | Spokane | CBS KREM
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160245
-#EXTINF:-1,WA | Yakima | CBS KIMA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160246
-#EXTINF:-1,WI | Green Bay | CBS WFRV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160247
-#EXTINF:-1,WI | La Crosse | CBS WKBT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160248
-#EXTINF:-1,WI | Madison | CBS WISC
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160249
-#EXTINF:-1,WI | Milwaukee | CBS WDJT
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160250
-#EXTINF:-1,WV | Huntington | CBS WOWK
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160251
-#EXTINF:-1,WY | Laramie | CBS KXJB
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160252
-#EXTINF:-1,MO | St. Louis | CBS KMOV
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160253
-#EXTINF:-1,US: ESPN 2 | HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160613
-#EXTINF:-1,US: ESPN DEPORTES | HD*
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160622
-#EXTINF:-1,US: ESPN NEWS | HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160623
-#EXTINF:-1,US: ESPN U | HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160624
-#EXTINF:-1,US: ESPN | HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1160625
-#EXTINF:-1,CO|| ESPN 2 Latinoamerica HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113087
-#EXTINF:-1,CO|| ESPN 3 HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/103525
-#EXTINF:-1,CO|| ESPN EXTRA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/103651
-
-
-#EXTINF:-1,PPV 01 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175963
-#EXTINF:-1,PPV 02 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175964
-#EXTINF:-1,PPV 03 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175965
-#EXTINF:-1,PPV 04 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175966
-#EXTINF:-1,PPV 05 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175967
-#EXTINF:-1,PPV 06 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175968
-#EXTINF:-1,PPV 07 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175969
-#EXTINF:-1,PPV 08 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175970
-#EXTINF:-1,PPV 09 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175971
-#EXTINF:-1,PPV 10 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175972
-#EXTINF:-1,PPV 11 | 
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175973
-#EXTINF:-1,PPV 12 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175974
-#EXTINF:-1,PPV 13 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175975
-#EXTINF:-1,PPV 15 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175976
-#EXTINF:-1,PPV 16 | 
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175977
-#EXTINF:-1,PPV 17 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175978
-#EXTINF:-1,PPV 18 | 
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175979
-#EXTINF:-1,PPV 19:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175980
-#EXTINF:-1,PPV 20:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175981
-#EXTINF:-1,PPV 21:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175982
-#EXTINF:-1,PPV 22:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175983
-#EXTINF:-1,PPV 23:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175984
-#EXTINF:-1,PPV 24:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175985
-#EXTINF:-1,PPV 25:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175986
-#EXTINF:-1,PPV 26:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175987
-#EXTINF:-1,PPV 27:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175988
-#EXTINF:-1,PPV 28:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175989
-#EXTINF:-1,PPV 29:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175990
-#EXTINF:-1,PPV 30:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175991
-#EXTINF:-1,PPV 31:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175992
-#EXTINF:-1,PPV 32:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175993
-#EXTINF:-1,PPV 33:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175994
-#EXTINF:-1,PPV 34:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175995
-#EXTINF:-1,PPV: BELLATOR | PRELIMS:
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1175997
-#EXTINF:-1,PPV: BOXING 02 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176000
-#EXTINF:-1,PPV: BOXING 05 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176003
-#EXTINF:-1,PPV: MMA 04 | 
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176009
-#EXTINF:-1,PPV: MMA 05 | 
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176010
-#EXTINF:-1,PPV: MMA 06 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176011
-#EXTINF:-1,PPV: MMA 07 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176012
-#EXTINF:-1,PPV: MMA 08 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176013
-#EXTINF:-1,PPV: MMA 09 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176014
-#EXTINF:-1,PPV: MMA 10 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176015
-#EXTINF:-1,PPV: RAP BATTLE
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176016
-#EXTINF:-1,PPV: UFC 00 | EARLY PRELIMS |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176017
-#EXTINF:-1,PPV: UFC 04 | MAIN CARD |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176018
-#EXTINF:-1,PPV: WRESTLING 00 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176021
-#EXTINF:-1,PPV: WRESTLING 01 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176022
-#EXTINF:-1,PPV: WRESTLING 02 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176023
-#EXTINF:-1,PPV: WRESTLING 03 | 
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176024
-#EXTINF:-1,PPV: WRESTLING 04 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176025
-#EXTINF:-1,PPV: WRESTLING 05 |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176026
-#EXTINF:-1,PPV:* UFC 02 | MAIN CARD |
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176028
-#EXTINF:-1,PPV 14 |  
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1176030
-
-
-#EXTINF:-1,Lat || Usa Univision Albuquerque Santa Fe
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113612
-#EXTINF:-1,Lat || Usa Univision Atlanta
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113600
-#EXTINF:-1,Lat || Usa Univision Austin
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113601
-#EXTINF:-1,Usa | Lat Univision Chicago
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113613
-#EXTINF:-1,Lat || Usa Univision Cleveland
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113602
-#EXTINF:-1,Usa | Lat Univision DALLAS
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113615
-#EXTINF:-1,Usa | Lat Univision EAST
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113616
-#EXTINF:-1,Lat || Usa Univision Fresno
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113603
-#EXTINF:-1,Usa | Lat Univision Houston
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113617
-#EXTINF:-1,Usa | Lat Univision LA
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113618
-#EXTINF:-1,Usa | Lat Univision Miami
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113614
-#EXTINF:-1,Usa | Lat Univision NY
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113619
-#EXTINF:-1,Lat || Usa Univision Philadelphia
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113604
-#EXTINF:-1,Lat || Usa Univision Phoenix
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113605
-#EXTINF:-1,Usa | Lat Univision Puerto Rico
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113621
-#EXTINF:-1,Lat || Usa Univision Raleigh
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113606
-#EXTINF:-1,Lat || Usa Univision Salt Lake
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113608
-#EXTINF:-1,Lat || Usa Univision San Antonio
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113609
-#EXTINF:-1,Lat || Usa Univision San Francisco
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113610
-#EXTINF:-1,Usa | Lat Univision WEST
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1113620
 
 #EXTINF:-1,ADN 40 | MX
 http://iptvglobal.site:80/kilo8900/kilo8900/444023.m3u8
-
-#EXTINF:-1,Televisa GDL Canal 4
-http://iptvglobal.site:80/kilo8900/kilo8900/444000.m3u8
-
-#EXTINF:-1,Canal 26 | HD | Aguascalientes
-http://iptvglobal.site:80/kilo8900/kilo8900/163414.m3u8
 
 #EXTINF:-1,Multimedios Guadalajara
 http://iptvglobal.site:80/kilo8900/kilo8900/163405.m3u8
@@ -729,9 +256,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/163346.m3u8
 #EXTINF:-1,IZMX | bitME
 http://iptvglobal.site:80/kilo8900/kilo8900/163343.m3u8
 
-#EXTINF:-1,IZMX | Canal 6 Mty
-http://iptvglobal.site:80/kilo8900/kilo8900/163339.m3u8
-
 #EXTINF:-1,IZMX | Tlnovelas
 http://iptvglobal.site:80/kilo8900/kilo8900/163338.m3u8
 
@@ -749,9 +273,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/163331.m3u8
 
 #EXTINF:-1,IZMX | History 2
 http://iptvglobal.site:80/kilo8900/kilo8900/163330.m3u8
-
-#EXTINF:-1,IZMX | Unicable
-http://iptvglobal.site:80/kilo8900/kilo8900/163326.m3u8
 
 #EXTINF:-1,IZMX | TNT Series
 http://iptvglobal.site:80/kilo8900/kilo8900/163325.m3u8
@@ -810,14 +331,8 @@ http://iptvglobal.site:80/kilo8900/kilo8900/124484.m3u8
 #EXTINF:-1,MX |* TCM HD
 http://iptvglobal.site:80/kilo8900/kilo8900/124471.m3u8
 
-#2
-http://iptvglobal.site:80/kilo8900/kilo8900/122600.m3u8
-
 #EXTINF:-1,Multimedios MTY
 http://iptvglobal.site:80/kilo8900/kilo8900/88260.m3u8
-
-#EXTINF:-1,MX | Estrellas
-http://iptvglobal.site:80/kilo8900/kilo8900/88257.m3u8
 
 #EXTINF:-1,Canal 5
 http://iptvglobal.site:80/kilo8900/kilo8900/88254.m3u8
@@ -848,12 +363,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87225.m3u8
 
 #EXTINF:-1,MXVIP| FX
 http://iptvglobal.site:80/kilo8900/kilo8900/87223.m3u8
-
-#EXTINF:-1,MXVIP| AMC
-http://iptvglobal.site:80/kilo8900/kilo8900/87220.m3u8
-
-#EXTINF:-1,MXVIP| Golden Plus
-http://iptvglobal.site:80/kilo8900/kilo8900/87215.m3u8
 
 #EXTINF:-1,MXVIP| HBO Signature
 http://iptvglobal.site:80/kilo8900/kilo8900/87213.m3u8
@@ -909,9 +418,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87130.m3u8
 #EXTINF:-1,MX |* SYFY FHD
 http://iptvglobal.site:80/kilo8900/kilo8900/87126.m3u8
 
-#EXTINF:-1,MX |* COMEDY CENTRAL HD
-http://iptvglobal.site:80/kilo8900/kilo8900/87122.m3u8
-
 #EXTINF:-1,MX |* HBO POP HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87120.m3u8
 
@@ -954,14 +460,8 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87074.m3u8
 #EXTINF:-1,MX |* DISCOVERY WORLD HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87072.m3u8
 
-#EXTINF:-1,MX |* ESPN HD
-http://iptvglobal.site:80/kilo8900/kilo8900/87067.m3u8
-
 #EXTINF:-1,MX |* FOX SPORTS 2 HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87054.m3u8
-
-#EXTINF:-1,MX |* FOX SPORTS 3 HD
-http://iptvglobal.site:80/kilo8900/kilo8900/87053.m3u8
 
 #EXTINF:-1,MX |* GOLDEN PREMIER HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87048.m3u8
@@ -977,9 +477,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87038.m3u8
 
 #EXTINF:-1,MX |* SPACE HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87036.m3u8
-
-#EXTINF:-1,HBO EXTREME HD
-http://iptvglobal.site:80/kilo8900/kilo8900/87028.m3u8
 
 #EXTINF:-1,HBO SIGNATURE HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87027.m3u8
@@ -1001,12 +498,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87018.m3u8
 
 #EXTINF:-1,TNT HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87017.m3u8
-
-#EXTINF:-1,UNICABLE HD
-http://iptvglobal.site:80/kilo8900/kilo8900/87012.m3u8
-
-#EXTINF:-1,TELEHIT HD
-http://iptvglobal.site:80/kilo8900/kilo8900/87009.m3u8
 
 #EXTINF:-1,SONY HD
 http://iptvglobal.site:80/kilo8900/kilo8900/87005.m3u8
@@ -1170,12 +661,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/90171.m3u8
 #EXTINF:-1,AMC 2
 http://iptvglobal.site:80/kilo8900/kilo8900/90170.m3u8
 
-#EXTINF:-1,Golden 2
-http://iptvglobal.site:80/kilo8900/kilo8900/90169.m3u8
-
-#EXTINF:-1,De Pelicula Clasico
-http://iptvglobal.site:80/kilo8900/kilo8900/90168.m3u8
-
 #EXTINF:-1,UNIVERSAL CHANNEL
 http://iptvglobal.site:80/kilo8900/kilo8900/87643.m3u8
 
@@ -1190,9 +675,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/87610.m3u8
 
 #EXTINF:-1,SHOWTIME BEYOND
 http://iptvglobal.site:80/kilo8900/kilo8900/87607.m3u8
-
-#EXTINF:-1,Universal Reality 2
-http://iptvglobal.site:80/kilo8900/kilo8900/87544.m3u8
 
 #EXTINF:-1,CINEMA DINAMITA
 http://iptvglobal.site:80/kilo8900/kilo8900/87530.m3u8
@@ -1383,9 +865,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/493725.m3u8
 #EXTINF:-1,P | Golden Edge
 http://iptvglobal.site:80/kilo8900/kilo8900/493724.m3u8
 
-#EXTINF:-1,H - v - O 2 SD (MX)(R)
-http://iptvglobal.site:80/kilo8900/kilo8900/481985.m3u8
-
 #EXTINF:-1,Golden Plus HD (MX)(R)
 http://iptvglobal.site:80/kilo8900/kilo8900/481976.m3u8
 
@@ -1394,9 +873,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/481975.m3u8
 
 #EXTINF:-1,Golden HD (MX)(R)
 http://iptvglobal.site:80/kilo8900/kilo8900/481974.m3u8
-
-#EXTINF:-1,Golden Edge SD (MX)(R)
-http://iptvglobal.site:80/kilo8900/kilo8900/481972.m3u8
 
 #EXTINF:-1,GOLDEN + MX (i)
 http://iptvglobal.site:80/kilo8900/kilo8900/481969.m3u8
@@ -1463,9 +939,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/192348.m3u8
 
 #EXTINF:-1,HQ | Discovery H&H
 http://iptvglobal.site:80/kilo8900/kilo8900/170746.m3u8
-
-#EXTINF:-1,HQ | History
-http://iptvglobal.site:80/kilo8900/kilo8900/170743.m3u8
 
 #EXTINF:-1,LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:80/kilo8900/kilo8900/86845.m3u8
@@ -1551,9 +1024,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/473378.m3u8
 #EXTINF:-1,LATINO | Discovery En Espanol
 http://iptvglobal.site:80/kilo8900/kilo8900/473377.m3u8
 
-#EXTINF:-1,LATINO | Discovery Channel
-http://iptvglobal.site:80/kilo8900/kilo8900/473376.m3u8
-
 #EXTINF:-1,LATINO | Curiosity (Curiosity - Documentales)
 http://iptvglobal.site:80/kilo8900/kilo8900/473375.m3u8
 
@@ -1614,9 +1084,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/457179.m3u8
 #EXTINF:-1,LAT | NatGeo Channel HD
 http://iptvglobal.site:80/kilo8900/kilo8900/457178.m3u8
 
-#EXTINF:-1,LAT | Natgeo Wild HD
-http://iptvglobal.site:80/kilo8900/kilo8900/457177.m3u8
-
 #EXTINF:-1,LAT | Discovery H&H
 http://iptvglobal.site:80/kilo8900/kilo8900/457176.m3u8
 
@@ -1665,9 +1132,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/502360.m3u8
 #EXTINF:-1,MX | SONY
 http://iptvglobal.site:80/kilo8900/kilo8900/502359.m3u8
 
-#EXTINF:-1,MX | Investigation Discovery
-http://iptvglobal.site:80/kilo8900/kilo8900/502358.m3u8
-
 #EXTINF:-1,MX | Star Channel
 http://iptvglobal.site:80/kilo8900/kilo8900/502357.m3u8
 
@@ -1685,9 +1149,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/502353.m3u8
 
 #EXTINF:-1,MX | Space
 http://iptvglobal.site:80/kilo8900/kilo8900/502352.m3u8
-
-#EXTINF:-1,MX | Star Channel
-http://iptvglobal.site:80/kilo8900/kilo8900/502351.m3u8
 
 #EXTINF:-1,MX | Warner
 http://iptvglobal.site:80/kilo8900/kilo8900/502350.m3u8
@@ -1742,9 +1203,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/502333.m3u8
 
 #EXTINF:-1,MX | TNT
 http://iptvglobal.site:80/kilo8900/kilo8900/502332.m3u8
-
-#EXTINF:-1,MX | Paramount
-http://iptvglobal.site:80/kilo8900/kilo8900/502331.m3u8
 
 #EXTINF:-1,MX | Comedy Central
 http://iptvglobal.site:80/kilo8900/kilo8900/502330.m3u8
@@ -1802,9 +1260,6 @@ http://iptvglobal.site:80/kilo8900/kilo8900/123917.m3u8
 
 #EXTINF:-1,LAT| UNIVISION AUSTIN HD
 http://iptvglobal.site:80/kilo8900/kilo8900/123915.m3u8
-
-#EXTINF:-1,LAT| UNIVISION TELENOVELAS HD
-http://iptvglobal.site:80/kilo8900/kilo8900/123914.m3u8
 
 #EXTINF:-1,LAT| UNIVISION RALEIGTH HD
 http://iptvglobal.site:80/kilo8900/kilo8900/123911.m3u8
@@ -1976,7 +1431,3 @@ http://iptvglobal.site:80/kilo8900/kilo8900/93028.m3u8
 
 #EXTINF:-1,GALAVISION FRESNO
 http://iptvglobal.site:80/kilo8900/kilo8900/92066.m3u8
-
-
-
-
