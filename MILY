@@ -1,7 +1,6 @@
 
 
 #EXTM3U
-
 #EXTINF:-1,US: NFL Network
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28732
 #EXTINF:-1,US: NFL Network 1
@@ -201,36 +200,38 @@ http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797933
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797932
 #EXTINF:-1,ESPN+ 001 | MON, 11/11 - LALIGA NEWS | 11/11-09:00AM | ESPN+
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797931
-#EXTINF:-1,PEACOCK Event 15
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670576
-#EXTINF:-1,PEACOCK Event 14
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670575
-#EXTINF:-1,PEACOCK Event 13
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670574
-#EXTINF:-1,PEACOCK Event 12
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670573
-#EXTINF:-1,PEACOCK Event 11
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670572
-#EXTINF:-1,PEACOCK Event 10
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670571
-#EXTINF:-1,PEACOCK Event 9
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670570
-#EXTINF:-1,PEACOCK Event 8
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670569
-#EXTINF:-1,PEACOCK Event 7
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670568
-#EXTINF:-1,PEACOCK Event 6
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670567
-#EXTINF:-1,PEACOCK Event 5
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670566
-#EXTINF:-1,PEACOCK Event 4
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670565
-#EXTINF:-1,PEACOCK Event 3
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670564
-#EXTINF:-1,PEACOCK Event 2
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670563
-#EXTINF:-1,PEACOCK Event 1
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1670562
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Now" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Now
+http://startv.solutions:80/kilo8900/kilo8900/496812.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Florida" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Florida
+http://startv.solutions:80/kilo8900/kilo8900/496811.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Philadelphia" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Philadelphia
+http://startv.solutions:80/kilo8900/kilo8900/496810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Boston" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Boston
+http://startv.solutions:80/kilo8900/kilo8900/496809.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News LA" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News LA
+http://startv.solutions:80/kilo8900/kilo8900/496808.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Chicago" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Chicago
+http://startv.solutions:80/kilo8900/kilo8900/496807.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC Sports" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC Sports
+http://startv.solutions:80/kilo8900/kilo8900/496806.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK Event 7" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK Event 7
+http://startv.solutions:80/kilo8900/kilo8900/496797.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK Event 3" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK Event 3
+http://startv.solutions:80/kilo8900/kilo8900/496793.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK Event 1" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK Event 1
+http://startv.solutions:80/kilo8900/kilo8900/496791.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS (WORLD®) 17 HD" tvg-logo="https://yt3.googleusercontent.com/iN0DTNXR0j944EZK9QNHmWNIWXkUDGlC00kCKIVKRESsm0IWlq22xXiHqgD2hEzggvR09djO=s900-c-k-c0x00ffffff-no-rj" group-title="TIGO SPORTS | SOLO EVENTO",TIGO SPORTS (WORLD®) 17 HD
+http://startv.solutions:80/kilo8900/kilo8900/498624.m3u8
 
 
 
