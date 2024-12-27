@@ -1,6 +1,9 @@
 
 
 #EXTM3U
+
+#EXTINF:-1,NFL HD USA 212
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595698
 #EXTINF:-1,US: NFL Network
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28732
 #EXTINF:-1,US: NFL Network 1
@@ -200,6 +203,16 @@ http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797933
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797932
 #EXTINF:-1,ESPN+ 001 | MON, 11/11 - LALIGA NEWS | 11/11-09:00AM | ESPN+
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1797931
+#EXTINF:-1,ESPN DEPORTES USA HD
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595705
+#EXTINF:-1,ESPN ACCN USA 612
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595701
+#EXTINF:-1,ESPN NETWORK SEC 611
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595700
+#EXTINF:-1,ESPN 2 HD USA 209
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595697
+#EXTINF:-1,ESPN U USA HD 208
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595696
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBC News Now" tvg-logo="http://startv.solutions:80/images/wa0mvnaHp95dlQYAfUtGaiuGnZtkz6DT0acKxR3YJEvX2CnJIw50OB2TJp7QrX7h1zerjo3IsaRO10A6_nmimCu2MXW3t0wCu-3Pvwh9mDM.png" group-title="PEACOCK | SOLO EVENTO",PEACOCK NBC News Now
 http://startv.solutions:80/kilo8900/kilo8900/496812.m3u8
 
