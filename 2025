@@ -8,6 +8,10 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1,ESTRENOS NETFLIX 
+https://moontools.me:8080/live/Freddy/Freddy321456/1726914.ts
+#EXTINF:-1,NETFLIX INFANTIL 
+https://moontools.me:8080/live/Freddy/Freddy321456/1726913.ts
 #EXTINF:-1,ESPN PREMIUM HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/16959.ts
 #EXTINF:-1,ESPN HD - ARG
