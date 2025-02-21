@@ -1,70 +1,4 @@
 #EXTM3U
-#EXTINF:-1,NFL NETWORK
-https://dnslivetv.online:443/7336/1234/585788
-
-#EXTINF:-1,NFL REDZONE
-https://dnslivetv.online:443/7336/1234/585789
-
-#EXTINF:-1,NFL HD USA 212
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595698
-
-#EXTINF:-1,US: NFL Network
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28732
-
-#EXTINF:-1,US: NFL Network 1
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28737
-
-#EXTINF:-1,US: NFL Network FHD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28736
-
-#EXTINF:-1,US: NFL Network HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28735
-
-#EXTINF:-1,US: NFL Now HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28731
-
-#EXTINF:-1,US: NFL Red Zone (Match time only)
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28733
-
-#EXTINF:-1,US: NHL Network
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28728
-
-#EXTINF:-1,US: NHL Network HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28729
-
-
-#EXTINF:-1,DAZN f1
-https://dnslivetv.online:443/7336/1234/1072690
-
-#EXTINF:-1,ES: DAZN 1 HD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301135
-
-#EXTINF:-1,ES: DAZN 1 FHD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301136
-
-#EXTINF:-1,ES: DAZN 2 HD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301137
-
-#EXTINF:-1,ES: DAZN 2 FHD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301138
-
-#EXTINF:-1,ES: DAZN 3 HD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301139
-
-#EXTINF:-1,ES: DAZN 3 FHD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301140
-
-#EXTINF:-1,ES: DAZN 4 HD/PVV
-http://moontools.me:8080/Freddy/Freddy321456/1301141
-
-#EXTINF:-1,ES: DAZN 4 FHD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301142
-
-#EXTINF:-1,ES: DAZN F1 HD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301143
-
-#EXTINF:-1,ES: DAZN F1 FHD/PPV
-http://moontools.me:8080/Freddy/Freddy321456/1301144
 #EXTINF:-1,133 UNIVISION WEST HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595801
 #EXTINF:-1,132 UNIVISION EAST HD
@@ -373,3 +307,28 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310676
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310677
 #EXTINF:-1,MX |* SYFY FHD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310678
+#EXTINF:-1,NFL NETWORK
+https://dnslivetv.online:443/7336/1234/585788
+#EXTINF:-1,NFL REDZONE
+https://dnslivetv.online:443/7336/1234/585789
+#EXTINF:-1,NFL HD USA 212
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1595698
+#EXTINF:-1,US: NFL Network
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28732
+#EXTINF:-1,US: NFL Network 1
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28737
+#EXTINF:-1,US: NFL Network FHD
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28736
+#EXTINF:-1,US: NFL Network HD
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28735
+#EXTINF:-1,US: NFL Now HD
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28731
+#EXTINF:-1,US: NFL Red Zone (Match time only)
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28733
+#EXTINF:-1,US: NHL Network
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28728
+#EXTINF:-1,US: NHL Network HD
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/28729
+
+
+
