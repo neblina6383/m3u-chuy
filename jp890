@@ -209,6 +209,18 @@ http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310622
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310623
 #EXTINF:-1,MX |* E ENTERTAINMENT HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310624
+#EXTINF:-1 xui-id="231505" tvg-id="starzencore.us" tvg-name="Starz Encore East" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ84G8o4ibW_RBy0Ms6R6NFU3JZ0NrNHG50DPxEdUe58c.png" group-title="USA PREMIUM",Starz Encore East
+https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvI30eV3vF4BH5-_pzjeotTjNvcMapxlGpcYNgrnUBoLK/m3u8
+#EXTINF:-1 xui-id="231506" tvg-id="starzencoreaction.us" tvg-name="Starz Encore Action" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ84G8o4ibW_RBy0Ms6R6NFXP8MHJeVoSS4uMPM5p3CLlsWxWaoTdRn3xF9mGFESADA.png" group-title="USA PREMIUM",Starz Encore Action
+https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvA359c2CdGcKxtU2ByTiCF6fc9Wr3MUiAodfMQHyWp3C/m3u8
+#EXTINF:-1 xui-id="231507" tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="USA PREMIUM",Starz Encore Westerns
+https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvO-FHxF1yQ54EwDui7di7_JLrX3Jwv7Fu-PND6f6sYvk/m3u8
+#EXTINF:-1 xui-id="231508" tvg-id="" tvg-name="SundanceTV" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQeRncVBPVM5-4jikTXygw9Qf3Ar29Z5KJFt_jTCj6bje2Nx6pVCcE9WCb0DekTF8Xx36fEkwALAJ27AVZvKmdA.png" group-title="USA PREMIUM",SundanceTV
+https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvPDEtTq5kaLNELrdm4YGrb5xJ6K_JKuxmPFgDFvxZdrA/m3u8
+
+
+
+
 #EXTINF:-1,MX |* D'PELICULA HD
 http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310625
 #EXTINF:-1,MX |* COMEDY CENTRAL HD
