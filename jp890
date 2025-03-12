@@ -12,219 +12,255 @@ http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1723069
 http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1723068
 #EXTINF:-1,24/7||| ACCION MEXICANAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 xui-id="108210" tvg-id="I3.12421.zap2it.com" tvg-name="ADN 40 HD" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJyBSulkeZyKA4yhPn4WzO35-6AMm9gIMxpQRxDhkCThc.png" group-title="MEXICO",ADN 40 HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvBJGExtcNC3G-1W0zkezyRUJWFnoy-ZkqDWr7J_Wnn2Y/m3u8
-#EXTINF:-1 xui-id="307" tvg-id="I3.12421.zap2it.com" tvg-name="ADRENALINA SPORTS HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPayCezyqL-n1-i5VqXz-z9J4BwmSHhIYeY7Gq_vYa-IZ.png" group-title="DEPORTES",ADRENALINA SPORTS HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJTh06Lntf_kl8Ie4k80p7A/m3u8
-#EXTINF:-1 xui-id="105513" tvg-id="AdultSwim.co" tvg-name="ADULT SWIM" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ3M0Fmq91zfNz2hcK_kXUQz4a-zMvMIoelrRLSZ5GGiS.png" group-title="ENTRETENIMIENTO",ADULT SWIM
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvBKGLb6N5tE65ymqo1A2erxttDkK7cTi4S83qEuUUBVs/m3u8
-#EXTINF:-1 xui-id="109021" tvg-id="NBC.Sports.Bay.Area/California.Plus.us" tvg-name="ADULT SWIM HD" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ3M0Fmq91zfNz2hcK_kXUQz4a-zMvMIoelrRLSZ5GGiS.png" group-title="ENTRETENIMIENTO",ADULT SWIM HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvD4HXRS6cmUMX5SLDCHJEBH34BDkt9qk6wkSMqM9xz8V/m3u8
-#EXTINF:-1 xui-id="106011" tvg-id="" tvg-name="ALSACIAS TV" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ16E6ciBsHGpJP4-bdCHXW-d3WJ_QB-fG3xoqXmRJwuo.png" group-title="HONDURAS",ALSACIAS TV
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMg0Pnfw_zOXJZe7GqWuXNVsUV_GbhoEPKRJ7QjOnO43/m3u8
-#EXTINF:-1 xui-id="106137" tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsQgudGI3hA1VdByEgz04dI0.png" group-title="USA SPORTS",Altitude Sports
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKryI6BxdyBO2ZS3Cm8cA5USlEqeqdw-CNWaFMXsFxLn/m3u8
-#EXTINF:-1 xui-id="137" tvg-id="AMC.co" tvg-name="AMC" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcukTcS2KhyJ-haM687t7CnssFrmJ67wVXL31BcFvFg-zs.png" group-title="ENTRETENIMIENTO",AMC
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFaS2ZSKliB0TAbZbvZoO0s/m3u8
-#EXTINF:-1 xui-id="105678" tvg-id="" tvg-name="America TV" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPYBmvlZ4yIkBfG7Lgak4Ic9has3Xq-_02ujF7uO5v75_.png" group-title="ARGENTINA",America TV
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvH1RwZIkwUfImqRoklai3v1X9fUu396lt1n9K7UiYOpP/m3u8
-#EXTINF:-1 xui-id="105679" tvg-id="" tvg-name="America TV HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPYBmvlZ4yIkBfG7Lgak4Ic9has3Xq-_02ujF7uO5v75_.png" group-title="ARGENTINA",America TV HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvBKLLoD_3SBDVjbkSrdeuNQ-5WChPrc8FeUQqFkAuSaa/m3u8
-#EXTINF:-1 xui-id="106744" tvg-id="" tvg-name="American Heroes Channel" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjmRpPEA-oT0216ufg4cnL6905pPp9DD2NSI12YO0YBqIJFmd-aP6w2NLEYvCx0LxOARuI1ZZwRQWZu2Run5HgY_Ll6v7mSH_zgIpV2V9sdird3m_p4FNaPuIdRYvw83Mj.png" group-title="USA PREMIUM",American Heroes Channel
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvCSEh7nkIooCXre7RoNeIFTgYoEhCCKaemBATOc0Nziq/m3u8
-#EXTINF:-1 xui-id="186" tvg-id="Canal.Azteca.Uno.mx" tvg-name="ANIMAL PLANET HD" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcutAtVHy9WpnYm2Mr-39r_-jNusMf7gT5Ae0N8pWZS7BY.png" group-title="CULTURA",ANIMAL PLANET HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHPUi_kGeBmVFB_SqrPdWtQ/m3u8
-#EXTINF:-1 xui-id="139" tvg-id="Canal.Azteca.Uno.mx" tvg-name="ANTENA 3 HD" tvg-logo="https://arestv.vip:443/images/r9JXV_gx8weMz-Gs_5h6F_i3tTbN1E354pIyi58gQZbIoI9T4ijDLGEqv2pi1XLK1Bn-m3yzbKS8ncLrpPuTXsa1Ry8fZ8X4P6JFh31r1YM.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKSU3BPneLhxP103Mpv1eKA/m3u8
-#EXTINF:-1 xui-id="106746" tvg-id="" tvg-name="Aspire TV" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUPmGMKv7KiRekLhJatFbc1B7BcpDlHFASs20OmmRvTXDc4ehP75S4c0iwFIWSPTK0.png" group-title="USA PREMIUM",Aspire TV
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvOlbpAZmJrbYkRlC4NNon8oiVpEeViB0phG1BUXo_a-8/m3u8
-#EXTINF:-1 xui-id="106138" tvg-id="atandtsportsnetpittsburgh.us" tvg-name="AT&T SportsNet Pitsburgh" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsRM3CEK49lA04jll5Z3v3RE.png" group-title="USA SPORTS",AT&T SportsNet Pitsburgh
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHOSvrX6o7SqveNNhPcnqolGyY_3C07WQcT-XvCkmDv1/m3u8
-#EXTINF:-1 xui-id="106139" tvg-id="atandtsportsnetsouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsRM3CEK49lA04jll5Z3v3RE.png" group-title="USA SPORTS",AT&T SportsNet Southwest
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvE0Ubu0TXfIF43BQQ6UNXrH2sEsVfzLt99P4cREmlmFB/m3u8
-#EXTINF:-1 xui-id="105720" tvg-id="" tvg-name="ATB Cochabamba" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPXrE7lFIkpeRuX5ixAgP9Y94JqpNPsdndgbvzNHlesv4.png" group-title="BOLIVIA",ATB Cochabamba
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvPW_s0HeFRJAyGZ3Onl6gp8uGDyB5_Yf_azeklpIL4mJ/m3u8
-#EXTINF:-1 xui-id="141" tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN HD" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcuqvIJrXE5ZSqQ-FKoW4hnnyfDWbyfF_9mRp3E6HK4YkF.png" group-title="ENTRETENIMIENTO",AXN HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKiDbnV87mFcNCvMjXtkWkw/m3u8
-#EXTINF:-1 xui-id="116887" tvg-id="" tvg-name="AXN LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJzDH1FXqRW4mrAK_1y_ldO2sJ6ikvP3SZpy6Rb34Y1OI.png" group-title="TV BAJA VELOCIDAD",AXN LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJl9OcsjGLqCVTNc0w1uKgIttCSz7Db5q4Li2mHk8iaE/m3u8
-#EXTINF:-1 xui-id="106574" tvg-id="" tvg-name="AXS TV" tvg-logo="https://imgs.search.brave.com/yiTv6kUwgPYM1qs82lPGPdtbZtcDXqJLVtJz3H1lFXk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL2F4cy10/djU1NTYuanBn" group-title="USA PREMIUM",AXS TV
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvNLCdaLarlthmhb-ZEuMxF2btUrdoSPHmZWotBbOKk7x/m3u8
-#EXTINF:-1 xui-id="309" tvg-id="" tvg-name="AyM SPORTS HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPeSag_8QdIlM9Psp3KBBIKJt36TMx-7XPRACtSRMjj1I.png" group-title="DEPORTES",AyM SPORTS HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvE8hvLMUwUL2ybtyWDQ1L2s/m3u8
-#EXTINF:-1 xui-id="116946" tvg-id="" tvg-name="AYM SPORTS LQ" tvg-logo="https://arestv.vip:443/images/WOIka3Mrg5b7idBDH31d38YTgDo-gCIzJTwNgDkdKqw4AhSYXnvxbM7nn4nv0K7MCZOyvh7DSNzELCnENHZTv-mKzo6hLpTgnb3nTghn-GUa7PJnyQ6R26NjK2THKNJj.png" group-title="TV BAJA VELOCIDAD",AYM SPORTS LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJ7RNrY5px7ba8Oqumr2y55HCWkA9eHS7Z7zUGlcidk8/m3u8
-#EXTINF:-1 xui-id="109777" tvg-id="izzigo/europaeuropa" tvg-name="AZTECA 7" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPQlA9rUWIpV_gFFYZ2S3bKJVoxKL2SzI4jzmaHkc_UDT.png" group-title="MEXICO",AZTECA 7
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMpTzO8reRBCPqFgmORd9u85i5ND3x9PPN2iggfgvb0Y/m3u8
-#EXTINF:-1 xui-id="116888" tvg-id="Canal.Azteca.7..(México).mx" tvg-name="AZTECA 7 LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJytLRHCKkSAiJ32RvKNECh-GQ8s-xrkMsuj9uLmDYHTF.png" group-title="TV BAJA VELOCIDAD",AZTECA 7 LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvLifxXoOWIUB2qpJ5anV-MLkqmEFxwogYqj9hgzaCLlE/m3u8
-#EXTINF:-1 xui-id="629" tvg-id="directvgomx/aztecaclic" tvg-name="AZTECA CLIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/azteca-clic-mx.png?raw=true" group-title="MEXICO",AZTECA CLIC
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvLDYBKY1O3Nv18Z-pQrq1Ts/m3u8
-#EXTINF:-1 xui-id="631" tvg-id="I3.12421.zap2it.com" tvg-name="AZTECA CORAZON HD" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsSgKRGrQ3j2JknKdM6u1ryY.png" group-title="MEXICO",AZTECA CORAZON HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFDVAQQkjHyeCQgDY3sBLRU/m3u8
-#EXTINF:-1 xui-id="600" tvg-id="" tvg-name="AZTECA DEPORTES HD" tvg-logo="https://arestv.vip:443/images/Bp-vRtZEje6kFpdMZzWxZwomsSTcJRUoSkySIZ4aHGwOAyDtPO_H0HZIECrFLeBFfdbI6M3aqARLRbn5rX2EolqyKcMHPslCzY3DA92ev3w.png" group-title="DEPORTES",AZTECA DEPORTES HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvNxiDGyFd9cSzYdKFONsLUg/m3u8
-#EXTINF:-1 xui-id="105893" tvg-id="" tvg-name="Azteca Guatemala" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsYa-bRMV3ubnBun2oM_vB5Q.png" group-title="GUATEMALA",Azteca Guatemala
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJqGRepisMXEsIc4NKlvTP7qmPBU_Ek4M10U685DRFWt/m3u8
-#EXTINF:-1 xui-id="106012" tvg-id="" tvg-name="AZTECA HONDURAS" tvg-logo="https://arestv.vip:443/images/07mCDVeCbLqvoL88fAF1mK0rMlxm_0f8X4QXFglm1UWtsBYCtt5lmLWCmAxKlMreCgE9ww_NJVycbSYHhOdQ1piwbPQUabaUpXeYxtiHOVk.png" group-title="HONDURAS",AZTECA HONDURAS
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvK4qLAwDr89zuPNoysLz9q58oN8nfGdekh_fKuk8Tli3/m3u8
-#EXTINF:-1 xui-id="108197" tvg-id="Canal.Warner.TV.(Costa.Rica).cr" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://arestv.vip:443/images/WOAZhEVn2TNbcjFYMTgdrqZfxw4fot9NlQerb4IxbTGAJEMWPHBFJev_M5BshmdsTmxr-5NGTv3Ox9nw_YWRXQMIwJlU3giLoQ3IYoTwjuSDjG6W18NLwfxTuWM9O9wH.png" group-title="ENTRETENIMIENTO",AZTECA INTERNACIONAL
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJWqPITEUtsM7e5x6P9pXpbr288cOKgZ0WZzZ__LXPqs/m3u8
-#EXTINF:-1 xui-id="636" tvg-id="Canal.Azteca.Uno.mx" tvg-name="AZTECA UNO -2 HRS" tvg-logo="https://arestv.vip:443/images/v4FkJuc6UrTeJHDLwXFTd-WqvEw3RbcMiv8klKQGUoHG_pRuDKnSqfcrNlbats4ql6j-AFuWtBAz3MYgNQtIwg.png" group-title="MEXICO",AZTECA UNO -2 HRS
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMIg38DZBuq6znBs0Pbximk/m3u8
-#EXTINF:-1 xui-id="116889" tvg-id="" tvg-name="AZTECA UNO LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ_t2oTT4PbD6-DKGSF5QboK0kXwe6aDseo0sDWDFUadN.png" group-title="TV BAJA VELOCIDAD",AZTECA UNO LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvO54AFB3amlviA3cfmeEH994gY3Vm9S2o8ec11uM2EwV/m3u8
-EXTINF:-1 xui-id="296" tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPQx3sI9T0LxDOcNSP7Zv-xykZxPBcf_CLvcex4lwSU-b.png" group-title="PELICULAS",UNIVERSAL CINEMA HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKWbOgyzMQ8n1-g6o9ZZKwI/m3u8
-#EXTINF:-1 xui-id="297" tvg-id="" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsadP_M_gZ8Z85SwlT6Ll2Rw.png" group-title="PELICULAS",UNIVERSAL COMEDY HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvB5MxZDTazBYtcTnlxNAUlA/m3u8
-#EXTINF:-1 xui-id="298" tvg-id="" tvg-name="UNIVERSAL CRIME HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPQx3sI9T0LxDOcNSP7Zv-xymfcZLMFRiF5w7Eg1LUolr.png" group-title="PELICULAS",UNIVERSAL CRIME HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFlFqWWw7L5iiPgA9Q9vwSk/m3u8
-#EXTINF:-1 xui-id="106320" tvg-id="DirecTV.NHL.Center.Ice.(774).us" tvg-name="UNIVERSAL KIDS" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ0tHqQU2NUzJTRrTpCmkG_5n8qBzcVkZrZeDN98TDH-t.png" group-title="USA KID´S",UNIVERSAL KIDS
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvCM5ASXsCl2ayC8z6CvQuczIJWiwVvzvh_W_2NuDrk1m/m3u8
-#EXTINF:-1 xui-id="103647" tvg-id="" tvg-name="UNIVERSAL PREMIER HD" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJzRUnZ_mrhge0wO3hZX-okIldKOvreFbHrXvWYmWkhZf.png" group-title="PELICULAS",UNIVERSAL PREMIER HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMxQVQuaORJyf3F-HDRHqYoWCU2kGykR0uil8iFlND_P/m3u8
-#EXTINF:-1 xui-id="302" tvg-id="" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPQx3sI9T0LxDOcNSP7Zv-xyD-B7PmVQTE17E0EJBOJ_c.png" group-title="PELICULAS",UNIVERSAL REALITY HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvEQqm9D9nDn8it6TFN1CWlU/m3u8
-#EXTINF:-1 xui-id="303" tvg-id="Universal.TV.co" tvg-name="UNIVERSAL TV HD" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ4y3nEr4iEB-YWJ5MLMdDVDo9Me7QBdM-mDzjPJR6Tov.png" group-title="ENTRETENIMIENTO",UNIVERSAL TV HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJO3zMv4LKUeaHiaKes6y-0/m3u8
-#EXTINF:-1 xui-id="116944" tvg-id="" tvg-name="UNIVERSAL TV LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ4y3nEr4iEB-YWJ5MLMdDVDo9Me7QBdM-mDzjPJR6Tov.png" group-title="TV BAJA VELOCIDAD",UNIVERSAL TV LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvELzaVT_cmCc4X1Gbbzay7_rmuIWYz6kMVi29PrfJT64/m3u8
-#EXTINF:-1 xui-id="109128" tvg-id="UNI.(KAKW).Austin,.TX.us" tvg-name="Univision Atlanta" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIikwoMQx_ZUsEbc6Fl9B8UPF2Ow975Di2DxZD9miMj7TbFVyuRsZ-w3rpbrIf8qhck.png" group-title="USA LATINOS",Univision Atlanta
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJ6B-kZREH1tIFLjSuyxkhSXTzZq33g0RgP-sm6SJhHq/m3u8
-#EXTINF:-1 xui-id="109637" tvg-id="Univision.(KUTU).Tulsa,.OK.us" tvg-name="UNIVISION chicago" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIikwoMQx_ZUsEbc6Fl9B8UPF2Ow975Di2DxZD9miMj7TbFVyuRsZ-w3rpbrIf8qhck.png" group-title="USA LATINOS",UNIVISION chicago
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvLFTMT3JAnbisct7bs-CfGH3zWnNDrK3PtipyDTPxmwp/m3u8
-#EXTINF:-1 xui-id="117642" tvg-id="Univision.-.Pacific.Feed.us" tvg-name="Univision Houston" tvg-logo="https://arestv.vip:443/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHYIqzas44nSgO7EAqW8Q8g66v_YWYBcs6lBqcb7m7ngFYIrA4MwxJi-a_Rc1EULncKc-wterrcoDkK46pNMjzR58C42coTrTc50C6isRU3ttbneOADTcUGQbdtRsflYRLsy6-wxLXgOAkpZcOW8qQ.png" group-title="USA LATINOS",Univision Houston
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvNGlf78S8PN8aq48IqTS120Py8hhOb7_q7zTT8-tpYhm/m3u8
-#EXTINF:-1 xui-id="106694" tvg-id="" tvg-name="Univision Los Angeles" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIikwoMQx_ZUsEbc6Fl9B8UPF2Ow975Di2DxZD9miMj7TbFVyuRsZ-w3rpbrIf8qhck.png" group-title="USA LATINOS",Univision Los Angeles
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHLOhTY158U6XilnfXxRKb9lkOZi1zxsOQquEiVJyvi4/m3u8
-#EXTINF:-1 xui-id="117643" tvg-id="" tvg-name="Univision New York" tvg-logo="https://arestv.vip:443/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHYIqzas44nSgO7EAqW8Q8g66v_YWYBcs6lBqcb7m7ngFYIrA4MwxJi-a_Rc1EULncKc-wterrcoDkK46pNMjzR58C42coTrTc50C6isRU3ttbneOADTcUGQbdtRsflYRLsy6-wxLXgOAkpZcOW8qQ.png" group-title="USA LATINOS",Univision New York
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFB0suq8FMMOwFh4L3zP9Z5-xSTNi4zbLyUjY8_H4JUt/m3u8
-#EXTINF:-1 xui-id="107019" tvg-id="Atres.Series.us" tvg-name="Univision Tlnovelas" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcuphvNgKDcMuLEEIFd2zWziKawPfkFCbr5HHDCMQPmHJa.png" group-title="USA LATINOS",Univision Tlnovelas
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvH2x6Q_3X8cNwjQKk8jkWu7JleB7VczpHGOHhVJ6-4NW/m3u8
-#EXTINF:-1 xui-id="182" tvg-id="MLB.Network.us" tvg-name="UNIVISION TLNOVELAS HD" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcuphvNgKDcMuLEEIFd2zWziKawPfkFCbr5HHDCMQPmHJa.png" group-title="ENTRETENIMIENTO",UNIVISION TLNOVELAS HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMB1T1-9_2jyMRNBdtkWNpE/m3u8
-#EXTINF:-1 xui-id="187635" tvg-id="" tvg-name="Univison  Dallas" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIikwoMQx_ZUsEbc6Fl9B8UPF2Ow975Di2DxZD9miMj7TbFVyuRsZ-w3rpbrIf8qhck.png" group-title="USA LATINOS",Univison  Dallas
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHwzp51w3Usg4j7SlTt6WaH5vM8qPE8UGLBVNGAClNTo/m3u8
-#EXTINF:-1 xui-id="106250" tvg-id="" tvg-name="US PARAMOUNT" tvg-logo="https://imgs.search.brave.com/qmG6EsGOXz0VflDtjO5ocE-SYiBh1JZ3EiiQj2FlUg4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzRlL1BhcmFtb3Vu/dCtfbG9nby5zdmc" group-title="USA PREMIUM",US PARAMOUNT
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvPL3Hr_IsGT79j0tyPv2pgq0llFb3g7XsKJTA21sZUOr/m3u8
-#EXTINF:-1 xui-id="106327" tvg-id="" tvg-name="USA NETWORK" tvg-logo="https://arestv.vip:443/images/qH5-dSy6GV1J0EHfxR-zYrjI3Knld-Fh0LZzLPDpIxsDyLuRy3pX6lqm9QLGGo9uCcSpx5pIBhWU3fNmrHtuvqKYDsAH_HuM_BoMK88treNmJS455g47Fs9kWjprU5cG.png" group-title="USA PREMIUM",USA NETWORK
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJ9-tnwV9m8u8_-WRppqgoa7-RAvt1PjUxnYT2sp7L_W/m3u8
-#EXTINF:-1 xui-id="291" tvg-id="ESPN.News.us" tvg-name="USA NETWORK HD" tvg-logo="https://arestv.vip:443/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRU8-GhmMklgbOo5mG5KaqcdoGH1rvcziwGTCZofxxCdstiHZnQXriFdzUkEakNKA2o.png" group-title="PELICULAS",USA NETWORK HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHi-9IiYAHQsEmI2Bay5aKs/m3u8
-#EXTINF:-1 xui-id="105919" tvg-id="" tvg-name="Venevision" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPQQEpn00LMG4eUtsNCO_9OxBlSJVnqc4DX_pV70tS8Lw.png" group-title="VENEZUELA",Venevision
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFTj8WDD2JNWvIRMVvxi_5JJ1miCrCKDwjWOrIF356xA/m3u8
-#EXTINF:-1 xui-id="105920" tvg-id="" tvg-name="Venevision Plus" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj1yPr7OtG57GkZgI_oPuUbdHbptyQQL-TUXRi29uNN7eKuBS9m2tkfl06SpRE_IDXZUaKyV6HBg8EM5sieny-v1j2ahAEZkX4P4KMD1CzP_6reCISeTKrHBtYtZ2Iqs_4.png" group-title="EL SALVADOR",Venevision Plus
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHRU-sAcMK6jwVZyfJMYEbjG2mzPURZxY9ocGF5QeLzT/m3u8
-#EXTINF:-1 xui-id="549" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="VH1 Classic" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPTroZEv3gv632IrWBHG-vbFAiepc2JT1cn-x8P9A3jp8.png" group-title="MUSICA",VH1 Classic
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvDiDXyS2uOdIRYRpUMRnD0U/m3u8
-#EXTINF:-1 xui-id="106321" tvg-id="" tvg-name="VH1+" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsWa4Gxi6UyxGBUDmDwVkBMU.png" group-title="USA PREMIUM",VH1+
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvOaB-rIbDt2_hNLn64oO-4C7-3I6-ksCkYRb3EG7PsjC/m3u8
-#EXTINF:-1 xui-id="106322" tvg-id="VICE.HDTV.(VICEHD).us" tvg-name="VICELAND" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJD65ysS8hNyiK01aiqzXw7IbgQF9ORVrP7If6YklncKuI.png" group-title="USA PREMIUM",VICELAND
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvDQW9TFR4aEb9ycErACxFn4uzRScb2yBIKC8IAfTXuwQ/m3u8
-#EXTINF:-1 xui-id="117644" tvg-id="I701.25615.schedulesdirect.org" tvg-name="VIDEO ROLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/VR-2024.png/revision/latest?cb=20240910031904" group-title="MUSICA",VIDEO ROLA
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHGmq9pk2WBfneiR6zP4czJERj0516SdxYJaPTiEEes3/m3u8
-#EXTINF:-1 xui-id="105701" tvg-id="" tvg-name="Volver" tvg-logo="https://arestv.vip:443/images/jyqcLsa6KL21I3NeDIfVBLX0FuTLND2Rvn9Nvei8ejZmdqsMSY93n2adndR4dDz4TfaPSj108xd5lQ3sDEYlfg.png" group-title="ARGENTINA",Volver
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMXTmHZUIW7o8rRCQ4TNlh-D2TJZ1SlwGGsgetgYHm60/m3u8
-#EXTINF:-1 xui-id="570" tvg-id="" tvg-name="VOZ DE MARIA" tvg-logo="https://arestv.vip:443/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcGoHiH0i_nCWDRuV6sEnk87xFZeHs9jQ2DF5WU6uJEXMREbuPyaHBps3wL8GbF2gME.png" group-title="RELIGION",VOZ DE MARIA
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvA7K5MYUtVEnKLDzCM4ijGQ/m3u8
-#EXTINF:-1 xui-id="105934" tvg-id="VTV.uy" tvg-name="VTV" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXhzmPWFhpd-G9U0BkTZEYeX3yEGreOJKaodpn-RKz8Q.png" group-title="EL SALVADOR",VTV
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvAbWN5wRLxMu_wqCbR9vWNl3pbyftL-_iD10hpvp0J8b/m3u8
-#EXTINF:-1 xui-id="105935" tvg-id="" tvg-name="VTV Plus" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBse0fqPjwXigrHRVJd9vQKMc.png" group-title="EL SALVADOR",VTV Plus
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvCsrOjUMZuxtog891MMrT626x9_hrs251gOcrejtwZ8p/m3u8
-#EXTINF:-1 xui-id="105999" tvg-id="" tvg-name="WAPA" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsULDyPfD0TlQ_3Osrw0SbU8.png" group-title="PUERTO RICO",WAPA
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvNcRe4fKyeGHxdSpkNEx0xSlGK0iuO6gTpB_Z7_hvZhz/m3u8
-#EXTINF:-1 xui-id="106000" tvg-id="" tvg-name="WAPA Deportes 2" tvg-logo="https://arestv.vip:443/images/9jsr_TR1D4MQtMF8PVNamB12olgFm7QEkS412IXRvnXsNTyYo85V5_7i7YXJMsC9oMt3TalKFg2xkxCanKsMFJDVTdMucdNFGBVPNi3oAsw-MAUlvkCboUB36X2da2YpCn9gnpXrtAFN-xep7abf10vb34Sl_ZFJKk4SoFbptew.png" group-title="PUERTO RICO",WAPA Deportes 2
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvGrJmmkCUQXOwojUd9o8H-S0eu8cddqMSgZZJsi151JQ/m3u8
-#EXTINF:-1 xui-id="184" tvg-id="I831.98111.schedulesdirect.org" tvg-name="WARNER HD" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcuvaFrDo5BTJ5ChwobSmVAU-yQG9YfQ65yCcStcLvSMdf.png" group-title="ENTRETENIMIENTO",WARNER HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKqc6nyu9xoLjcVCenIYxXw/m3u8
-#EXTINF:-1 xui-id="116945" tvg-id="" tvg-name="WARNER LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ03vGcrPaawZ6nnT1jH6Z1WBkv8iuoesMI0O-G1zsK_R.png" group-title="TV BAJA VELOCIDAD",WARNER LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvAQPSHneGUBIggz4kHmPsmy567-aUdJIGSGLIU-PaYuo/m3u8
-#EXTINF:-1 xui-id="190864" tvg-id="Win.Sports.co" tvg-name="Win Sports + HD" tvg-logo="https://imgs.search.brave.com/Fsij6UVxTppnNvzREJJLfoGa6uHe-Jq5VYFPdaLWsiM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvOS85OS9XaW5T/cG9ydHMrMjAyMi5w/bmcvcmV2aXNpb24v/bGF0ZXN0L3NjYWxl/LXRvLXdpZHRoLWRv/d24vMzUwP2NiPTIw/MjMwMTA5MTI1NDUy/JnBhdGgtcHJlZml4/PWVz.jpeg" group-title="COLOMBIA",Win Sports + HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFbyVCXZZG_4by39AOr3CHYrKMpjQ1KKp3LGspJsOSAT/m3u8
-#EXTINF:-1 xui-id="190865" tvg-id="Win.Sports.co" tvg-name="Win Sports HD" tvg-logo="https://imgs.search.brave.com/2WoB7UL7V-OsaaIlQ3BvD5jdN8oCYDddakmE_cLq50o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy81/LzU4L1dpbl9TcG9y/dHNfbnVldm9fbG9n/by5zdmc" group-title="COLOMBIA",Win Sports HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvBaq3maO4akAi_Dyp8041a5rHt_jVQgqdZPOJ-WmHDZU/m3u8
-#EXTINF:-1 xui-id="106001" tvg-id="" tvg-name="WIPR" tvg-logo="https://arestv.vip:443/images/KZKimLpoghBpOh-94nTvIHqv3qii58SIeN-7lijNbMxmb6FkTo8i_-pRGU5YhsjGde7D0Uc4ZKsmFAhTV-sKRw.png" group-title="PUERTO RICO",WIPR
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMNZEZAU16SpNZsP65CJWZ5zYc88lullRo23Ol8KOW2z/m3u8
-#EXTINF:-1 xui-id="214" tvg-id="I714.59014.schedulesdirect.org" tvg-name="WOBI HD" tvg-logo="https://arestv.vip:443/images/Bp-vRtZEje6kFpdMZzWxZ68O9jsMBkb2y8f0U0BMq29wFYe626Yal7gO3LcoEffeSEUGevUCHaIfxnw7auulHuqd7Zo65VYfDYY2KLfL6pM.png" group-title="CULTURA",WOBI HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJJQBNPIi81J6StKAGkLTTE/m3u8
-#EXTINF:-1 xui-id="129402" tvg-id="" tvg-name="YES Network" tvg-logo="https://arestv.vip:443/images/D0kME2GX8JuBxsjA98gIvkJZ_QoJMnPk6BpEZTlX6mPZnAaIqh1_LHVrJ0zS5VfrNrQjvWgOp9SlUYKs-xvBaEzOLmm6NwDoSwVIWzY6bA7-VTdDxDWAyutT9N0gFrVo.png" group-title="USA SPORTS",YES Network
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvLkliO3IGY_a4dWzcUQwrAw7_mUmSdVhtaZYnATskp8G/m3u8
-#EXTINF:-1 xui-id="190892" tvg-id="" tvg-name="Yunavision" tvg-logo="https://arestv.vip:443/images/Le89e_tnQAV2Swc93tfxuXEwP8OgAoaKaXKfGKwc5CI.png" group-title="REPUBLICA DOMINICANA",Yunavision
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvCAlBYh7mGOMB7W7uG1upqDMh-Ye4Fq4yZq7CR-QjvDG/m3u8
-#EXTINF:-1 xui-id="432" tvg-id="" tvg-name="ZONA TUDN MX" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsZEOU1EtCGaT7emT1hSYI54.png" group-title="DEPORTES",ZONA TUDN MX
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvP_TXvXTqg1haxDO7ZSDp_E/m3u8
-#EXTINF:-1 xui-id="109019" tvg-id="" tvg-name="ZONA TUDN USA" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ9QW36MRTwrzyodaEsDXL0iyfjDsG7R2NMTg0unf0Se9.png" group-title="DEPORTES",ZONA TUDN USA
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvIRH6EnC5EvCK_92sBNR8XUHe9tIFPiYBGkb6a7qwqSR/m3u8
-#EXTINF:-1 xui-id="116937" tvg-id="" tvg-name="STAR CHANNEL LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ7uOuNiH6qMDdNWr7zJhfw99JVZbDxYU1qAK3qcKW5z_.png" group-title="TV BAJA VELOCIDAD",STAR CHANNEL LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFtT7lYIERT9RTuvJqFMKpXvYv_zjKY5CqaV0TUSWKbj/m3u8
-#EXTINF:-1 xui-id="106950" tvg-id="" tvg-name="Starz Cinema" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ5-xS4N5BJbY9ZC3yzalKd9OueGmhqUp4hscl6ACSzpRCEj4OsBAKH1HPy1okZ25og.png" group-title="USA PREMIUM",Starz Cinema
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvE9wd8XGD_OiJFVneZElxL-82Kxzu4Af-jbC_p5kAyml/m3u8
-#EXTINF:-1 xui-id="106646" tvg-id="" tvg-name="Starz Encore Black HD" tvg-logo="https://arestv.vip:443/images/9OdUCiQsoH3_xwl2-VlAkvClh16K9rAZIN7clbYG-c_m4ep-8Rk_t-yujzFW-GuzVmQu_z5URVEV_4EC3CYEAoT8V2Cqy4Efrzdt_bkPYMI.png" group-title="USA PREMIUM",Starz Encore Black HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMU0rw_JBqY6L8SiiAUGKpWVYetlJLydx-7CSbl-MCyd/m3u8
-#EXTINF:-1 xui-id="106955" tvg-id="" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="https://arestv.vip:443/images/9OdUCiQsoH3_xwl2-VlAkvClh16K9rAZIN7clbYG-c_m4ep-8Rk_t-yujzFW-GuzmO6Zz4pINNKV9OkoOx2IgSqRcu3ls_Nf4N9lI8GJVK0.png" group-title="USA PREMIUM",STARZ ENCORE SUSPENSE
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvB1SrIOLfoCA0xONhlqLIvRmt0STShLbbIZ_Td6XmXvO/m3u8
-
-#EXTINF:-1 xui-id="116919" tvg-id="" tvg-name="H2 LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ2aALdqZof5q78MBRkbx8xa0fvgJg1l65hnbht2UFHrb.png" group-title="TV BAJA VELOCIDAD",H2 LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvB25S0UEjnd0M5rdvyRl3MrcBJ3nbwHKTmqX14QngwjO/m3u8
-#EXTINF:-1 xui-id="106603" tvg-id="" tvg-name="HALLMARK DRAMA" tvg-logo="https://arestv.vip:443/images/9OdUCiQsoH3_xwl2-VlAkvClh16K9rAZIN7clbYG-c_m4ep-8Rk_t-yujzFW-GuzR5x4adiHzVITSHCHxEGxDqgPSBVDWBm7IfSrbHk474A.png" group-title="USA PREMIUM",HALLMARK DRAMA
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvH2VXI11hy83WtpEQIPhwUXKjiwtw7onTB9Vnb_yFwde/m3u8
-#EXTINF:-1 xui-id="106830" tvg-id="" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://arestv.vip:443/images/mg9e4VnU5MiobcDarwnBsRgeUaCOH7QgH06cwWmika8.png" group-title="USA PREMIUM",Hallmark Movies & Mysteries
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvB5oJtZa_E5t54M7uyNRUyWA3nzLbyKJSZom5YgFNQaV/m3u8
-#EXTINF:-1 xui-id="109129" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO + HD" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ7FJFytyg9njCkmwPRd6uryjZHQ7Ak3Qq14UIIbAOlC6.png" group-title="PELICULAS",HBO + HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvFC57833ZJ8BR-HihTCj3OnsysiuXuH3arEp8LIcBW_R/m3u8
-#EXTINF:-1 xui-id="116920" tvg-id="" tvg-name="HBO + LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ7FJFytyg9njCkmwPRd6uryjZHQ7Ak3Qq14UIIbAOlC6.png" group-title="TV BAJA VELOCIDAD",HBO + LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvNOXpi3rPCy5jr2KbNqeF48gyMg2vFIWbp_dSQGn-nCI/m3u8
-#EXTINF:-1 xui-id="225" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO 2 HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPTO1HFrUdbnTXwpZj9cGYILf7XYtYWimKKBP0vvMmHE-.png" group-title="PELICULAS",HBO 2 HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvCbQVUzwPSdc1fi46LNOryk/m3u8
-#EXTINF:-1 xui-id="116921" tvg-id="" tvg-name="HBO 2 LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ5X8b1Y4MwD35o8Q1s2SvaCk3rozL05viGalOppo0GzZ.png" group-title="TV BAJA VELOCIDAD",HBO 2 LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvN1C7hbJvdxOqza0beNQi1M1lLkiR38mI3ZrXdVwojbm/m3u8
-#EXTINF:-1 xui-id="106831" tvg-id="" tvg-name="HBO 2 West" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ5X8b1Y4MwD35o8Q1s2SvaCk3rozL05viGalOppo0GzZ.png" group-title="USA PREMIUM",HBO 2 West
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvKi67zCliJ-u1dwEvUan-60b_CkiqqrgiRmA1GnoewEz/m3u8
-#EXTINF:-1 xui-id="106832" tvg-id="" tvg-name="HBO COMEDY West" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjr9Bi6GJoXxpi48xY-LsXBjrFs_cnteqZDorD2VONBxqZa9G6RiAU4oef_wcEqbeH0t1RyCXg-1ce4-oQUc02KVM7IiJUh8t_HjABw1WiV58.png" group-title="USA PREMIUM",HBO COMEDY West
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvG0mC86gDx3t1-yTC-FGxHAQzOSzRRHw2RuWcBbscvTO/m3u8
-#EXTINF:-1 xui-id="226" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO FAMILY HD" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcups8ivrZmOu36tGKG-Kkr4n4bZ2oq8UH-lfmd0SRLxJl.png" group-title="PELICULAS",HBO FAMILY HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvOObhQt3QqrlJ-TRGbIu3-g/m3u8
-#EXTINF:-1 xui-id="116922" tvg-id="" tvg-name="HBO FAMILY LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ2mt8qg9Tx7Yrrd5J_RSgb8KuPDcxW155ElfYZ85pUza.png" group-title="TV BAJA VELOCIDAD",HBO FAMILY LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvEF8vy0guL9OKt4su4TYM0_W2gJux-Uq54Vqr4I5U-Pf/m3u8
-#EXTINF:-1 xui-id="106604" tvg-id="" tvg-name="HBO FAMILY West" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ2mt8qg9Tx7Yrrd5J_RSgb8KuPDcxW155ElfYZ85pUza.png" group-title="USA PREMIUM",HBO FAMILY West
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvHO4O3uEPeB6_8GS-he3IeIqGf_-qdnocoEpHjEem7T9/m3u8
-#EXTINF:-1 xui-id="223" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPTy9qvNuk1mhVd-FCvXHmW24dcE8dW2Rzw3y5-aclI5U.png" group-title="PELICULAS",HBO HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvMTAu0zJvLn9pJZwlBRKOLo/m3u8
-#EXTINF:-1 xui-id="116923" tvg-id="" tvg-name="HBO LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJyWsEmFf2hOfTXCWW0Gl5lnWSQPaPYdVF-Yxl5s7LJ4U.png" group-title="TV BAJA VELOCIDAD",HBO LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvD2eE8XT__kjX5e7rwYUyNOB_LGG6SDO69Iq2jk_weVE/m3u8
-#EXTINF:-1 xui-id="272" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO MUNDI  HD" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjauLZl80I1rWOIeFZSq5fcvjbhUIuf4rcX-1tq4niWQ0xXd7qWmYRBXkxgvD3_c1V.png" group-title="PELICULAS",HBO MUNDI  HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvDRJjiS_djH_aHJbHVWxVhU/m3u8
-#EXTINF:-1 xui-id="227" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO POP HD" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjs4uvde2X6F0BV0VJ_cFRlyxA2G8by4hQZWAbxVNOpVYdDuYZ_1GuPnjfLu4mpbBN.png" group-title="PELICULAS",HBO POP HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvLG6yDoJmL3NXA2G1eARbrk/m3u8
-#EXTINF:-1 xui-id="228" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="HBO SIGNATURE HD" tvg-logo="https://arestv.vip:443/images/qw9Sd5JnDX2uSQDrGmMcukeYBeXB09amZMKfG4aHcGM2HdOWTzZvC_B6pJl8bY56f26F_8VxMq7_Urt9lKuBgw.png" group-title="PELICULAS",HBO SIGNATURE HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvCg8H2g-vmBm5jzQ6hYGhBI/m3u8
-#EXTINF:-1 xui-id="116924" tvg-id="" tvg-name="HBO SIGNATURE LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ6EIx1AsaARIrlpMtQ_v5Zhk_cOoYIXNrTbTMugucIwP.png" group-title="TV BAJA VELOCIDAD",HBO SIGNATURE LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvLXfK1EQ-gRR0fP93s5qWG42hiNrSClrxa2uHEn9S2Xg/m3u8
-#EXTINF:-1 xui-id="106834" tvg-id="" tvg-name="HBO SIGNATURE West" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ6EIx1AsaARIrlpMtQ_v5Zhk_cOoYIXNrTbTMugucIwP.png" group-title="USA PREMIUM",HBO SIGNATURE West
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvOeVQ1-FslKTq9dpvgTQmOLDEtf_vJz2iLa-b6z8Le6p/m3u8
-#EXTINF:-1 xui-id="106835" tvg-id="" tvg-name="HBO West" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJ5P_MmZtqUUYKcn7jGX-erZ_Bw7gPncOjklY0oU91Tvy.png" group-title="USA PREMIUM",HBO West
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvI_mvfg__eDUf60qIeSwdvpG7nRpHjTx5wNyRK5Ma6MH/m3u8
-#EXTINF:-1 xui-id="277" tvg-id="Canal.Azteca.Uno.mx" tvg-name="HBO XTREME HD" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjwqjJrGOGcGQByVZHemU7BEPkZ8vOTBUqnanWDP5P7CgCLxoTjQ5mmCi7TrQoGZWd9izbiTCBqLXue3jrEfCNcQ.png" group-title="PELICULAS",HBO XTREME HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvNLjUukBmIwff5F2qZbnK1U/m3u8
-#EXTINF:-1 xui-id="106836" tvg-id="" tvg-name="HBO ZONE West" tvg-logo="https://arestv.vip:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtIU25XWi5Xp2LlCto5OysJ_EyEVCN0UoY509asGktejU.png" group-title="USA PREMIUM",HBO ZONE West
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvDgXQji0HHsQn4SE3NyzXlx5I8Kstzi7VZhVjAWSBHiX/m3u8
-#EXTINF:-1 xui-id="106017" tvg-id="" tvg-name="HCH" tvg-logo="https://arestv.vip:443/images/4FufRx5_6IlW_b9_0NCcvVz43zsaSDTgEtASROiIdsWfvuqnhZfEDGnIRqk8UnLkFtCxUIjjpC8S2IZKlVClZA.png" group-title="HONDURAS",HCH
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvGorwg4iV_tvPlrmUQHxSjzhf8J23wfUt-PWOoDiNRYQ/m3u8
-#EXTINF:-1 xui-id="116925" tvg-id="" tvg-name="HGTV LQ" tvg-logo="https://arestv.vip:443/images/vQIjAnKmdTArDQNEHKQgJz3K6ScJfmXv7zh_doa-BgdZT9hzB9lv3KaneTLwcR2_.png" group-title="TV BAJA VELOCIDAD",HGTV LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvJz3_6DDHs146Jbhdc0MplNiUwKxL_98rw2BYvJd0UNx/m3u8
-#EXTINF:-1 xui-id="128949" tvg-id="" tvg-name="HI SPORTS" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/HISportslogo.png/revision/latest?cb=20230427055859&path-prefix=es" group-title="DEPORTES",HI SPORTS
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvE2Myq_ZijEH8uF5yBzXnshI3Qcl7V1qpLVBGoobIOSl/m3u8
-#EXTINF:-1 xui-id="106606" tvg-id="" tvg-name="History" tvg-logo="https://imgs.search.brave.com/yD8erUmAZOgxzsHCyvpuDfW3jhNbQj43xAkHefZyKUc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hZXRu/Y29ycG9yYXRlLnMz/LmV1LXdlc3QtMi5h/bWF6b25hd3MuY29t/L3MzZnMtcHVibGlj/L3N0eWxlcy9icmFu/ZF9sb2dvL3B1Ymxp/Yy8yMDIzLTAzL2hp/c3RvcnktY2hhbm5l/bC5wbmc_aXRvaz0z/Mk1BR2FyNw" group-title="USA PREMIUM",History
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvGUDrCv8SJtVrTM7lEpzTvBSJXwL0D0iDmMSW63d7-Il/m3u8
-#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="HISTORY 2 HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPV31IA_AvEj5KxUN6exFb4g.png" group-title="CULTURA",HISTORY 2 HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvEpIeylmctO2rc_ESRxPsUE/m3u8
-#EXTINF:-1 xui-id="109" tvg-id="2706" tvg-name="HISTORY HD" tvg-logo="https://arestv.vip:443/images/-kRhDmGtaRfxVEGEnqonPf15eG1FEmTrDD-BCLLkfSVdnhZtjxZdzfWaTZmpbWTP.png" group-title="CULTURA",HISTORY HD
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvOmh6O4_K2RdxMgx_zcrM_c/m3u8
-#EXTINF:-1 xui-id="116926" tvg-id="" tvg-name="HISTORY LQ" tvg-logo="https://imgs.search.brave.com/dZJevknRZmmZrZKa2uxaLj3E6ZOovVyrAMdfXfbP3PQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ29zLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8x/Mi9oaXN0b3J5X2No/YW5uZWwtYnJhbmRs/b2dvLm5ldF8tNTEy/eDUxMi5wbmc" group-title="TV BAJA VELOCIDAD",HISTORY LQ
-https://arestv.vip:443/play/_GbAlyO6FE4mn5k0TDqZvA3lPMVNfEvxMU1oIbfC4nMw8maTm05EQQWAuvxWkIsY/m3u8
-
-
-
-
-
+#EXTINF:-1,133 UNIVISION WEST HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595801
+#EXTINF:-1,132 UNIVISION EAST HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1595800
+#EXTINF:-1,Usa | Lat Univision Denver
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113597
+#EXTINF:-1,Usa | Lat Univision Los Angeles
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113595
+#EXTINF:-1,Lat || Usa Univision Albuquerque Santa Fe
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113612
+#EXTINF:-1,Lat || Usa Univision Atlanta
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113600
+#EXTINF:-1,Lat || Usa Univision Austin
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113601
+#EXTINF:-1,Usa | Lat Univision Chicago
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113613
+#EXTINF:-1,Lat || Usa Univision Cleveland
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113602
+#EXTINF:-1,Usa | Lat Univision DALLAS
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113615
+#EXTINF:-1,Usa | Lat Univision EAST
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113616
+#EXTINF:-1,Lat || Usa Univision Fresno
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113603
+#EXTINF:-1,Usa | Lat Univision Houston
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113617
+#EXTINF:-1,Usa | Lat Univision LA
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113618
+#EXTINF:-1,Usa | Lat Univision Miami
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113614
+#EXTINF:-1,Usa | Lat Univision NY
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113619
+#EXTINF:-1,Lat || Usa Univision Philadelphia
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113604
+#EXTINF:-1,Lat || Usa Univision Phoenix
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113605
+#EXTINF:-1,Usa | Lat Univision Puerto Rico
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113621
+#EXTINF:-1,Lat || Usa Univision Raleigh
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113606
+#EXTINF:-1,Lat || Usa Univision Salt Lake
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113608
+#EXTINF:-1,Lat || Usa Univision San Antonio
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113609
+#EXTINF:-1,Lat || Usa Univision San Francisco
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113610
+#EXTINF:-1,Usa | Lat Univision WEST
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1113620
+#EXTINF:-1,US: ABC Atlanta
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/25286
+#EXTINF:-1,US: ABC Baltimore
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/25267
+#EXTINF:-1,ADN 40 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310577
+#EXTINF:-1,HBO POP HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310578
+#EXTINF:-1,TNT HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310579
+#EXTINF:-1,TUDN USA
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310580
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310581
+#EXTINF:-1,FOX SPORTS 3 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310582
+#EXTINF:-1,CANAL DE LAS ESTRELLAS HD CDMX
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310583
+#EXTINF:-1,HBO HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310584
+#EXTINF:-1,HBO 2 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310585
+#EXTINF:-1,HBO FAMILY HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310586
+#EXTINF:-1,HBO MUNDI HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310587
+#EXTINF:-1,HBO PLUS HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310588
+#EXTINF:-1,HBO SIGNATURE HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310589
+#EXTINF:-1,HBO XTREME HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310590
+#EXTINF:-1,MX|*DISTRITO COMEDIA HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310591
+#EXTINF:-1,MX |* DISCOVERY H&H  HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310592
+#EXTINF:-1,MX |* CLARO SPORTS FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310593
+#EXTINF:-1,MX |* ADRENALINA FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310594
+#EXTINF:-1,MX |* TLC FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310595
+#EXTINF:-1,MX |* TCM HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310596
+#EXTINF:-1,MX |* TBS FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310597
+#EXTINF:-1,MX |* SPACE HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310598
+#EXTINF:-1,MX |* NICK HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310599
+#EXTINF:-1,MX | * H2 MEXICO FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310600
+#EXTINF:-1,MX |* CNN MEXICO FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310601
+#EXTINF:-1,MX |* AYM DEPORTES MEXICO  FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310602
+#EXTINF:-1,MX |* HBO XTREME HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310603
+#EXTINF:-1,MX |* HBO FAMILY HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310604
+#EXTINF:-1,MX |* ANTENA SERIES HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310605
+#EXTINF:-1,MX |* HBO 2 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310606
+#EXTINF:-1,MX |* HBO HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310607
+#EXTINF:-1,MX |* GOURMET HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310608
+#EXTINF:-1,MX |* GOLDEN PREMIER HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310609
+#EXTINF:-1,MX |* GOLDEN PLUS HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310610
+#EXTINF:-1,MX |* GOLDEN HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310611
+#EXTINF:-1,MX |* GALATV HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310612
+#EXTINF:-1,MX |* FX HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310613
+#EXTINF:-1,MX |* FOX SPORTS 3 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310614
+#EXTINF:-1,MX |* FOX SPORTS 2 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310615
+#EXTINF:-1,MX |* FOX SPORTS 1 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310616
+#EXTINF:-1,MX |* Star Channel HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310617
+#EXTINF:-1,MX |* FOOD NETWORK HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310618
+#EXTINF:-1,MX |* ESTRELLAS -2 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310619
+#EXTINF:-1,MX |* ESPN 3 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310620
+#EXTINF:-1,MX |* ESPN 2 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310621
+#EXTINF:-1,MX |* ESPN 1 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310622
+#EXTINF:-1,MX |* ESPN  EXTRA HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310623
+#EXTINF:-1,MX |* E ENTERTAINMENT HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310624
+#EXTINF:-1,MX |* D'PELICULA HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310625
+#EXTINF:-1,MX |* COMEDY CENTRAL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310626
+#EXTINF:-1,MX |* DISCOVERY WORLD HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310627
+#EXTINF:-1,MX |* DISCOVERY TURBO HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310628
+#EXTINF:-1,MX |* DISCOVERY SCIENCE HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310629
+#EXTINF:-1,MX |* DISCOVERY CHANNEL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310630
+#EXTINF:-1,MX |* DISCOVERY THEATER HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310631
+#EXTINF:-1,MX |* DISCOVERY ID HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310632
+#EXTINF:-1,MX |* CINEMA FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310633
+#EXTINF:-1,MX |* CINECANAL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310634
+#EXTINF:-1,MX |* FORO TV HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310635
+#EXTINF:-1,MX |* CANAL 5 XHGC HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310636
+#EXTINF:-1,MX |* BANDAMAX FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310637
+#EXTINF:-1,MX |* AZTECA 7 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310638
+#EXTINF:-1,MX |* AZTECA UNO HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310639
+#EXTINF:-1,MX |* AXN SERIES HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310640
+#EXTINF:-1,MX |* ANIMAL PLANET HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310641
+#EXTINF:-1,MX |* ADN 40 HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310643
+#EXTINF:-1,MX |* WARNER FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310644
+#EXTINF:-1,MX |* TVC DEPORTES FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310645
+#EXTINF:-1,MX |* Adult Swim HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310646
+#EXTINF:-1,MX |* TELEHIT FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310647
+#EXTINF:-1,MX |* SONY FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310648
+#EXTINF:-1,MX |* MTV FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310649
+#EXTINF:-1,MX |* MAS CHIC FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310650
+#EXTINF:-1,MX |* HBO MUNDI HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310651
+#EXTINF:-1,MX |* GOLDEN EDGE FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310652
+#EXTINF:-1,MX |* DISCOVERY KIDS FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310654
+#EXTINF:-1,MX |* BITME FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310655
+#EXTINF:-1,MX |* UNIVERSAL CHANNEL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310656
+#EXTINF:-1,MX |* UNICABLE FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310657
+#EXTINF:-1,MX |* A&E FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310658
+#EXTINF:-1,MX |* TOONCAST HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310659
+#EXTINF:-1,MX |* TNT SERIES HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310660
+#EXTINF:-1,MX |* TNT HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310661
+#EXTINF:-1,MX |* AMC FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310662
+#EXTINF:-1,MX |* DISCOVERY TLC FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310663
+#EXTINF:-1,MX |* TUDN HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310664
+#EXTINF:-1,MX |* PARAMOUNT HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310665
+#EXTINF:-1,MX |* OUTDOOR HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310666
+#EXTINF:-1,MX |* NICKTOONS HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310667
+#EXTINF:-1,MX |* NATGEO WILD FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310668
+#EXTINF:-1,MX |* NATGEO HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310669
+#EXTINF:-1,MX |* iSAT HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310670
+#EXTINF:-1,MX |* HISTORY CHANNEL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310671
+#EXTINF:-1,MX |* HBO SIGNATURE HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310672
+#EXTINF:-1,MX |* HBO POP HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310673
+#EXTINF:-1,MX |* HBO PLUS HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310674
+#EXTINF:-1,MX |* COMEDY CENTRAL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310675
+#EXTINF:-1,MX |* ESTUDIO UNIVERSAL HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310676
+#EXTINF:-1,MX |* CARTOON NETWORK HD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310677
+#EXTINF:-1,MX |* SYFY FHD
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310678
