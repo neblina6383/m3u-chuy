@@ -1,21 +1,3 @@
-#EXTINF:-1,FUBO LATINO
-https://dnslivetv.online:443/7336/1234/860387.m3u8
-#EXTINF:-1,Bein Sports Extra Espanol
-https://dnslivetv.online:443/7336/1234/860385.m3u8
-#EXTINF:-1,Bein Sports Extra
-https://dnslivetv.online:443/7336/1234/860384.m3u8
-#EXTINF:-1,Bein Sports 2
-https://dnslivetv.online:443/7336/1234/860383.m3u8
-#EXTINF:-1,Fubo Sport Network
-https://dnslivetv.online:443/7336/1234/860381.m3u8
-#EXTINF:-1,court tv
-https://dnslivetv.online:443/7336/1234/860379.m3u8
-#EXTINF:-1,Att sportsnet southwest alternate
-https://dnslivetv.online:443/7336/1234/860378.m3u8
-#EXTINF:-1 ,UNIVISION NOTICIAS
-https://dnslivetv.online:443/7336/1234/591674.m3u8
-#EXTINF:-1 ,UNIVISION NOTICIAS (OP2)
-https://dnslivetv.online:443/7336/1234/591675.m3u8
 #EXTINF:-1,AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1,AZTECA 7
@@ -156,10 +138,24 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/15672.ts
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/21127.ts
 #EXTINF:-1,STAR TVE HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/4292.ts
-#EXTINF:-1,133 UNIVISION WEST HD
-http://moontools.me:8080/Freddy/Freddy321456/1595801
-#EXTINF:-1,132 UNIVISION EAST HD
-http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1580937
+#EXTINF:-1,FUBO LATINO
+https://dnslivetv.online:443/7336/1234/860387.m3u8
+#EXTINF:-1,Bein Sports Extra Espanol
+https://dnslivetv.online:443/7336/1234/860385.m3u8
+#EXTINF:-1,Bein Sports Extra
+https://dnslivetv.online:443/7336/1234/860384.m3u8
+#EXTINF:-1,Bein Sports 2
+https://dnslivetv.online:443/7336/1234/860383.m3u8
+#EXTINF:-1,Fubo Sport Network
+https://dnslivetv.online:443/7336/1234/860381.m3u8
+#EXTINF:-1,court tv
+https://dnslivetv.online:443/7336/1234/860379.m3u8
+#EXTINF:-1,Att sportsnet southwest alternate
+https://dnslivetv.online:443/7336/1234/860378.m3u8
+#EXTINF:-1 ,UNIVISION NOTICIAS
+https://dnslivetv.online:443/7336/1234/591674.m3u8
+#EXTINF:-1 ,UNIVISION NOTICIAS (OP2)
+https://dnslivetv.online:443/7336/1234/591675.m3u8
 #EXTINF:-1,SONY HD
 http://moontools.me:8080/Freddy/Freddy321456/1595639
 #EXTINF:-1,UNIVERSAL HD
@@ -5233,8 +5229,6 @@ https://dnslivetv.online:443/7336/1234/1157107.m3u8
 https://dnslivetv.online:443/7336/1234/1157108.m3u8
 #EXTINF:-1 ,LENCA TV
 https://dnslivetv.online:443/7336/1234/1157109.m3u8
-#EXTINF:-1 ,Univision Puerto Rico
-https://dnslivetv.online:443/7336/1234/1171247.m3u8
 #EXTINF:-1 ,WPLG 10 MIAMI
 https://dnslivetv.online:443/7336/1234/1171452.m3u8
 #EXTINF:-1 ,TODO DEPORTES
@@ -5255,13 +5249,5 @@ https://dnslivetv.online:443/7336/1234/1176902.m3u8
 https://dnslivetv.online:443/7336/1234/1176907.m3u8
 #EXTINF:-1 ,UFC NETWORK
 https://dnslivetv.online:443/7336/1234/1185378.m3u8
-#EXTINF:-1 ,GRAN HERMANO 1
-https://dnslivetv.online:443/7336/1234/1187198.m3u8
-#EXTINF:-1 ,GRAN HERMANO 1 24/7
-https://dnslivetv.online:443/7336/1234/1187201.m3u8
-#EXTINF:-1 ,GRAN HERMANO 2 24/7
-https://dnslivetv.online:443/7336/1234/1187202.m3u8
-#EXTINF:-1 ,GRAN HERMANO 2
-https://dnslivetv.online:443/7336/1234/1187199.m3u8
 #EXTINF:-1 ,Televisa Monterrey
 https://dnslivetv.online:443/7336/1234/1196007.m3u8
