@@ -26,34 +26,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/17739.ts
-#EXTINF:-1,CANTINFLAS 24-7
-http://moontools.me:8080/live/Freddy/Freddy321456/1379249.m3u8
 #EXTINF:-1 ,24/7 CANTINFLAS
 https://dnslivetv.online:443/7336/1234/1078657.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13889.ts
-#EXTINF:-1,MX |* GOLDEN HD
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310611
-#EXTINF:-1,MX |* COMEDY CENTRAL HD#EXTINF:-1,91 GOLDEN EDGE STV
-http://moontools.me:8080/Freddy/Freddy321456/1595760
-#EXTINF:-1,83 GOLDEN PREMIER SK
-http://moontools.me:8080/Freddy/Freddy321456/1595752
-#EXTINF:-1,82 GOLDEN EDGEN SK
-http://moontools.me:8080/Freddy/Freddy321456/1595751
-#EXTINF:-1,81 europa´EUROPA SK
-http://moontools.me:8080/Freddy/Freddy321456/1595750
-#EXTINF:-1,80 GOLDEN HD SK
-http://moontools.me:8080/Freddy/Freddy321456/1595749
-#EXTINF:-1,79 CLARO SPORTS 4
-http://moontools.me:8080/Freddy/Freddy321456/1595748
-#EXTINF:-1,MX || Cine Canal Vip
-http://moontools.me:8080/Freddy/Freddy321456/16370
-#EXTINF:-1,MX || Cinecanal HD
-http://moontools.me:8080/Freddy/Freddy321456/81868
-#EXTINF:-1,MX || Cinemax HD
-http://moontools.me:8080/Freddy/Freddy321456/81859
-#EXTINF:-1,MX || CNN en Español
-http://moontools.me:8080/Freddy/Freddy321456/81970
 #EXTINF:-1,Cinecanal 2 HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13971.ts
 #EXTINF:-1,Cartoon Network HD
@@ -90,10 +66,6 @@ http://sudaka.link:25461/jotace62/KxU3de1Fr5/13946.ts
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/33270.ts
 #EXTINF:-1,CINE HISPANO
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/33456.ts
-#EXTINF:-1,MX || AyM Sports HD
-http://moontools.me:8080/Freddy/Freddy321456/81851
-#EXTINF:-1,MX || Cinema HD
-http://moontools.me:8080/Freddy/Freddy321456/81869
 #EXTINF:-1,AXN HD
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13991.ts
 #EXTINF:-1,Cinemax HD
@@ -166,7 +138,6 @@ http://moontools.me:8080/Freddy/Freddy321456/1595637
 http://moontools.me:8080/Freddy/Freddy321456/81887
 #EXTINF:-1,MX || De Pelicula plus SD
 http://moontools.me:8080/Freddy/Freddy321456/81695
-#EXTM3U
 #EXTINF:-1 ,TUDN
 https://dnslivetv.online:443/7336/1234/931778.m3u8
 #EXTINF:-1 ,TR3S
