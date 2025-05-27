@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,NFL NETWORK
-https://dnslivetv.online:443/7336/1234/585788
-#EXTINF:-1 ,NFL REDZONE
-https://dnslivetv.online:443/7336/1234/585789
+#EXTINF:-1,NFL NETWORK (US)
+http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ3_KCKPQkmvwkm-RTY7L8y1I/m3u8
+#EXTINF:-1,NFL Network HD+
+http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ31FRxeCralK1mShg54Ej-zb9MEsc6A9CYhqufJbl5VwK/m3u8
+#EXTINF:-1,NFL Redzone
+http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ3z52mv31YeCjX1F64KDIHho/m3u8
 #EXTINF:-1 ,TNT USA HD
 http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ3_sufgVtwiskM-puQ1_ZVZY/m3u8
 #EXTINF:-1 ,Usa HD
