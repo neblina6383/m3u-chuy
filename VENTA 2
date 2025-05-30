@@ -67,6 +67,14 @@ http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ32NVjWGo5lvzBgAthyR2lj44ptmjj
 http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ3x_FLTLfiavgHgotFt7d7kcqFo368xjmb0TQ6Ve1inrf/m3u8
 #EXTINF:-1 ,NETFLIX TV 34
 http://iptvglobal.site:80/play/dIX6XXddO3hfdqNrNXCZ372ECX8cOdMqNUP1ZWVz5-yMHQmdSs_KzbKpvUnhRfrr/m3u8
+#EXTINF:-1,MX || Azteca uno
+https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
+#EXTINF:-1,MX ||Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1,MX || Azteca mas
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1,MX || Adn 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,A&E
 http://sudaka.link:25461/jotace62/KxU3de1Fr5/13995.ts
 #EXTINF:-1,A&E HD
