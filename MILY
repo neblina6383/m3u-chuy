@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,WNBA (US)
-http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/476798.ts
 #EXTINF:-1 ,ESPN 7 HD
 http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/478038.ts
 #EXTINF:-1,USA | Travel Channel
@@ -2057,6 +2055,7 @@ http://play.tecnomolly.com:8080/Keylarojas2023/xAWxw9RbBxtJ/299081
 http://play.tecnomolly.com:8080/Keylarojas2023/xAWxw9RbBxtJ/299082
 #EXTINF:-1,24/7 El Chavo del ocho
 http://play.tecnomolly.com:8080/Keylarojas2023/xAWxw9RbBxtJ/299083
-
+#EXTINF:-1,WNBA (US)
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/476798.ts
 
 
