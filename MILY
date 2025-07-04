@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,USA | ESPN 
+http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/36748
+#EXTINF:-1,USA | ESPN News
+http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/36756
+#EXTINF:-1,USA | ESPN 2 
+http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/43574
+#EXTINF:-1,USA | ESPN U
+http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/154889
+#EXTINF:-1,USA | ESPN ACCN
+http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/154888
 #EXTINF:-1,USA | Travel Channel
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/36814
 #EXTINF:-1,PR | MegaTV
