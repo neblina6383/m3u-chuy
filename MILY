@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,USA | ESPN 
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/36748
-#EXTINF:-1,WBNA | ESPN News
-}http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/481960.m3u8
+#EXTINF:-1,USA | WBNA
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/481960.ts
 #EXTINF:-1,USA | ESPN 2 
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/43574
 #EXTINF:-1,USA | ESPN U
