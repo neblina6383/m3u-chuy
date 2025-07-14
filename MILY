@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,USA | ESPN 
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/36748
-#EXTINF:-1,USA | WBNA
+#EXTINF:-1,USA | WNBA
 http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/481960.ts
-#EXTINF:-1,USA | WBNA 2
+#EXTINF:-1,USA | WNBA 2
 https://dnslivetv.online/Jose/1234/1298554.m3u8
 #EXTINF:-1,USA | ESPN 2 
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/43574
