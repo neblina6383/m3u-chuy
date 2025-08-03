@@ -11,6 +11,20 @@ http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704094.m3u8
 http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704095.m3u8
 #EXTINF:-1,USA | WNBA 5
 http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704096.m3u8
+
+
+#EXTINF:-1,USA | WNBA 6
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485975.m3u8
+#EXTINF:-1,USA | WNBA 7 
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485976.m3u8
+#EXTINF:-1,USA | WNBA 8
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485977.m3u8
+#EXTINF:-1,USA | WNBA 9
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485978.m3u8
+#EXTINF:-1,USA | WNBA 10
+http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485979.m3u8
+
+
 #EXTINF:-1,USA | NBA 1
 http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/36906
 #EXTINF:-1,USA | ESPN 2 
