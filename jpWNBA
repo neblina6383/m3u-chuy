@@ -1,21 +1,46 @@
 #EXTM3U
-#EXTINF:-1,USA | WNBA
-http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704092.m3u8
-#EXTINF:-1,USA | WNBA 2
-http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704093.m3u8
-#EXTINF:-1,USA | WNBA 3
-http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704094.m3u8
-#EXTINF:-1,USA | WNBA 4
-http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704095.m3u8
-#EXTINF:-1,USA | WNBA 5
-http://jmrk.xyz:5050/live/johnjgiery@yahoo.com/cXz2S7RqnZ/704096.m3u8
-#EXTINF:-1,USA | WNBA 6
-http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485975.m3u8
-#EXTINF:-1,USA | WNBA 7
-http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485976.m3u8
-#EXTINF:-1,USA | WNBA 8
-http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485977.m3u8
-#EXTINF:-1,USA | WNBA 9
-http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485978.m3u8
-#EXTINF:-1,USA | WNBA 10
-http://app.tecnomolly.com:8080/live/sburgueno/52ZNSjqpQRSN/485979.m3u8
+#EXTINF:-1,MECH-X4 S01 E01
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48258.mp4
+#EXTINF:-1,MECH-X4 S01 E02
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48259.mp4
+#EXTINF:-1,MECH-X4 S01 E03
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48260.mp4
+#EXTINF:-1,MECH-X4 S01 E04
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48261.mp4
+#EXTINF:-1,MECH-X4 S01 E05
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48262.mp4
+#EXTINF:-1,MECH-X4 S01 E06
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48263.mp4
+#EXTINF:-1,MECH-X4 S01 E07
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48264.mp4
+#EXTINF:-1,MECH-X4 S01 E08
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48265.mp4
+#EXTINF:-1,MECH-X4 S01 E09
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48266.mp4
+#EXTINF:-1,MECH-X4 S01 E10
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48267.mp4
+#EXTINF:-1,MECH-X4 S01 E11
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48268.mp4
+#EXTINF:-1,MECH-X4 S01 E12
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48269.mp4
+#EXTINF:-1,MECH-X4 S01 E13
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48270.mp4
+#EXTINF:-1,MECH-X4 S01 E14
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48271.mp4
+#EXTINF:-1,MECH-X4 S01 E15
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48272.mp4
+#EXTINF:-1,MECH-X4 S01 E16
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48273.mp4
+#EXTINF:-1,MECH-X4 S02 E01
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48274.mp4
+#EXTINF:-1,MECH-X4 S02 E02
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48275.mp4
+#EXTINF:-1,MECH-X4 S02 E03
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48276.mp4
+#EXTINF:-1,MECH-X4 S02 E04
+http://play.tecnomolly.com:8080/series/sburgueno/52ZNSjqpQRSN/48277.mp4
+
+
+
+
+
