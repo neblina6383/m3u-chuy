@@ -16,8 +16,6 @@ http://xpaneltv.com:8080/RicaRinc/443672953/59623
 http://xpaneltv.com:8080/RicaRinc/443672953/59624
 #EXTINF:-1 tvg-id="telemundo.houston.tx.us" tvg-name="Telemundo Houston HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo Houston HD
 http://xpaneltv.com:8080/RicaRinc/443672953/59625
-#EXTINF:-1 tvg-id="1.colombia.co" tvg-name="MTV Ahora HD" tvg-logo="http://xpaneltv.com:8080/images/45df5d0cacc1f4c34c1a7f62d5c8c803.jpg" group-title="USA Latinos",MTV Ahora HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59626
 #EXTINF:-1 tvg-id="univision.pacific.us" tvg-name="Univision Atlanta HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Atlanta HD
 http://xpaneltv.com:8080/RicaRinc/443672953/59627
 #EXTINF:-1 tvg-id="antena.3.es" tvg-name="Antena 3" tvg-logo="http://xpaneltv.com:8080/images/e5afa362595c3472acfdbc7f6a7ef205.png" group-title="DirecT SD",Antena 3
@@ -400,3 +398,5 @@ http://xpaneltv.com:8080/RicaRinc/443672953/50600
 http://xpaneltv.com:8080/RicaRinc/443672953/50601
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://xpaneltv.com:8080/images/5a9209d8a7ee924079e72cf808984046.png" group-title="USA Channels",AMC
 http://xpaneltv.com:8080/RicaRinc/443672953/50602
+#EXTINF:-1 tvg-id="1.colombia.co" tvg-name="MTV Ahora HD" tvg-logo="http://xpaneltv.com:8080/images/45df5d0cacc1f4c34c1a7f62d5c8c803.jpg" group-title="USA Latinos",MTV Ahora HD
+http://xpaneltv.com:8080/RicaRinc/443672953/59626
