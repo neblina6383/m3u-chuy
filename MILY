@@ -8,14 +8,8 @@ http://xpaneltv.com:8080/RicaRinc/443672953/59619
 http://xpaneltv.com:8080/RicaRinc/443672953/59620
 #EXTINF:-1 tvg-id="univision.mountain.us" tvg-name="Univision Philadelphia HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Philadelphia HD
 http://xpaneltv.com:8080/RicaRinc/443672953/59621
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo Chicago HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo Chicago HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59622
-#EXTINF:-1 tvg-id="telemundo.pacific.us" tvg-name="Telemundo New York HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo New York HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59623
 #EXTINF:-1 tvg-id="univision.eastern.us" tvg-name="Univision Houston HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Houston HD
 http://xpaneltv.com:8080/RicaRinc/443672953/59624
-#EXTINF:-1 tvg-id="telemundo.houston.tx.us" tvg-name="Telemundo Houston HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo Houston HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59625
 #EXTINF:-1 tvg-id="univision.pacific.us" tvg-name="Univision Atlanta HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Atlanta HD
 http://xpaneltv.com:8080/RicaRinc/443672953/59627
 #EXTINF:-1 tvg-id="antena.3.es" tvg-name="Antena 3" tvg-logo="http://xpaneltv.com:8080/images/e5afa362595c3472acfdbc7f6a7ef205.png" group-title="DirecT SD",Antena 3
@@ -150,6 +144,13 @@ http://xpaneltv.com:8080/RicaRinc/443672953/49680
 http://xpaneltv.com:8080/RicaRinc/443672953/49684
 #EXTINF:-1 tvg-id="telepacifico.co" tvg-name="TelePacifico HD" tvg-logo="http://xpaneltv.com:8080/images/4bb082583d28b8fc3b34c85d5fbe7f16.png" group-title="Colombia",TelePacifico HD
 http://xpaneltv.com:8080/RicaRinc/443672953/49685
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo Chicago HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo Chicago HD
+http://xpaneltv.com:8080/RicaRinc/443672953/59622
+#EXTINF:-1 tvg-id="telemundo.pacific.us" tvg-name="Telemundo New York HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo New York HD
+http://xpaneltv.com:8080/RicaRinc/443672953/59623
+#EXTINF:-1 tvg-id="telemundo.houston.tx.us" tvg-name="Telemundo Houston HD" tvg-logo="http://xpaneltv.com:8080/images/6d21b0d23a0753861f2565d5bec3953e.png" group-title="USA Latinos",Telemundo Houston HD
+http://xpaneltv.com:8080/RicaRinc/443672953/59625
+
 #EXTINF:-1 tvg-id="win.sports.co" tvg-name="WIN SPORTS + HD" tvg-logo="http://xpaneltv.com:8080/images/a44bb3c59fdbb8339d95608fbfe6b498.png" group-title="Colombia",WIN SPORTS + HD
 http://xpaneltv.com:8080/RicaRinc/443672953/49687
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="http://xpaneltv.com:8080/images/b539e2266b0268233647ddafd4ffc6e8.png" group-title="Deportes LATAM SD",ESPN
