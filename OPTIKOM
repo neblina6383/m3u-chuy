@@ -1,28 +1,472 @@
-#EXTM3U
-           
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS HD OP2
-http://181.78.105.146:2000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS HD OP3
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KauCe0l8MhtEOlx_7-ASNkYQ/ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/509px-Estrella_TV_Logo_2020.png?20210701011117" group-title="MEXICO",ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
-http://181.78.105.146:2000/play/a08z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KauPyB4YAB0z4Xbsqo3cWqHA/ts
-
-#EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KanXdMzp_KSTITXlXI_wLo3c/ts
+#EXTINF:-1,MEX-ADN 40 (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164589
+#EXTINF:-1,MEX-Alcance TV (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164591
+#EXTINF:-1,MEX-AMX Noticias (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164592
+#EXTINF:-1,MEX-Aym Sports (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87584
+#EXTINF:-1,MEX-AZ Cinema (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87585
+#EXTINF:-1,MEX-AZ Clic (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87566
+#EXTINF:-1,MEX-AZ Clic (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87586
+#EXTINF:-1,MEX-AZ Corazon (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87568
+#EXTINF:-1,MEX-AZ Corazón (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87587
+#EXTINF:-1,MEX-AZ Mundo (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87589
+#EXTINF:-1,MEX-Azteca 7 (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87572
+#EXTINF:-1,MEX-Azteca 7 (L)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87571
+#EXTINF:-1,MEX-Azteca 7 (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87569
+#EXTINF:-1,MEX-Azteca 7 (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87570
+#EXTINF:-1,MEX-Azteca Deportes (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87574
+#EXTINF:-1,MEX-Azteca Internacional (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164596
+#EXTINF:-1,MEX-Azteca UNO (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87576
+#EXTINF:-1,MEX-Azteca Uno (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87593
+#EXTINF:-1,MEX-Azteca UNO -2 Horas (L)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87575
+#EXTINF:-1,MEX-BitMe (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87592
+#EXTINF:-1,MEX-Bloomberg (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87577
+#EXTINF:-1,MEX-Canal 10 Chiapas (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164605
+#EXTINF:-1,MEX-Canal 10 Durango (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164606
+#EXTINF:-1,MEX-Canal 15 ILCE Summa Sabres (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164617
+#EXTINF:-1,MEX-Canal 44 Chihuahua (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164623
+#EXTINF:-1,MEX-Canal 44 Ciudad Juárez (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164624
+#EXTINF:-1,MEX-Canal 5 (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87598
+#EXTINF:-1,MEX-Canal 5 (L)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87597
+#EXTINF:-1,MEX-Canal 5 TV Cozumel (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164602
+#EXTINF:-1,MEX-Conecta TV (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164630
+#EXTINF:-1,MEX-CreaLaTV (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164632
+#EXTINF:-1,MEX-Estrella News (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164637
+#EXTINF:-1,MEX-Estrella TV (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164638
+#EXTINF:-1,MEX-IERTBCS Canal 8 La Paz (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164647
+#EXTINF:-1,MEX-IERTBCS Canal 8.2 La Paz (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164646
+#EXTINF:-1,MEX-Imagen TV (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87616
+#EXTINF:-1,MEX-Imagen TV (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87615
+#EXTINF:-1,MEX-ITV Deportes
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164650
+#EXTINF:-1,MEX-Jalisco TV (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164651
+#EXTINF:-1,MEX-Justicia TV (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164652
+#EXTINF:-1,MEX-Las Estrellas (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87579
+#EXTINF:-1,MEX-Las Estrellas (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87578
+#EXTINF:-1,MEX-Las Estrellas -2 Horas (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87583
+#EXTINF:-1,MEX-María Visión Mexico (W)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164656
+#EXTINF:-1,MEX-Mexiquense TV (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164658
+#EXTINF:-1,MEX-Monte Maria (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164661
+#EXTINF:-1,MEX-MyTime Movie Network Mexico (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164670
+#EXTINF:-1,MEX-Notigram TV (XHFGL-TDT) (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164672
+#EXTINF:-1,MEX-Nueve TV San Luís Potosí (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164677
+#EXTINF:-1,MEX-Once México (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164679
+#EXTINF:-1,MEX-Once TV (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87603
+#EXTINF:-1,MEX-PSN (W)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164681
+#EXTINF:-1,MEX-PSN Canal 45.2 (W)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164682
+#EXTINF:-1,MEX-Raly TV (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164686
+#EXTINF:-1,MEX-RCG TV (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164687
+#EXTINF:-1,MEX-RTG (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164689
+#EXTINF:-1,MEX-SET Televisión Canal 26.1 (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164692
+#EXTINF:-1,MEX-SET Televisión Canal 26.2 (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164693
+#EXTINF:-1,MEX-Señal España (XHUNES-TDT) (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164691
+#EXTINF:-1,MEX-SIPSE TV 8.1 (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164695
+#EXTINF:-1,MEX-Sistema Michoacano de TV (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164697
+#EXTINF:-1,MEX-SQCS Canal 4 (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164700
+#EXTINF:-1,MEX-Super Channel 12 (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164702
+#EXTINF:-1,MEX-Telemax (XEWH-TDT) (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164707
+#EXTINF:-1,MEX-Teleplay Sureste (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164708
+#EXTINF:-1,MEX-Televisa Monterrey (L)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87605
+#EXTINF:-1,MEX-Tlaxcala Televisión (W)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164711
+#EXTINF:-1,MEX-TRC Televisión (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164713
+#EXTINF:-1,MEX-TUDN (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87590
+#EXTINF:-1,MEX-TV Azteca Noreste (Info7 Monterrey) (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164715
+#EXTINF:-1,MEX-TV Cuatro 4.1 (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164717
+#EXTINF:-1,MEX-TV Mar Los Cabos (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164725
+#EXTINF:-1,MEX-TV Mar Puerto Vallarta (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164726
+#EXTINF:-1,MEX-TV UJAT (XHUJAT-TDT) (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164730
+#EXTINF:-1,MEX-TVC Deportes (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87610
+#EXTINF:-1,MEX-TVMÁS (XHGV-TDT) (W)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164731
+#EXTINF:-1,MEX-USA Latino (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87614
+#EXTINF:-1,MEX-VB Media TV (W)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164741
+#EXTINF:-1,MEX-Visión Televisión (W)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164742
+#EXTINF:-1,MEX_Canal 5 (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87596
+#EXTINF:-1,MEX_Foro TV (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87595
+#EXTINF:-1,MEX_Las Estrellas -1hr (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87580
+#EXTINF:-1,MEX_Las Estrellas -2hr (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87581
+#EXTINF:-1,MEX_MilenioTV (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87599
+#EXTINF:-1,NOV-Univision (WXTV-New York NY) (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8392
+#EXTINF:-1,NOV-Univision (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/67009
+#EXTINF:-1,NOV-Univision - TeleNovelas (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/67012
+#EXTINF:-1,NOV-Univision 14 - San Francisco (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/67010
+#EXTINF:-1,NOV-Univision Chicago (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8394
+#EXTINF:-1,NOV-Univision Houston (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8395
+#EXTINF:-1,NOV-Univision Los Angeles (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8396
+#EXTINF:-1,NOV-Univision Los Angeles (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8397
+#EXTINF:-1,NOV-Univision Miami (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8398
+#EXTINF:-1,NOV-Univision Miami (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8399
+#EXTINF:-1,NOV-Univision Network (TV)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8400
+#EXTINF:-1,NOV-Univision New York (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8401
+#EXTINF:-1,NOV-Univision New York (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8402
+#EXTINF:-1,CINE - A&E (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9614
+#EXTINF:-1,CINE - A&E (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9615
+#EXTINF:-1,CINE - A&E (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9616
+#EXTINF:-1,CINE - HBO (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9666
+#EXTINF:-1,CINE - HBO (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9667
+#EXTINF:-1,CINE - HBO (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9668
+#EXTINF:-1,CINE - HBO (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9670
+#EXTINF:-1,CINE - HBO (TV)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9669
+#EXTINF:-1,CINE - HBO 2 (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9671
+#EXTINF:-1,CINE - HBO 2 (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9673
+#EXTINF:-1,CINE - HBO 2 (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9674
+#EXTINF:-1,CINE - HBO 2 (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9675
+#EXTINF:-1,CINE - HBO Family (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9676
+#EXTINF:-1,CINE - HBO Family (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9678
+#EXTINF:-1,CINE - HBO Family (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9679
+#EXTINF:-1,CINE - HBO Family (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9680
+#EXTINF:-1,CINE - HBO Family. (TV)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9677
+#EXTINF:-1,CINE - HBO Mundi (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9682
+#EXTINF:-1,CINE - HBO Mundi (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9683
+#EXTINF:-1,CINE - HBO Plus (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9685
+#EXTINF:-1,CINE - HBO Plus (M)(SD) [Dual Audio]
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9686
+#EXTINF:-1,CINE - HBO Plus (TV)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9687
+#EXTINF:-1,CINE - HBO Plus (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9688
+#EXTINF:-1,CINE - HBO POP (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9689
+#EXTINF:-1,CINE - HBO POP (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9691
+#EXTINF:-1,CINE - HBO POP. (TV)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9690
+#EXTINF:-1,CINE - HBO Signature (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9692
+#EXTINF:-1,CINE - HBO Signature (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9693
+#EXTINF:-1,CINE - HBO Signature Dual Audio (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9695
+#EXTINF:-1,CINE - HBO SUR (Z)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9696
+#EXTINF:-1,CINE - HBO Xtream (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9697
+#EXTINF:-1,CINE - HBO Xtreme (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9698
+#EXTINF:-1,CINE - HBO Xtreme (TV)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9700
+#EXTINF:-1,CINE - HBO Xtreme (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9701
+#EXTINF:-1,CINE - HBO Xtreme Dual (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9779
+#EXTINF:-1,CINE - HBO Xtreme. (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9699
+#EXTINF:-1,CINE - HBO. 2 (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9672
+#EXTINF:-1,CINE - FX (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9652
+#EXTINF:-1,CINE - FX (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9653
+#EXTINF:-1,CINE - FX (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9654
+#EXTINF:-1,CINE - FX MEX (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9655
+#EXTINF:-1,CINE - STAR Channel CO (M)(1080) [Dual Audio]
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9721
+#EXTINF:-1,CINE - STAR Channel CO. (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9722
+#EXTINF:-1,CINE - STAR Channel MX (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9723
+#EXTINF:-1,CINE - Star Channel Norte (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9724
+#EXTINF:-1,CINE - Star Channel Sur (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9725
+#EXTINF:-1,CINE - TNT (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9742
+#EXTINF:-1,CINE - TNT (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9743
+#EXTINF:-1,CINE - TNT (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9744
+#EXTINF:-1,CINE - TNT (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9745
+#EXTINF:-1,CINE - TNT Novelas  (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9747
+#EXTINF:-1,CINE - TNT Novelas (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9737
+#EXTINF:-1,CINE - TNT Series (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9748
+#EXTINF:-1,CINE - TNT Series (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9749
+#EXTINF:-1,CINE - TNT Series (Z)(720).
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9751
+#EXTINF:-1,CINE - Universal Channel (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9753
+#EXTINF:-1,CINE - Universal Channel (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9755
+#EXTINF:-1,CINE - Universal Cinema (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9756
+#EXTINF:-1,CINE - Universal Cinema (M)(1080) [Dual Audio]
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9757
+#EXTINF:-1,CINE - Universal Comedy (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9759
+#EXTINF:-1,CINE - Universal Crime (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9761
+#EXTINF:-1,CINE - Universal Crime (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9762
+#EXTINF:-1,CINE - Universal Crime (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9763
+#EXTINF:-1,CINE - Universal Crime (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9764
+#EXTINF:-1,CINE - Universal Premier (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9765
+#EXTINF:-1,CINE - Universal Premier (M)(1080) [Dual Audio]
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9766
+#EXTINF:-1,CINE - Universal Premier (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9767
+#EXTINF:-1,CINE - Universal Premiere Norte (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9768
+#EXTINF:-1,CINE - Universal Reality (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9770
+#EXTINF:-1,CINE - Universal Reality (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9771
+#EXTINF:-1,CINE - Universal Reality (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9772
+#EXTINF:-1,CINE - Universal Reality (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9773
+#EXTINF:-1,CINE - Warner Channel (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9774
+#EXTINF:-1,CINE - Warner Channel (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9776
+#EXTINF:-1,CINE - Warner Channel Dual Audio (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9775
+#EXTINF:-1,CINE - AMC (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9619
+#EXTINF:-1,CINE - AMC (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9702
+#EXTINF:-1,CINE - AMC (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9620
+#EXTINF:-1,CINE - AXN (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9623
+#EXTINF:-1,CINE - AXN (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9624
+#EXTINF:-1,CINE - AXN (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9625
+#EXTINF:-1,CINE - A3 Cine INT (TV)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9617
+#EXTINF:-1,CINE - A3 Series (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9618
+#EXTINF:-1,CINE - Cine Latino (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9626
+#EXTINF:-1,CINE - Cine Latino (Z)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9627
+#EXTINF:-1,CINE - CineCanal (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9629
+#EXTINF:-1,CINE - CineCanal (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9630
+#EXTINF:-1,CINE - Cinecanal (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9631
+#EXTINF:-1,CINE - Cinema Dinamita (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9632
+#EXTINF:-1,CINE - Cinemax (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9633
+#EXTINF:-1,CINE - Cinemax (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9635
+#EXTINF:-1,CINE - Comedy Central (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9636
+#EXTINF:-1,CINE - Comedy Central (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9637
+#EXTINF:-1,CINE - De Pelicula (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9638
+#EXTINF:-1,CINE - De Pelicula Plus (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9639
+#EXTINF:-1,CINE - De Película (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9642
+#EXTINF:-1,CINE - DHE (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9643
+#EXTINF:-1,CINE - Distrito Comedia (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9644
+#EXTINF:-1,CINE - Distrito Comedia (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9645
+#EXTINF:-1,CINE - E! (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9646
+#EXTINF:-1,CINE - El Gourmet (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9647
+#EXTINF:-1,CINE - Europa Europa (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9648
+#EXTINF:-1,CINE - Film & Arts (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9649
+#EXTINF:-1,CINE - Film And Arts (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9650
+#EXTINF:-1,CINE - Filmex (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9640
+#EXTINF:-1,CINE - Filmex Clasico (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9641
+#EXTINF:-1,CINE - Food Network (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9651
+#EXTINF:-1,CINE - Golden (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9657
+#EXTINF:-1,CINE - Golden Edge (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9658
+#EXTINF:-1,CINE - Golden Edge (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9659
+#EXTINF:-1,CINE - Golden Plus (L)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9660
+#EXTINF:-1,CINE - Golden Plus (M)(1080) [Dual Audio]
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9661
+#EXTINF:-1,CINE - Golden Plus (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9662
+#EXTINF:-1,CINE - Golden Premier 2 (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9663
+#EXTINF:-1,CINE - Golden Premiere (M)(1080) [Dual Audio]
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9664
+#EXTINF:-1,CINE - Golden Premiere 2 (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9665
+#EXTINF:-1,CINE - Lifetime (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9703
+#EXTINF:-1,CINE - Panico MEX (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9704
+#EXTINF:-1,CINE - Paramount (Z)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9705
+#EXTINF:-1,CINE - Paramount Channel. (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9708
+#EXTINF:-1,CINE - Showtime Extreme (Z)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9709
+#EXTINF:-1,CINE - Showtime West Dual (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9710
+#EXTINF:-1,CINE - Sony Channel (L)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9711
+#EXTINF:-1,CINE - Sony Channel (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9712
+#EXTINF:-1,CINE - Sony Cine (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9713
+#EXTINF:-1,CINE - Sony Comedias (S)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9714
+#EXTINF:-1,CINE - Sony Novelas (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9716
+#EXTINF:-1,CINE - Space (TV)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9717
+#EXTINF:-1,CINE - Space (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9718
+#EXTINF:-1,CINE - Star TVE (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9726
+#EXTINF:-1,CINE - Starz Comedy (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9728
+#EXTINF:-1,CINE - Starz Encore Suspense (Z)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9730
+#EXTINF:-1,CINE - Starz Family (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9731
+#EXTINF:-1,CINE - Studio Universal (M)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9732
+#EXTINF:-1,CINE - Syfy (M)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9735
+#EXTINF:-1,CINE - TBS (Z)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9738
+#EXTINF:-1,CINE - TBS Very Funny (TV)(720)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9739
+#EXTINF:-1,CINE - TCM (M)(SD)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9740
+#EXTINF:-1,CINE - TCM (Z)(1080)
+http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9741
