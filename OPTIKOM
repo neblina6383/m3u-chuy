@@ -1,7 +1,5 @@
 #EXTINF:-1,MEX-ADN 40 (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164589
-#EXTINF:-1,MEX-Alcance TV (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164591
 #EXTINF:-1,MEX-AMX Noticias (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164592
 #EXTINF:-1,MEX-Aym Sports (M)(720)
@@ -28,8 +26,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87569
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87570
 #EXTINF:-1,MEX-Azteca Deportes (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87574
-#EXTINF:-1,MEX-Azteca Internacional (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164596
 #EXTINF:-1,MEX-Azteca UNO (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87576
 #EXTINF:-1,MEX-Azteca Uno (M)(720)
@@ -40,14 +36,8 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87575
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87592
 #EXTINF:-1,MEX-Bloomberg (M)(SD)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87577
-#EXTINF:-1,MEX-Canal 10 Chiapas (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164605
-#EXTINF:-1,MEX-Canal 10 Durango (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164606
 #EXTINF:-1,MEX-Canal 15 ILCE Summa Sabres (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164617
-#EXTINF:-1,MEX-Canal 44 Chihuahua (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164623
 #EXTINF:-1,MEX-Canal 44 Ciudad Juárez (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164624
 #EXTINF:-1,MEX-Canal 5 (L)(720)
@@ -60,14 +50,8 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164602
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164630
 #EXTINF:-1,MEX-CreaLaTV (W)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164632
-#EXTINF:-1,MEX-Estrella News (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164637
-#EXTINF:-1,MEX-Estrella TV (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164638
 #EXTINF:-1,MEX-IERTBCS Canal 8 La Paz (W)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164647
-#EXTINF:-1,MEX-IERTBCS Canal 8.2 La Paz (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164646
 #EXTINF:-1,MEX-Imagen TV (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87616
 #EXTINF:-1,MEX-Imagen TV (M)(SD)
@@ -84,18 +68,8 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87579
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87578
 #EXTINF:-1,MEX-Las Estrellas -2 Horas (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87583
-#EXTINF:-1,MEX-María Visión Mexico (W)(SD)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164656
-#EXTINF:-1,MEX-Mexiquense TV (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164658
-#EXTINF:-1,MEX-Monte Maria (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164661
 #EXTINF:-1,MEX-MyTime Movie Network Mexico (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164670
-#EXTINF:-1,MEX-Notigram TV (XHFGL-TDT) (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164672
-#EXTINF:-1,MEX-Nueve TV San Luís Potosí (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164677
 #EXTINF:-1,MEX-Once México (W)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164679
 #EXTINF:-1,MEX-Once TV (M)(720)
@@ -106,50 +80,24 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164681
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164682
 #EXTINF:-1,MEX-Raly TV (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164686
-#EXTINF:-1,MEX-RCG TV (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164687
-#EXTINF:-1,MEX-RTG (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164689
-#EXTINF:-1,MEX-SET Televisión Canal 26.1 (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164692
 #EXTINF:-1,MEX-SET Televisión Canal 26.2 (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164693
-#EXTINF:-1,MEX-Señal España (XHUNES-TDT) (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164691
-#EXTINF:-1,MEX-SIPSE TV 8.1 (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164695
-#EXTINF:-1,MEX-Sistema Michoacano de TV (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164697
 #EXTINF:-1,MEX-SQCS Canal 4 (W)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164700
 #EXTINF:-1,MEX-Super Channel 12 (W)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164702
-#EXTINF:-1,MEX-Telemax (XEWH-TDT) (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164707
 #EXTINF:-1,MEX-Teleplay Sureste (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164708
 #EXTINF:-1,MEX-Televisa Monterrey (L)(SD)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87605
 #EXTINF:-1,MEX-Tlaxcala Televisión (W)(SD)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164711
-#EXTINF:-1,MEX-TRC Televisión (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164713
-#EXTINF:-1,MEX-TUDN (M)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87590
 #EXTINF:-1,MEX-TV Azteca Noreste (Info7 Monterrey) (W)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164715
-#EXTINF:-1,MEX-TV Cuatro 4.1 (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164717
-#EXTINF:-1,MEX-TV Mar Los Cabos (W)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164725
 #EXTINF:-1,MEX-TV Mar Puerto Vallarta (W)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164726
-#EXTINF:-1,MEX-TV UJAT (XHUJAT-TDT) (W)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164730
 #EXTINF:-1,MEX-TVC Deportes (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87610
-#EXTINF:-1,MEX-TVMÁS (XHGV-TDT) (W)(SD)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/164731
 #EXTINF:-1,MEX-USA Latino (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87614
 #EXTINF:-1,MEX-VB Media TV (W)(1080)
@@ -166,8 +114,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87580
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87581
 #EXTINF:-1,MEX_MilenioTV (M)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87599
-#EXTINF:-1,NOV-Univision (WXTV-New York NY) (M)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8392
 #EXTINF:-1,NOV-Univision (Z)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/67009
 #EXTINF:-1,NOV-Univision - TeleNovelas (TV)(720)
@@ -202,10 +148,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9616
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9666
 #EXTINF:-1,CINE - HBO (M)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9667
-#EXTINF:-1,CINE - HBO (TV)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9668
-#EXTINF:-1,CINE - HBO (TV)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9670
 #EXTINF:-1,CINE - HBO (TV)(SD)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9669
 #EXTINF:-1,CINE - HBO 2 (L)(720)
@@ -312,22 +254,16 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9756
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9757
 #EXTINF:-1,CINE - Universal Comedy (TV)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9759
-#EXTINF:-1,CINE - Universal Crime (L)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9761
 #EXTINF:-1,CINE - Universal Crime (M)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9762
 #EXTINF:-1,CINE - Universal Crime (TV)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9763
-#EXTINF:-1,CINE - Universal Crime (Z)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9764
 #EXTINF:-1,CINE - Universal Premier (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9765
 #EXTINF:-1,CINE - Universal Premier (M)(1080) [Dual Audio]
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9766
 #EXTINF:-1,CINE - Universal Premier (TV)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9767
-#EXTINF:-1,CINE - Universal Premiere Norte (Z)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9768
 #EXTINF:-1,CINE - Universal Reality (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9770
 #EXTINF:-1,CINE - Universal Reality (M)(1080)
@@ -344,8 +280,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9776
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9775
 #EXTINF:-1,CINE - AMC (L)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9619
-#EXTINF:-1,CINE - AMC (M)(SD)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9702
 #EXTINF:-1,CINE - AMC (TV)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9620
 #EXTINF:-1,CINE - AXN (M)(1080)
@@ -398,8 +332,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9647
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9648
 #EXTINF:-1,CINE - Film & Arts (Z)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9649
-#EXTINF:-1,CINE - Film And Arts (M)(SD)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9650
 #EXTINF:-1,CINE - Filmex (Z)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9640
 #EXTINF:-1,CINE - Filmex Clasico (Z)(1080)
@@ -418,8 +350,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9660
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9661
 #EXTINF:-1,CINE - Golden Plus (Z)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9662
-#EXTINF:-1,CINE - Golden Premier 2 (Z)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9663
 #EXTINF:-1,CINE - Golden Premiere (M)(1080) [Dual Audio]
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9664
 #EXTINF:-1,CINE - Golden Premiere 2 (TV)(720)
@@ -428,8 +358,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9665
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9703
 #EXTINF:-1,CINE - Panico MEX (TV)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9704
-#EXTINF:-1,CINE - Paramount (Z)(720)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9705
 #EXTINF:-1,CINE - Paramount Channel. (TV)(720)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9708
 #EXTINF:-1,CINE - Showtime Extreme (Z)
@@ -452,10 +380,6 @@ http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9717
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9718
 #EXTINF:-1,CINE - Star TVE (M)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9726
-#EXTINF:-1,CINE - Starz Comedy (M)(1080)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9728
-#EXTINF:-1,CINE - Starz Encore Suspense (Z)
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9730
 #EXTINF:-1,CINE - Starz Family (M)(1080)
 http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9731
 #EXTINF:-1,CINE - Studio Universal (M)(1080)
