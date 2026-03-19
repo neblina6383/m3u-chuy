@@ -1,3 +1,7 @@
 #EXTM3U#
 #EXTINF:-1 tvg-id="ADN 40"
 https://arestv.vip/live/penablanco890890/penablanco890890/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[New_York] Univision-WXTV " tvg-logo="" group-title=" - USA LATINO",[New_York] Univision-WXTV https://dnslivetv.online:443/7336/1234/1563904
+#EXTINF:-1 tvg-id="" tvg-name="[Phoenix] TMO-KTAZ " tvg-logo="" group-title=" - USA LATINO",[Phoenix] TMO-KTAZ https://dnslivetv.online:443/7336/1234/1563972
+#EXTINF:-1 tvg-id="" tvg-name="[Phoenix] Univision-KTVW " tvg-logo="" group-title=" - USA LATINO",[Phoenix] Univision-KTVW
+https://arestv.vip/live/penablanco890890/penablanco890890/133.m3u8
