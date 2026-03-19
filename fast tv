@@ -1,7 +1,7 @@
 #EXTM3U
 #
-
-
+#EXTINF:-1 tvg-id="ADN 40"
+https://arestv.vip/live/penablanco890890/penablanco890890/133.ts
 
 EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="TUDNM" tvg-name="TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" group-title=" - TUDN SPORTS - ",TUDN
