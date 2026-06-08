@@ -1,59 +1,16 @@
-#EXTM3U
-#EXTINF:-1,#EXTINF:0,Ambient Sleeping Pill [Opt-1]
-http://tv14s.xyz:8080/live/FxQ7fU/508292/14823.m3u8
-#EXTINF:-1,#EXTINF:0,Ambient Sleeping Pill [Opt-2]
-http://tv14s.xyz:8080/live/FxQ7fU/508292/14824.m3u8
-#EXTINF:-1,#EXTINF:0,Audio Noir Radio
-http://tv14s.xyz:8080/live/FxQ7fU/508292/14826.m3u8
-#EXTINF:-1,011.FM - Motown live
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17846.m3u8
-#EXTINF:-1,011.FM - Retro 70s
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17858.m3u8
-#EXTINF:-1,011.FM - Totally 90s
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17826.m3u8
-#EXTINF:-1,1 Faith FM
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17785.m3u8
-#EXTINF:-1,1 HITS 50s live
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17872.m3u8
-#EXTINF:-1,107.5 Cool FM
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17548.m3u8
-#EXTINF:-1,181. FM Hip HOP
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17523.m3u8
-#EXTINF:-1,1Faith FM - Christmas Classics 
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17823.m3u8
-#EXTINF:-1,2000 FM - RNB and Hip Hop
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17598.m3u8
-#EXTINF:-1,50's Radio (VanDAmm Special)
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17541.m3u8
-#EXTINF:-1,57 Chevy Love Songs
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17838.m3u8
-#EXTINF:-1,91.7 Giant FM
-http://tv14s.xyz:8080/live/FxQ7fU/508292/23003.m3u8
-#EXTINF:-1,A1 Crooners
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17857.m3u8
-#EXTINF:-1,ABC 50's
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17873.m3u8
-#EXTINF:-1,ABC 60's
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17552.m3u8
-#EXTINF:-1,ACDC 247
-http://tv14s.xyz:8080/live/FxQ7fU/508292/23004.m3u8
-#EXTINF:-1,Ace Radio
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17783.m3u8
-#EXTINF:-1,Alex Jones - Infowars.com
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17579.m3u8
-#EXTINF:-1,All Underground Hip Hop
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17588.m3u8
-#EXTINF:-1,Alternative Rock
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17849.m3u8
-#EXTINF:-1,America's Greatest 70s Hits
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17575.m3u8
-#EXTINF:-1,Amsterdam Trance
-http://tv14s.xyz:8080/live/FxQ7fU/508292/14721.m3u8
-#EXTINF:-1,Antena 1 FM 94.7
-http://tv14s.xyz:8080/live/FxQ7fU/508292/14724.m3u8
-#EXTINF:-1,arty Vibe: Drum&Bass, Jungle, Breakbeat
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17855.m3u8
-#EXTINF:-1,Associated Press Radio live
-http://tv14s.xyz:8080/live/FxQ7fU/508292/17800.m3u8
-#EXTINF:-1,AU: FOX SPORTS 505
-http://tv14s.xyz:8080/live/FxQ7fU/508292/57771.m3u8
+#EXTINF:-1,US Univision (East) (SP)
+http://tv14s.xyz:8080/live/FxQ7fU/508292/46692.m3u8
+#EXTINF:-1,US Up TV 
+http://tv14s.xyz:8080/live/FxQ7fU/508292/10525.m3u8
+#EXTINF:-1,US USA Network (East)  
+http://tv14s.xyz:8080/live/FxQ7fU/508292/10252.m3u8
+#EXTINF:-1,US VH1 (East) 
+http://tv14s.xyz:8080/live/FxQ7fU/508292/46705.m3u8
+#EXTINF:-1,US VH1 
+http://tv14s.xyz:8080/live/FxQ7fU/508292/7404.m3u8
+#EXTINF:-1,US VICELAND 
+http://tv14s.xyz:8080/live/FxQ7fU/508292/46697.m3u8
+#EXTINF:-1,US VSiN (F)
+http://tv14s.xyz:8080/live/FxQ7fU/508292/18941.m3u8
+#EXTINF:-1,US WAPA America 
+http://tv14s.xyz:8080/live/FxQ7fU/508292/76481.m3u8
