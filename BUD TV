@@ -1,9 +1,13 @@
-ame="US: DISNEY XD EAST" tvg-logo="https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTp0-cuf1NowczzFNbSzkGQzuFvUhuZLksfSRKG8Vu6MSw.png" group-title="🇺🇸 |  KIDS FAMILY",US: DISNEY XD EAST
-https://zonacero.lat:443/12121212/12121212/420450
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JR WEST" tvg-logo="https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTqz5Qm5NE8ZvRvIUV3Ka0xcT__H0BgwFUddHQa-Fk6ehQ.png" group-title="🇺🇸 |  KIDS FAMILY",US: DISNEY JR WEST
-https://zonacero.lat:443/12121212/12121212/420451
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JR EAST" tvg-logo="https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTqz5Qm5NE8ZvRvIUV3Ka0xcT__H0BgwFUddHQa-Fk6ehQ.png" group-title="🇺🇸 |  KIDS FAMILY",US: DISNEY JR EAST
-https://zonacero.lat:443/12121212/12121212/420452
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY CHANNEL WEST" tvg-logo="https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTqz5Qm5NE8ZvRvIUV3Ka0xcT__H0BgwFUddHQa-Fk6ehQ.png" group-title="🇺🇸 |  KIDS FAMILY",US: DISNEY CHANNEL WEST
-https://zonacero.lat:443/12121212/12121212/420453
-#EXTINF:-1 tvg-id="" tvg-
+#EXTM3U
+#EXTINF:-1,USA | Travel Channel
+http://play.pelusa.online:8080/live/Javper8414/UUYvtcNWeRyh/36814.m3u8
+#EXTINF:-1,PR | MegaTV
+http://play.pelusa.online:8080/live/Javper8414/UUYvtcNWeRyh/31140.m3u8
+#EXTINF:-1,PR | Telemundo San Juan
+http://play.pelusa.online:8080/live/Javper8414/UUYvtcNWeRyh/31144.m3u8
+#EXTINF:-1,PR | Tele 11
+http://play.pelusa.online:8080/live/Javper8414/UUYvtcNWeRyh/31145.m3u8
+#EXTINF:-1,PR | WAPA
+http://play.pelusa.online:8080/live/Javper8414/UUYvtcNWeRyh/31146.m3u8
+#EXTINF:-1,PR | WAPA 2
+http://play.pelusa.online:8080/live/Javper8414/UUYvtcNWeRyh/31147.m3u8
