@@ -1,46 +1,1161 @@
-#EXTINF:-1 tvg-id="univision.mountain.us" tvg-name="Univision Chicago HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Chicago HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59617
-#EXTINF:-1 tvg-id="univision.pacific.us" tvg-name="Univision Dallas HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Dallas HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59618
-#EXTINF:-1 tvg-id="univision.pacific.us" tvg-name="Univision Los Angeles HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Los Angeles HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59619
-#EXTINF:-1 tvg-id="univision.pacific.us" tvg-name="Univision New York HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision New York HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59620
-#EXTINF:-1 tvg-id="univision.mountain.us" tvg-name="Univision Philadelphia HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Philadelphia HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59621
-#EXTINF:-1 tvg-id="univision.eastern.us" tvg-name="Univision Houston HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Houston HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59624
-#EXTINF:-1 tvg-id="univision.pacific.us" tvg-name="Univision Atlanta HD" tvg-logo="http://xpaneltv.com:8080/images/01e01a54af3f57f09a0f1591c61425ca.png" group-title="USA Latinos",Univision Atlanta HD
-http://xpaneltv.com:8080/RicaRinc/443672953/59627
-#EXTINF:-1,PR | UNIVISION 
-http://tv14s.xyz:8080/FxQ7fU/508292/108248
-#EXTINF:-1,Univision 14 Bay Area (KDTV)
-https://dnslivetv.online:443/7336/1234/1289814
-#EXTINF:-1,Univision 23 Miami (WLTV)
-https://dnslivetv.online:443/7336/1234/1289815
-#EXTINF:-1,Univision 34 Atlanta (WUVG)
-https://dnslivetv.online:443/7336/1234/1289816
-#EXTINF:-1,Univision 34 Los Angeles (KMEX)
-https://dnslivetv.online:443/7336/1234/1289817
-#EXTINF:-1,Univision 41 New York (WXTV)
-https://dnslivetv.online:443/7336/1234/1289818
-#EXTINF:-1,Univision 45 Houston (KXLN)
-https://dnslivetv.online:443/7336/1234/1289819
-#EXTINF:-1,Univision 66 Chicago (WGBO)
-https://dnslivetv.online:443/7336/1234/1289820
+#EXTM3U
+#EXTINF:-1,USA | Travel Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36814.m3u8
+#EXTINF:-1,PR | Telemundo San Juan
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31144.m3u8
+#EXTINF:-1,PR | Tele 11
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31145.m3u8
+#EXTINF:-1,PR | WAPA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31146.m3u8
+#EXTINF:-1,PR | WAPA 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31147.m3u8
+#EXTINF:-1,USA | Comedy Central
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36771.m3u8
+#EXTINF:-1,USA | TV Land
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36790.m3u8
+#EXTINF:-1,USA | OWN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36791.m3u8
+#EXTINF:-1,USA | Destination America
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36796.m3u8
+#EXTINF:-1,USA | IFC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36797.m3u8
+#EXTINF:-1,USA | WE TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36798.m3u8
+#EXTINF:-1,USA | BBC AMERICA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36801.m3u8
+#EXTINF:-1,USA | Viceland
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36816.m3u8
+#EXTINF:-1,USA | FYI
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36821.m3u8
+#EXTINF:-1,USA | Telemundo 51 Miami
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36874.m3u8
+#EXTINF:-1,USA | Telemundo 39 Dallas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36888.m3u8
+#EXTINF:-1,AR | A24
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67525.m3u8
+#EXTINF:-1,AR | Canal 26
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67523.m3u8
+#EXTINF:-1,AR | Telefe
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181625.m3u8
+#EXTINF:-1,USA | Bravo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67784.m3u8
+#EXTINF:-1,USA | AMC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/148821.m3u8
+#EXTINF:-1,SV | Canal 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/130757.m3u8
+#EXTINF:-1,SV | Canal 4
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/130758.m3u8
+#EXTINF:-1,SV | Canal 21
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/130761.m3u8
+#EXTINF:-1,CR | TD+
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68303.m3u8
+#EXTINF:-1,CR | Teletica
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68310.m3u8
+#EXTINF:-1,CR | Tigo Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181731.m3u8
+#EXTINF:-1,EC | Ecuador TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67615.m3u8
+#EXTINF:-1,EC | Ecuavisa
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67613.m3u8
+#EXTINF:-1,EC | Teleamazonas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67610.m3u8
+#EXTINF:-1,EC | RTS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67616.m3u8
+#EXTINF:-1,EC | TVC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67620.m3u8
+#EXTINF:-1,CL | TV Chile
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67557.m3u8
+#EXTINF:-1,CL | La Red
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67560.m3u8
+#EXTINF:-1,CL | Teletrak
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67564.m3u8
+#EXTINF:-1,CL | CDO Premium
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67567.m3u8
+#EXTINF:-1,CL | Mega
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67568.m3u8
+#EXTINF:-1,CL | Canal 13
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67572.m3u8
+#EXTINF:-1,USA | FOX News
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33993.m3u8
+#EXTINF:-1,USA | The Weather Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67765.m3u8
+#EXTINF:-1,USA | FOX Business
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67933.m3u8
+#EXTINF:-1,USA | ESPN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36748.m3u8
+#EXTINF:-1,USA | ESPN News
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36756.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43574.m3u8
+#EXTINF:-1,USA | FOX Sports 1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36904.m3u8
+#EXTINF:-1,USA | FOX Sports 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36905.m3u8
+#EXTINF:-1,USA | Bally Sports Detroit
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43577.m3u8
+#EXTINF:-1,USA | Bally Sports New Orleans
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43578.m3u8
+#EXTINF:-1,USA | Bally Sports Sun
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43584.m3u8
+#EXTINF:-1,USA | Bally Sports Ohio
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43598.m3u8
+#EXTINF:-1,USA | CBS Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36901.m3u8
+#EXTINF:-1,USA | SNY
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/123861.m3u8
+#EXTINF:-1,USA | NESN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43599.m3u8
+#EXTINF:-1,USA | NHL Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43590.m3u8
+#EXTINF:-1,USA | Tennis Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36917.m3u8
+#EXTINF:-1,USA | The Golf Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36910.m3u8
+#EXTINF:-1,USA | NFL Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36908.m3u8
+#EXTINF:-1,USA | NBA TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36906.m3u8
+#EXTINF:-1,USA | Oxygen
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154928.m3u8
+#EXTINF:-1,USA | Freeform
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154907.m3u8
+#EXTINF:-1,USA | AxsTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/155919.m3u8
+#EXTINF:-1,GT | Guatevisión
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68326.m3u8
+#EXTINF:-1,GT | Canal Antigua
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68324.m3u8
+#EXTINF:-1,GT | Canal 7
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68323.m3u8
+#EXTINF:-1,GT | Canal 3
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68322.m3u8
+#EXTINF:-1,GT | Canal 11
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67515.m3u8
+#EXTINF:-1,PR | Punto 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68335.m3u8
+#EXTINF:-1,USA | WOBI
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/156449.m3u8
+#EXTINF:-1,USA | Hallmark Movies & Mysteries
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154968.m3u8
+#EXTINF:-1,USA | Paramount
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36773.m3u8
+#EXTINF:-1,USA | Showtime Extreme
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36930.m3u8
+#EXTINF:-1,USA | Showtime Family Zone
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36831.m3u8
+#EXTINF:-1,USA | Showtime Next
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36932.m3u8
+#EXTINF:-1,USA | Showtime West
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154953.m3u8
+#EXTINF:-1,USA | Showtime Women
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154959.m3u8
+#EXTINF:-1,USA | Starz Cinema
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36844.m3u8
+#EXTINF:-1,USA | Starz Encore
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36929.m3u8
+#EXTINF:-1,USA | Disney Junior
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36741.m3u8
+#EXTINF:-1,USA | Disney Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162335.m3u8
+#EXTINF:-1,CAN| GLOBAL TORONTO HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68236.m3u8
+#EXTINF:-1,CAN| SPORTS NET 360 HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68244.m3u8
+#EXTINF:-1,CAN| SPORTS NET ONE HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68246.m3u8
+#EXTINF:-1,CAN| TSN 1 HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68258.m3u8
+#EXTINF:-1,CAN| TSN 3 HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68260.m3u8
+#EXTINF:-1,CAN| TSN 4 HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68261.m3u8
+#EXTINF:-1,USA | COZI
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/169101.m3u8
+#EXTINF:-1,PA | RCP TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68312.m3u8
+#EXTINF:-1,PA | Telemetro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68313.m3u8
+#EXTINF:-1,PA | TVMax
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68314.m3u8
+#EXTINF:-1,PA | SERTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68315.m3u8
+#EXTINF:-1,BO | Bolivia TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/165174.m3u8
+#EXTINF:-1,USA | Telemundo 44 Chicago
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/172081.m3u8
+#EXTINF:-1,USA  | Sony Movies
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36772.m3u8
+#EXTINF:-1,PY | Unicanal
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67597.m3u8
+#EXTINF:-1,PY | Canal PRO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67607.m3u8
+#EXTINF:-1,PY | Paravisión
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67602.m3u8
+#EXTINF:-1,PY | C9N
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67608.m3u8
+#EXTINF:-1,USA | Telemundo 52 Los Angeles
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/173164.m3u8
+#EXTINF:-1,USA | MSG
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36918.m3u8
+#EXTINF:-1,USA | Univision 34 Atlanta
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36891.m3u8
+#EXTINF:-1,USA | Univision 66 Chicago
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36892.m3u8
+#EXTINF:-1,USA | Univision 23 Dallas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36893.m3u8
+#EXTINF:-1,USA | Univision 34 Los Angeles
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36872.m3u8
+#EXTINF:-1,USA | Univision 23 Miami
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175245.m3u8
+#EXTINF:-1,USA | Univision 41 New York
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175250.m3u8
+#EXTINF:-1,USA | Univision 33 Phoenix
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175236.m3u8
+#EXTINF:-1,USA | Univision 19 Sacramento
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175238.m3u8
+#EXTINF:-1,USA | Univision 14 San Francisco
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36883.m3u8
+#EXTINF:-1,USA | UniMas San Antonio
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175254.m3u8
+#EXTINF:-1,USA | UniMas Atlanta
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175255.m3u8
+#EXTINF:-1,USA | UniMas Miami
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175256.m3u8
+#EXTINF:-1,UNI | UniMas Phoenix Az
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175259.m3u8
+#EXTINF:-1,USA | UniMas Sacramento
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175260.m3u8
+#EXTINF:-1,UNI | UniMas Cleveland
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175261.m3u8
+#EXTINF:-1,USA | UniMas Salt Lake
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175262.m3u8
+#EXTINF:-1,USA | UniMas Las Vegas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175265.m3u8
+#EXTINF:-1,USA | UniMas Austin
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175266.m3u8
+#EXTINF:-1,USA | UniMas Houston
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175270.m3u8
+#EXTINF:-1,USA | UniMas Los Angeles
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175271.m3u8
+#EXTINF:-1,USA | UniMas New York
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175272.m3u8
+#EXTINF:-1,GALAVISION CLEVELAND
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175279.m3u8
+#EXTINF:-1,GALAVISION FRESNO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175282.m3u8
+#EXTINF:-1,GALAVISION LA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175284.m3u8
+#EXTINF:-1,GALAVISION LAS VEGAS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175285.m3u8
+#EXTINF:-1,GALAVISION MIAMI
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175286.m3u8
+#EXTINF:-1,GALAVISION NY
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175287.m3u8
+#EXTINF:-1,GALAVISION PHILADELPHIA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175288.m3u8
+#EXTINF:-1,GALAVISION PHOENIX
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175289.m3u8
+#EXTINF:-1,GALAVISION RALEIGH
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175290.m3u8
+#EXTINF:-1,GALAVISION SACRAMENTO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175291.m3u8
+#EXTINF:-1,GALAVISION SALT LAKE
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175292.m3u8
+#EXTINF:-1,GALAVISION SAN ANTONIO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175293.m3u8
+#EXTINF:-1,GALAVISION SAN FRANCISCO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175294.m3u8
+#EXTINF:-1,USA | Bally Sports SouthWest
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43583.m3u8
+#EXTINF:-1,USA | Marquee Sports Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162379.m3u8
+#EXTINF:-1,USA | BIG NETWORK
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/177555.m3u8
+#EXTINF:-1,RCN HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181558.m3u8
+#EXTINF:-1,Telecafe
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181563.m3u8
+#EXTINF:-1,MX | FUTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181977.m3u8
+#EXTINF:-1,USA | Telemundo 48 El Paso
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/187029.m3u8
+#EXTINF:-1,Telemicro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181627.m3u8
+#EXTINF:-1,CU | MegaTV Miami
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/200740.m3u8
+#EXTINF:-1,CU | Cubavision
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181959.m3u8
+#EXTINF:-1,EC | OromarTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67623.m3u8
+#EXTINF:-1,CU | Tele Marti
+#EXTVLCOPT:iptv-checker-audio-only=1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181960.m3u8
+#EXTINF:-1,CU | Tele Rebelde
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181962.m3u8
+#EXTINF:-1,USA | One American News Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162396.m3u8
+#EXTINF:-1,USA | NBC San Antonio
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32027.m3u8
+#EXTINF:-1,USA | FOX News Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154936.m3u8
+#EXTINF:-1,USA | FOX 8 Winston-Salem (WGHP)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67916.m3u8
+#EXTINF:-1,USA | FOX 5 New York (WNYW)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/132669.m3u8
+#EXTINF:-1,USA | FOX 45 Baltimore (WBFF)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162622.m3u8
+#EXTINF:-1,USA | FOX 40 Sacramento (KTXL)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162738.m3u8
+#EXTINF:-1,USA | FOX 4 Dallas-Fort Worth (KDFW)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162625.m3u8
+#EXTINF:-1,USA | Fox Nashville (WZTV)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162770.m3u8
+#EXTINF:-1,USA | FOX 32 Chicago (WFLD)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162616.m3u8
+#EXTINF:-1,USA | FOX 31 Denver (KDVR)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162617.m3u8
+#EXTINF:-1,USA | FOX 29 Philadelphia (WTXF)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162621.m3u8
+#EXTINF:-1,USA | FOX 29 Buffalo (WUTV)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162777.m3u8
+#EXTINF:-1,USA | FOX 26 Houston (KRIV)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67973.m3u8
+#EXTINF:-1,USA | FOX 25 OKLAHOMA (KOKH)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162614.m3u8
+#EXTINF:-1,USA | FOX 24 Charleston (WTAT)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162796.m3u8
+#EXTINF:-1,USA | FOX 2 St. Louis (KTVI)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162787.m3u8
+#EXTINF:-1,USA | FOX 2 San Francisco (KTVU)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162792.m3u8
+#EXTINF:-1,USA | FOX 2 Detroit (WJBK)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162727.m3u8
+#EXTINF:-1,USA | FOX 19 Cincinnati (WXIX)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162633.m3u8
+#EXTINF:-1,USA | FOX 13 Seattle (KCPQ)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162627.m3u8
+#EXTINF:-1,USA | FOX 13 Salt Lake City (KSTU)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162763.m3u8
+#EXTINF:-1,USA | FOX 13 Albuquerque (KRQEDT2)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162747.m3u8
+#EXTINF:-1,USA | FOX 12 Portland (KPTV)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162734.m3u8
+#EXTINF:-1,USA | FOX 11 Tucson (KMSB)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162742.m3u8
+#EXTINF:-1,USA | FOX 11 Los Angeles (KTTV)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162619.m3u8
+#EXTINF:-1,USA | FOX 10 Phoenix (KSAZ)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162626.m3u8
+#EXTINF:-1,USA | Fox 10 Phoenix (KSAZ)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162820.m3u8
+#EXTINF:-1,USA | CW 69 Atlanta (WUPA)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162835.m3u8
+#EXTINF:-1,USA | CW 57 Philadelphia (WPSG)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162823.m3u8
+#EXTINF:-1,USA | CW 57 Philadelphia (WPSG)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162716.m3u8
+#EXTINF:-1,USA | CW 50 Detroit (WKBD)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162715.m3u8
+#EXTINF:-1,USA | CW 34 Oklahoma City (KOCB)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162718.m3u8
+#EXTINF:-1,USA | CW 33 Las Vegas (KVCW)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162719.m3u8
+#EXTINF:-1,USA | CW 31 Sacramento (KMAX)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162739.m3u8
+#EXTINF:-1,USA | CW 23 Minneapolis (WUCW)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162714.m3u8
+#EXTINF:-1,USA | CW 22 Raleigh (WLFL)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162802.m3u8
+#EXTINF:-1,USA | CW 21 Birmingham (WTTO)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162784.m3u8
+#EXTINF:-1,USA | CW 19 Pittsburgh (WPCW)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162815.m3u8
+#EXTINF:-1,USA | CBS 8 San Diego (KFMB)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67902.m3u8
+#EXTINF:-1,USA | CBS 5 San Antonio (KENS)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31292.m3u8
+#EXTINF:-1,USA | CBS 5 Honolulu (KGMB)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/163298.m3u8
+#EXTINF:-1,USA | CBS 4 Miami (WFOR)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43007.m3u8
+#EXTINF:-1,USA | CBS 4 Denver (KCNC)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67923.m3u8
+#EXTINF:-1,USA | CBS 4 Buffalo (WIVB)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67917.m3u8
+#EXTINF:-1,USA | CBS 2 Winston-Salem (WFMY)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67915.m3u8
+#EXTINF:-1,USA | CBS 2 New York (WCBS)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43008.m3u8
+#EXTINF:-1,USA | CBS 2 New York (WCBS)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36876.m3u8
+#EXTINF:-1,USA | CBS 13 Baltimore (WJZ)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67972.m3u8
+#EXTINF:-1,USA | CBS 12 Cincinnati (WKRC)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67924.m3u8
+#EXTINF:-1,USA | ABC 7 New York (WABC)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/43011.m3u8
+#EXTINF:-1,USA | ABC 4 Honolulu (KITV)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67900.m3u8
+#EXTINF:-1,ES | La 1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181378.m3u8
+#EXTINF:-1,ES | La 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181379.m3u8
+#EXTINF:-1,ES | La Sexta
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181383.m3u8
+#EXTINF:-1,ES | Telecinco
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181382.m3u8
+#EXTINF:-1,ES | Telemadrid
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181426.m3u8
+#EXTINF:-1,CO | NTN24
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67084.m3u8
+#EXTINF:-1,CO | Win Sports +
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/157062.m3u8
+#EXTINF:-1,USA | TyC Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162289.m3u8
+#EXTINF:-1,MX | Aym Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31143.m3u8
+#EXTINF:-1,MX | Adrenalina TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31126.m3u8
+#EXTINF:-1,CR | Tigo Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181978.m3u8
+#EXTINF:-1,MX | Claro Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31317.m3u8
+#EXTINF:-1,MX | ESPN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/37182.m3u8
+#EXTINF:-1,MX | ESPN 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33740.m3u8
+#EXTINF:-1,MX | ESPN 3
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33789.m3u8
+#EXTINF:-1,MX | ESPN 4
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33507.m3u8
+#EXTINF:-1,MX | Fox Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34063.m3u8
+#EXTINF:-1,MX | Fox Sports 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34064.m3u8
+#EXTINF:-1,MX | Fox Sports 3
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34100.m3u8
+#EXTINF:-1,USA | Fox Deportes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/148823.m3u8
+#EXTINF:-1,MX | TUDN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31129.m3u8
+#EXTINF:-1,MX | TVC Deportes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32483.m3u8
+#EXTINF:-1,PY | Tigo Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68415.m3u8
+#EXTINF:-1,USA | beIN Sports Ñ
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36879.m3u8
+#EXTINF:-1,USA | TDN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/148828.m3u8
+#EXTINF:-1,MX | ADN 40
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67143.m3u8
+#EXTINF:-1,MX | Foro TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32670.m3u8
+#EXTINF:-1,MX | Imagen TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31113.m3u8
+#EXTINF:-1,MX | Milenio TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67163.m3u8
+#EXTINF:-1,MX | Gourmet
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34356.m3u8
+#EXTINF:-1,USA | Travel Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/156758.m3u8
+#EXTINF:-1,MX | Bandamax
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32666.m3u8
+#EXTINF:-1,USA | MTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36775.m3u8
+#EXTINF:-1,USA | MTV 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/121405.m3u8
+#EXTINF:-1,MX | Telehit
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32340.m3u8
+#EXTINF:-1,USA | MTV Classic
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/121406.m3u8
+#EXTINF:-1,USA | VH1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162439.m3u8
+#EXTINF:-1,MX | Baby TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32665.m3u8
+#EXTINF:-1,MX | Disney Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33344.m3u8
+#EXTINF:-1,MX | Disney JR
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33369.m3u8
+#EXTINF:-1,MX | Nick
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31119.m3u8
+#EXTINF:-1,CL | 24 Horas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67569.m3u8
+#EXTINF:-1,USA | ESPN SEC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36755.m3u8
+#EXTINF:-1,PE | America TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67584.m3u8
+#EXTINF:-1,PE | TV Peru
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181636.m3u8
+#EXTINF:-1,PE | Exitosa
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181624.m3u8
+#EXTINF:-1,PE | Movistar Deportes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67582.m3u8
+#EXTINF:-1,PE | Peru Magico
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/181628.m3u8
+#EXTINF:-1,PE | Willax
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/130756.m3u8
+#EXTINF:-1,CO/ RCN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/206554.m3u8
+#EXTINF:-1,NC / Canal 6
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/206747.m3u8
+#EXTINF:-1,NC / Canal 10
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/206748.m3u8
+#EXTINF:-1,NC / Canal 13
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/206749.m3u8
+#EXTINF:-1,USA | Telemundo Orlando
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/210035.m3u8
+#EXTINF:-1,USA | CBS (KCAL)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/219564.m3u8
+#EXTINF:-1,USA | NatGeo Wild
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/36735.m3u8
+#EXTINF:-1,MX | Animal Planet
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32513.m3u8
+#EXTINF:-1,MX | Film & Arts
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/164677.m3u8
+#EXTINF:-1,MX | History 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34417.m3u8
+#EXTINF:-1,USA | NatGeo Mundo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162277.m3u8
+#EXTINF:-1,URU | VTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/220798.m3u8
+#EXTINF:-1,MX | Rai
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/222375.m3u8
+#EXTINF:-1,MX | Zona TUDN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/222791.m3u8
+#EXTINF:-1,CO | Trece
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/223129.m3u8
+#EXTINF:-1,CO | Telecafe
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/223187.m3u8
+#EXTINF:-1,CO | Cablenoticias
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/223211.m3u8
+#EXTINF:-1,MX | Mariavision
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/223874.m3u8
+#EXTINF:-1,MX | EWTN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/223875.m3u8
+#EXTINF:-1,MX | NBA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/223876.m3u8
+#EXTINF:-1,PE | Exitosa TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/224111.m3u8
+#EXTINF:-1,HN | Canal 5
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/224750.m3u8
+#EXTINF:-1,Los Simpsons 1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/224986.m3u8
+#EXTINF:-1,Los Simpsons 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/225009.m3u8
+#EXTINF:-1,USA | Telemundo Phoenix
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/225939.m3u8
+#EXTINF:-1,USA | Telemundo Sacramento
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/225940.m3u8
+#EXTINF:-1,USA | Telemundo New York
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/225958.m3u8
+#EXTINF:-1,USA | Telemundo LA (KVEA)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/226596.m3u8
+#EXTINF:-1,MX | PX Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/228600.m3u8
+#EXTINF:-1,SV | Canal 12
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/236603.m3u8
+#EXTINF:-1,ABC/ Salt Lake City
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/236623.m3u8
+#EXTINF:-1,ABC Chicago
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/236856.m3u8
+#EXTINF:-1,CBS Chicago
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/236857.m3u8
+#EXTINF:-1,USA  | KTLA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/237430.m3u8
+#EXTINF:-1,USA | ABC 7 Los Angeles
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/237542.m3u8
+#EXTINF:-1,USA | Spectrum Sports Lakers
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/237746.m3u8
+#EXTINF:-1,HN | Telemetro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/247375.m3u8
+#EXTINF:-1,SV | Canal 10
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/247382.m3u8
+#EXTINF:-1,SV | Tigo Sport
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/247387.m3u8
+#EXTINF:-1,Futv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/247548.m3u8
+#EXTINF:-1,RD | Microvision
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/247549.m3u8
+#EXTINF:-1,PE/ Latina
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/250136.m3u8
+#EXTINF:-1,USA | F1 DAZN Esp
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/260357.m3u8
+#EXTINF:-1,USA | MavTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/260715.m3u8
+#EXTINF:-1,Canal 9
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/277786.m3u8
+#EXTINF:-1,HN | Azteca Honduras
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278057.m3u8
+#EXTINF:-1,HN | Canal 11
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278074.m3u8
+#EXTINF:-1,CDN 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278139.m3u8
+#EXTINF:-1,Cinevision Canal 19
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278145.m3u8
+#EXTINF:-1,RNN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278147.m3u8
+#EXTINF:-1,Telefuturo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278167.m3u8
+#EXTINF:-1,Tele Antillas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278184.m3u8
+#EXTINF:-1,Movistar La Liga
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278185.m3u8
+#EXTINF:-1,Movistar Liga de Campeones
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278191.m3u8
+#EXTINF:-1,DAZN 1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278229.m3u8
+#EXTINF:-1,CL | Chilevision
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278234.m3u8
+#EXTINF:-1,DAZN 3
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278238.m3u8
+#EXTINF:-1,Toros
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278275.m3u8
+#EXTINF:-1,DAZN La Liga 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278285.m3u8
+#EXTINF:-1,DAZN F1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278286.m3u8
+#EXTINF:-1,URU | Teledoce
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278636.m3u8
+#EXTINF:-1,URU | La Red
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278750.m3u8
+#EXTINF:-1,VE | IVC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/278991.m3u8
+#EXTINF:-1,VE | Venevision +
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/279047.m3u8
+#EXTINF:-1,VE | Vale tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/279058.m3u8
+#EXTINF:-1,HN | HCH
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/279478.m3u8
+#EXTINF:-1,MX | LAS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/280674.m3u8
+#EXTINF:-1,PE | ATV +
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/282987.m3u8
+#EXTINF:-1,USA | Salt Lake
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/284198.m3u8
+#EXTINF:-1,MX | Nick Jr
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/284839.m3u8
+#EXTINF:-1,HN | Telecadena
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/291769.m3u8
+#EXTINF:-1,HN | TSI
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/291770.m3u8
+#EXTINF:-1,AR | ESPN 3
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/292587.m3u8
+#EXTINF:-1,AR | ESPN 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/292588.m3u8
+#EXTINF:-1,MX | DreamWorks
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/292589.m3u8
+#EXTINF:-1,NHL Tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/220588.m3u8
+#EXTINF:-1,USA | Fox Soccer Plus
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/297629.m3u8
+#EXTINF:-1,PE | Liga max 1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/302661.m3u8
+#EXTINF:-1,Telemundo Washington
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/306610.m3u8
+#EXTINF:-1,MX | El Financiero
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/311547.m3u8
+#EXTINF:-1,N Chicago
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314602.m3u8
+#EXTINF:-1,N Pso TXS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314603.m3u8
+#EXTINF:-1,N 10 BTN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314605.m3u8
+#EXTINF:-1,N PHIA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314607.m3u8
+#EXTINF:-1,N 24 FSNO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314608.m3u8
+#EXTINF:-1,N 4 LGLS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314609.m3u8
+#EXTINF:-1,Monumental SPRTS WTN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314610.m3u8
+#EXTINF:-1,N SPRTS PHIA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314611.m3u8
+#EXTINF:-1,N SPRTS CHGO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314612.m3u8
+#EXTINF:-1,N SPRT CFNA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314613.m3u8
+#EXTINF:-1,N VRSO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314614.m3u8
+#EXTINF:-1,N 4 LNGLS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314615.m3u8
+#EXTINF:-1,C BC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314617.m3u8
+#EXTINF:-1,N CSN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314618.m3u8
+#EXTINF:-1,N NRK
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314620.m3u8
+#EXTINF:-1,N SPRT BTON
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314621.m3u8
+#EXTINF:-1,HGTV USA
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/318923.m3u8
+#EXTINF:-1,Starz MAX
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/318927.m3u8
+#EXTINF:-1,TLC Mx
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/318932.m3u8
+#EXTINF:-1,Caracol Internacional
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/321151.m3u8
+#EXTINF:-1,MX | A mas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/182831.m3u8
+#EXTINF:-1,MX | ADN 40
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32511.m3u8
+#EXTINF:-1,MX | AZ Cinema
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/187974.m3u8
+#EXTINF:-1,MX | AZ Mundo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/187975.m3u8
+#EXTINF:-1,MX | Azteca 7
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32664.m3u8
+#EXTINF:-1,MX | Azteca 7 MTY
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/169100.m3u8
+#EXTINF:-1,MX | Azteca Corazon
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/79766.m3u8
+#EXTINF:-1,MX | Azteca Uno
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32663.m3u8
+#EXTINF:-1,MX | Azteca Uno -1hra
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/182832.m3u8
+#EXTINF:-1,MX | Canal 14
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/182823.m3u8
+#EXTINF:-1,Mx | Canal 22
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/246105.m3u8
+#EXTINF:-1,MX | Canal 4 GDL
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303118.m3u8
+#EXTINF:-1,MX | Canal 5
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32669.m3u8
+#EXTINF:-1,MX | Canal de las Estrellas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/39058.m3u8
+#EXTINF:-1,MX | Canal de las Estrellas -1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/193880.m3u8
+#EXTINF:-1,MX | Canal de las Estrellas -2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33837.m3u8
+#EXTINF:-1,MX | Canal de las Estrellas MTY
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/169103.m3u8
+#EXTINF:-1,MX | Canal Once
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32668.m3u8
+#EXTINF:-1,MX | El canal del Congreso
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/246053.m3u8
+#EXTINF:-1,MX | Estrella TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/275080.m3u8
+#EXTINF:-1,MX | Excelsior
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/183164.m3u8
+#EXTINF:-1,MX | ForoTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162268.m3u8
+#EXTINF:-1,MX | GalaTV (NU9VE)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34158.m3u8
+#EXTINF:-1,MX | Heraldo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/182829.m3u8
+#EXTINF:-1,MX | Imagen Television
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/156340.m3u8
+#EXTINF:-1,MX | MegaNoticias
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/245706.m3u8
+#EXTINF:-1,MX | Mexiquense
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/182820.m3u8
+#EXTINF:-1,MX | MTY Canal 4 Televisa
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/167858.m3u8
+#EXTINF:-1,MX | MTY Canal 8 Televisa
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31291.m3u8
+#EXTINF:-1,MX | Multimedios Juarez
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/207114.m3u8
+#EXTINF:-1,MX | Multimedios MTY
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31843.m3u8
+#EXTINF:-1,MX | MVS Television
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/182818.m3u8
+#EXTINF:-1,MX | Teleformula
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/193516.m3u8
+#EXTINF:-1,MX | Televisa MTY
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/207356.m3u8
+#EXTINF:-1,MX | Televisa Puebla
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/207376.m3u8
+#EXTINF:-1,MX | tlnovelas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/39060.m3u8
+#EXTINF:-1,MX | TVP Culiacan
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/207502.m3u8
+#EXTINF:-1,MX | TVP Mazatlan
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/279907.m3u8
+#EXTINF:-1,MX | Unimas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/130762.m3u8
+#EXTINF:-1,D Theater
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322755.m3u8
+#EXTINF:-1,D World
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322764.m3u8
+#EXTINF:-1,D Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322773.m3u8
+#EXTINF:-1,D ID
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322779.m3u8
+#EXTINF:-1,D Family
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322786.m3u8
+#EXTINF:-1,USA | Boomerang
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322787.m3u8
+#EXTINF:-1,D Life
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322788.m3u8
+#EXTINF:-1,D Science
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322802.m3u8
+#EXTINF:-1,Food-Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322804.m3u8
+#EXTINF:-1,D Familia
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322809.m3u8
+#EXTINF:-1,Sports-TNT
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322812.m3u8
+#EXTINF:-1,D Science Mx
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322813.m3u8
+#EXTINF:-1,D Turbo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322816.m3u8
+#EXTINF:-1,D H&H
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322817.m3u8
+#EXTINF:-1,D Channel Mx
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322818.m3u8
+#EXTINF:-1,D ID Mx
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322819.m3u8
+#EXTINF:-1,MX | Cartoon Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322824.m3u8
+#EXTINF:-1,MX | Cartoonito
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322826.m3u8
+#EXTINF:-1,Tru Tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322830.m3u8
+#EXTINF:-1,MX | Tooncast
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322831.m3u8
+#EXTINF:-1,TLC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322832.m3u8
+#EXTINF:-1,HLN Us
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322835.m3u8
+#EXTINF:-1,CNN Esp Mx
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322836.m3u8
+#EXTINF:-1,CNN Mx
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322837.m3u8
+#EXTINF:-1,MX | Azteca Deportes Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/323111.m3u8
+#EXTINF:-1,MX | Azteca Deportes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/323112.m3u8
+#EXTINF:-1,MundoToro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/323697.m3u8
+#EXTINF:-1,Sky Sp F1
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/335439.m3u8
+#EXTINF:-1,ILE Portes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/335440.m3u8
 #EXTINF:-1,Univision East
-https://dnslivetv.online:443/7336/1234/1289821
-#EXTINF:-1,Univision West
-https://dnslivetv.online:443/7336/1234/1289823
-#EXTINF:-1,Unvision 23 Dallas (KUVN)
-https://dnslivetv.online:443/7336/1234/1289824
-#EXTINF:-1,Unvision 46 Los Angeles (KFTR)
-https://dnslivetv.online:443/7336/1234/1289825
-#EXTINF:-1,ADN 40
-https://dnslivetv.online:443/7336/1234/591671
-#EXTINF:-1,Univision 46 Los Angeles (KFTR)
-http://redworld.pro:8880//live/74200207/u7SmdAbt83yf/490427.ts
-#EXTINF:-1,NADA 23 Dallas (KUVN)
-http://restreamlatam.online:80/play/T77WLlZMAVIfHw-KjmEXO0hzpHy1zvicgpWL1nxy1wc-B2784zOTPzPaeGpkhDrS/m3u8
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/335441.m3u8
+#EXTINF:-1,Univision 41 San Antonio
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/335444.m3u8
+#EXTINF:-1,MX | DW
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/340635.m3u8
+#EXTINF:-1,US | Cinemax East
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/344005.m3u8
+#EXTINF:-1,CNN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/344006.m3u8
+#EXTINF:-1,ca | HBO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/344047.m3u8
+#EXTINF:-1,CH | TVN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/344066.m3u8
+#EXTINF:-1,Pa | Tvn
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/344067.m3u8
+#EXTINF:-1,USA | UP TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162437.m3u8
+#EXTINF:-1,HGTV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322803.m3u8
+#EXTINF:-1,MX | A&E
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31137.m3u8
+#EXTINF:-1,MX | A3 Series
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/39061.m3u8
+#EXTINF:-1,MX | AMC
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31133.m3u8
+#EXTINF:-1,MX | Antena 3 Internacional
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/193515.m3u8
+#EXTINF:-1,MX | AXN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32662.m3u8
+#EXTINF:-1,MX | bitMe
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31148.m3u8
+#EXTINF:-1,MX | Comedy Central
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31318.m3u8
+#EXTINF:-1,MX | Distrito Comedia
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33420.m3u8
+#EXTINF:-1,MX | E Entertainment
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33506.m3u8
+#EXTINF:-1,MX | FX
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34101.m3u8
+#EXTINF:-1,MX | Hola Tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/184958.m3u8
+#EXTINF:-1,MX | LifeTime
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31115.m3u8
+#EXTINF:-1,MX | Sony
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32339.m3u8
+#EXTINF:-1,MX | Star Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33980.m3u8
+#EXTINF:-1,MX | Usa Network Latino
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31125.m3u8
+#EXTINF:-1,MX | Telefe
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/193517.m3u8
+#EXTINF:-1,MX | TL novelas
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31132.m3u8
+#EXTINF:-1,MX | Unicable
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31138.m3u8
+#EXTINF:-1,TNT-NVELAS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/344065.m3u8
+#EXTINF:-1,Mx | Adult Swim
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322829.m3u8
+#EXTINF:-1,USA | Estrella TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/183979.m3u8
+#EXTINF:-1,USA | Pasiones
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162280.m3u8
+#EXTINF:-1,USA | Universo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/154944.m3u8
+#EXTINF:-1,Cine-Max
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322780.m3u8
+#EXTINF:-1,MX | A3 Cine
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/176299.m3u8
+#EXTINF:-1,MX | Cinecanal
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33034.m3u8
+#EXTINF:-1,Mx | De Pelicula
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/175220.m3u8
+#EXTINF:-1,MX | DPelicula Plus
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/33469.m3u8
+#EXTINF:-1,MX | Golden
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34164.m3u8
+#EXTINF:-1,MX | Golden Edge
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31463.m3u8
+#EXTINF:-1,MX | Golden Plus
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34221.m3u8
+#EXTINF:-1,MX | Golden Premier
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34308.m3u8
+#EXTINF:-1,MX | Golden Premier 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31587.m3u8
+#EXTINF:-1,Mx | HBO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322820.m3u8
+#EXTINF:-1,MX | HBO 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/34432.m3u8
+#EXTINF:-1,MX | HBO Family
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/39062.m3u8
+#EXTINF:-1,MX | HBO Mundi
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31633.m3u8
+#EXTINF:-1,MX | HBO Plus
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322821.m3u8
+#EXTINF:-1,Mx | HBO POP
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322822.m3u8
+#EXTINF:-1,MX | HBO Signature
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31108.m3u8
+#EXTINF:-1,Mx | Hbo Xtm
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322823.m3u8
+#EXTINF:-1,MX | Space
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31123.m3u8
+#EXTINF:-1,MX | TCM
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/31128.m3u8
+#EXTINF:-1,TNT Series
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322827.m3u8
+#EXTINF:-1,Mx | Universal Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314047.m3u8
+#EXTINF:-1,MX | Universal Cinema
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/290135.m3u8
+#EXTINF:-1,MX | Universal Comedy
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314046.m3u8
+#EXTINF:-1,MX | Warner
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/32510.m3u8
+#EXTINF:-1,TNT Mex
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/322828.m3u8
+#EXTINF:-1,ULTRA Cine HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303744.m3u8
+#EXTINF:-1,ULTRA Clasico HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303743.m3u8
+#EXTINF:-1,ULTRA Familia HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303706.m3u8
+#EXTINF:-1,ULTRA Kidz
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303712.m3u8
+#EXTINF:-1,ULTRA Macho HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303727.m3u8
+#EXTINF:-1,ULTRA Mex HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/303717.m3u8
+#EXTINF:-1,USA | Showtime Extreme
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67302.m3u8
+#EXTINF:-1,USA | Starz Comedy
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/67313.m3u8
+#EXTINF:-1,US. CNN
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350791.m3u8
+#EXTINF:-1,D-Espanol
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350792.m3u8
+#EXTINF:-1,US | Food--Network
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350793.m3u8
+#EXTINF:-1,USA | Hbo--Zone
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350795.m3u8
+#EXTINF:-1,USA | HBO--East
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350796.m3u8
+#EXTINF:-1,US | West--HBO
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350798.m3u8
+#EXTINF:-1,US | TCM Turner Movies
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350800.m3u8
+#EXTINF:-1,USA | Tnt Movie-S
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/350801.m3u8
+#EXTINF:-1,USA | Bloomberg
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/351864.m3u8
+#EXTINF:-1,Bet Her
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353089.m3u8
+#EXTINF:-1,ABC WEWS CLEVELAND
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353285.m3u8
+#EXTINF:-1,FOX 8 WJW
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353286.m3u8
+#EXTINF:-1,NBC WKYC 3
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353287.m3u8
+#EXTINF:-1,CBS WOIO 19
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353288.m3u8
+#EXTINF:-1,NBC KSNV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353289.m3u8
+#EXTINF:-1,CBS KLAS
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353290.m3u8
+#EXTINF:-1,ABC KTNV 13
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353291.m3u8
+#EXTINF:-1,FOX KVVU 5
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/353292.m3u8
+#EXTINF:-1,18+ | Brunnet
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/169758.m3u8
+#EXTINF:-1,+18 | Milf
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/169757.m3u8
+#EXTINF:-1,USA | Baby First
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/162310.m3u8
+#EXTINF:-1,USA | TNT Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/368497.m3u8
+#EXTINF:-1,Univision El Paso
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/369104.m3u8
+#EXTINF:-1,MX | Adult Swim
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/382510.m3u8
+#EXTINF:-1,Euro Sport
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314680.m3u8
+#EXTINF:-1,Euro Sport 2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/314679.m3u8
+#EXTINF:-1,24/7 Bob Esponja2
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/391825.m3u8
+#EXTINF:-1,MeTv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/392379.m3u8
+#EXTINF:-1,MX | History Channel
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/393587.m3u8
+#EXTINF:-1,MX | MTV Hits
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/393607.m3u8
+#EXTINF:-1,MX | Nickelodeon
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/393903.m3u8
+#EXTINF:-1,Space City Home Net
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/394658.m3u8
+#EXTINF:-1,HON| TVC Deportes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/397000.m3u8
+#EXTINF:-1,USA | Golf Channel Esp
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/255701.m3u8
+#EXTINF:-1,Bally Sports Florida
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403167.m3u8
+#EXTINF:-1,Bally Sports Detroit Extra
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403168.m3u8
+#EXTINF:-1,Bally Sports Midwest
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403169.m3u8
+#EXTINF:-1,Bally Sports Ohio Extra
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403170.m3u8
+#EXTINF:-1,Bally Sports Oklahoma
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403172.m3u8
+#EXTINF:-1,Bally Sports West
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403173.m3u8
+#EXTINF:-1,Bally Sports Wisconsin
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403174.m3u8
+#EXTINF:-1,Bally Sports Southwest+
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/403175.m3u8
+#EXTINF:-1,24/7 Paw Patrol ENG
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/406754.m3u8
+#EXTINF:-1,24/7 Los Picapiedra
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/406758.m3u8
+#EXTINF:-1,CO | Caracol
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/408243.m3u8
+#EXTINF:-1,MX | Hi Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/409369.m3u8
+#EXTINF:-1,USA | FOX (WTTG)
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/356844.m3u8
+#EXTINF:-1,Telemundo San Antonio
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/422305.m3u8
+#EXTINF:-1,Mx | DHE
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/436021.m3u8
+#EXTINF:-1,Mx | Fuel Tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/436022.m3u8
+#EXTINF:-1,Mx | Star Tve
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/436023.m3u8
+#EXTINF:-1,MX | Baby First
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/436024.m3u8
+#EXTINF:-1,RFD Tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/439952.m3u8
+#EXTINF:-1,MX | Duck tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446273.m3u8
+#EXTINF:-1,MX | Plim Plim
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446274.m3u8
+#EXTINF:-1,MX | Kidoo
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446275.m3u8
+#EXTINF:-1,Mx | Titan TV
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446277.m3u8
+#EXTINF:-1,Mx | ITV Deportes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446278.m3u8
+#EXTINF:-1,Mx | Torole
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446279.m3u8
+#EXTINF:-1,Mx | Showbusiness
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446280.m3u8
+#EXTINF:-1,Mx | Kanal de Drama
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446281.m3u8
+#EXTINF:-1,Mx | Pasiones
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446282.m3u8
+#EXTINF:-1,Mx | Rai news 24
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/446283.m3u8
+#EXTINF:-1,NewsMax
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/459305.m3u8
+#EXTINF:-1,FDF
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/460073.m3u8
+#EXTINF:-1,PANAMA| CABLE ONDA SPORTS HD
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/68317.m3u8
+#EXTINF:-1,MX | Golden Multiplex
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/368719.m3u8
+#EXTINF:-1,CO | Win Sports
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/475496.m3u8
+#EXTINF:-1,Fanduel Tv
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/497065.m3u8
+#EXTINF:-1,Epn Dptes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/498347.m3u8
+#EXTINF:-1,Fox One
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/523654.m3u8
+#EXTINF:-1,24/7 Phineas y Ferb
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/525886.m3u8
+#EXTINF:-1,One Toro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/533317.m3u8
+#EXTINF:-1,MX | Nat Geographic
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/535605.m3u8
+#EXTINF:-1,Mx | Estudio Universal
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/549991.m3u8
+#EXTINF:-1,NFL Net
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/550728.m3u8
+#EXTINF:-1,Mx | CaribeTeve
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/554558.m3u8
+#EXTINF:-1,40 y 20
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556216.m3u8
+#EXTINF:-1,Cine de Oro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556225.m3u8
+#EXTINF:-1,Cine Retro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556226.m3u8
+#EXTINF:-1,Como Dice el Dicho
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556230.m3u8
+#EXTINF:-1,Guerra de Chistes
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556242.m3u8
+#EXTINF:-1,Nosotros los Guapos
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556260.m3u8
+#EXTINF:-1,Risas de Oro
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556267.m3u8
+#EXTINF:-1,Una Familia de Diez
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556278.m3u8
+#EXTINF:-1,Vecinos
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556280.m3u8
+#EXTINF:-1,La Granja VIP 24/7
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556469.m3u8
+#EXTINF:-1,La Granja VIP 2 24/7
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/556615.m3u8
+#EXTINF:-1,MX | Fox One Plus
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/561497.m3u8
+#EXTINF:-1,Spn
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/563202.m3u8
+#EXTINF:-1,24/7 Los Simpsons
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/297623.m3u8
+#EXTINF:-1,24/7 Maria de Todos los Angeles
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/297625.m3u8
+#EXTINF:-1,24/7 Vecinos
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/297626.m3u8
+#EXTINF:-1,24/7 La Familia Peluche
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/299081.m3u8
+#EXTINF:-1,24/7 Bob Esponja
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/299082.m3u8
+#EXTINF:-1,24/7 El Chavo del ocho
+http://play.pelusa.online:8080/live/Teamfam/GgBdnUmSUP/299083.m3u8
+
 
 
